@@ -1,0 +1,3855 @@
+﻿Source,Target,Type,Weight
+﻿喬峰 蕭峰,虛竹,Undirected,60
+﻿喬峰 蕭峰,段譽,Undirected,80
+﻿喬峰 蕭峰,阿朱,Undirected,169
+﻿喬峰 蕭峰,阿紫,Undirected,276
+﻿喬峰 蕭峰,王語嫣,Undirected,5
+﻿喬峰 蕭峰,木婉清,Undirected,12
+﻿喬峰 蕭峰,段正淳 鎮南王,Undirected,79
+﻿喬峰 蕭峰,范驊 范司馬,Undirected,5
+﻿喬峰 蕭峰,巴天石 司空,Undirected,22
+﻿喬峰 蕭峰,華赫艮 華司徒,Undirected,5
+﻿喬峰 蕭峰,褚萬里,Undirected,5
+﻿喬峰 蕭峰,古篤誠,Undirected,1
+﻿喬峰 蕭峰,傅思歸,Undirected,3
+﻿喬峰 蕭峰,朱丹臣,Undirected,13
+﻿喬峰 蕭峰,秦紅棉 修羅刀 幽谷客,Undirected,12
+﻿喬峰 蕭峰,阮星竹,Undirected,27
+﻿喬峰 蕭峰,慕容複 南慕容,Undirected,47
+﻿喬峰 蕭峰,慕容博,Undirected,19
+﻿喬峰 蕭峰,鄧百川,Undirected,4
+﻿喬峰 蕭峰,公冶乾,Undirected,3
+﻿喬峰 蕭峰,包不同,Undirected,6
+﻿喬峰 蕭峰,風波惡,Undirected,2
+﻿喬峰 蕭峰,鳩摩智,Undirected,8
+﻿喬峰 蕭峰,蕭遠山,Undirected,21
+﻿喬峰 蕭峰,天山童姥,Undirected,1
+﻿喬峰 蕭峰,丁春秋 星宿老怪 星宿派掌門人,Undirected,27
+﻿喬峰 蕭峰,段延慶 惡貫滿盈,Undirected,13
+﻿喬峰 蕭峰,葉二娘 無惡不作,Undirected,4
+﻿喬峰 蕭峰,岳老三 南海鱷神,Undirected,9
+﻿喬峰 蕭峰,雲中鶴 窮凶極惡,Undirected,5
+﻿喬峰 蕭峰,游坦之 鐵頭人 莊聚賢,Undirected,19
+﻿喬峰 蕭峰,崔百泉 霍先生,Undirected,1
+﻿喬峰 蕭峰,黃眉僧,Undirected,1
+﻿喬峰 蕭峰,枯榮大師 枯榮,Undirected,1
+﻿喬峰 蕭峰,玄慈 帶頭大哥,Undirected,12
+﻿喬峰 蕭峰,玄生,Undirected,2
+﻿喬峰 蕭峰,玄鳴,Undirected,3
+﻿喬峰 蕭峰,玄石,Undirected,2
+﻿喬峰 蕭峰,玄渡 杜老先生,Undirected,9
+﻿喬峰 蕭峰,玄難,Undirected,2
+﻿喬峰 蕭峰,玄寂,Undirected,3
+﻿喬峰 蕭峰,玄痛,Undirected,2
+﻿喬峰 蕭峰,玄滅,Undirected,1
+﻿喬峰 蕭峰,玄苦,Undirected,7
+﻿喬峰 蕭峰,止清,Undirected,1
+﻿喬峰 蕭峰,馬大元,Undirected,8
+﻿喬峰 蕭峰,吳長風,Undirected,2
+﻿喬峰 蕭峰,宋長老,Undirected,1
+﻿喬峰 蕭峰,全冠清,Undirected,9
+﻿喬峰 蕭峰,白世鏡,Undirected,18
+﻿喬峰 蕭峰,徐沖霄 徐長老,Undirected,4
+﻿喬峰 蕭峰,譚公,Undirected,2
+﻿喬峰 蕭峰,譚婆,Undirected,1
+﻿喬峰 蕭峰,智光大師,Undirected,5
+﻿喬峰 蕭峰,喬三槐,Undirected,3
+﻿喬峰 蕭峰,玄苦大師,Undirected,7
+﻿喬峰 蕭峰,游驥,Undirected,1
+﻿喬峰 蕭峰,游駒,Undirected,2
+﻿喬峰 蕭峰,譚青,Undirected,2
+﻿喬峰 蕭峰,梅劍,Undirected,3
+﻿喬峰 蕭峰,蘭劍,Undirected,1
+﻿喬峰 蕭峰,獅吼子,Undirected,1
+﻿喬峰 蕭峰,出塵子,Undirected,8
+﻿喬峰 蕭峰,摘星子,Undirected,15
+﻿喬峰 蕭峰,天狼子,Undirected,1
+﻿喬峰 蕭峰,耶律洪基 耶律基,Undirected,87
+﻿喬峰 蕭峰,室里 室裡,Undirected,16
+﻿喬峰 蕭峰,耶律莫哥,Undirected,6
+﻿喬峰 蕭峰,赫連鐵樹,Undirected,1
+﻿喬峰 蕭峰,王通治,Undirected,3
+﻿喬峰 蕭峰,完顏阿骨打,Undirected,7
+﻿喬峰 蕭峰,和哩布,Undirected,2
+﻿喬峰 蕭峰,許卓誠,Undirected,2
+﻿喬峰 蕭峰,道清大師 道清,Undirected,2
+﻿喬峰 蕭峰,哲羅星,Undirected,2
+﻿喬峰 蕭峰,波羅星,Undirected,2
+﻿喬峰 蕭峰,趙煦,Undirected,2
+﻿喬峰 蕭峰,穆貴妃,Undirected,2
+﻿喬峰 蕭峰,張將軍,Undirected,2
+虛竹,﻿喬峰 蕭峰,Undirected,60
+虛竹,段譽,Undirected,109
+虛竹,阿紫,Undirected,25
+虛竹,王語嫣,Undirected,18
+虛竹,木婉清,Undirected,10
+虛竹,段正淳 鎮南王,Undirected,6
+虛竹,范驊 范司馬,Undirected,1
+虛竹,巴天石 司空,Undirected,12
+虛竹,華赫艮 華司徒,Undirected,1
+虛竹,傅思歸,Undirected,1
+虛竹,朱丹臣,Undirected,12
+虛竹,慕容複 南慕容,Undirected,26
+虛竹,鄧百川,Undirected,12
+虛竹,公冶乾,Undirected,4
+虛竹,包不同,Undirected,14
+虛竹,風波惡,Undirected,5
+虛竹,鳩摩智,Undirected,43
+虛竹,蕭遠山,Undirected,1
+虛竹,無崖子,Undirected,34
+虛竹,天山童姥,Undirected,11
+虛竹,李秋水,Undirected,84
+虛竹,蘇星河,Undirected,64
+虛竹,丁春秋 星宿老怪 星宿派掌門人,Undirected,62
+虛竹,段延慶 惡貫滿盈,Undirected,18
+虛竹,葉二娘 無惡不作,Undirected,17
+虛竹,岳老三 南海鱷神,Undirected,13
+虛竹,雲中鶴 窮凶極惡,Undirected,4
+虛竹,游坦之 鐵頭人 莊聚賢,Undirected,4
+虛竹,左子穆,Undirected,1
+虛竹,枯榮大師 枯榮,Undirected,2
+虛竹,本因大師 本因,Undirected,1
+虛竹,本相,Undirected,1
+虛竹,靈門,Undirected,1
+虛竹,玄悲,Undirected,3
+虛竹,玄慈 帶頭大哥,Undirected,31
+虛竹,玄生,Undirected,3
+虛竹,玄鳴,Undirected,1
+虛竹,玄渡 杜老先生,Undirected,15
+虛竹,玄淨,Undirected,1
+虛竹,玄難,Undirected,39
+虛竹,玄寂,Undirected,17
+虛竹,玄痛,Undirected,8
+虛竹,玄苦,Undirected,2
+虛竹,慧淨,Undirected,1
+虛竹,慧方,Undirected,16
+虛竹,慧鏡,Undirected,4
+虛竹,慧輪,Undirected,5
+虛竹,緣根,Undirected,20
+虛竹,吳長風,Undirected,1
+虛竹,喬三槐,Undirected,1
+虛竹,玄苦大師,Undirected,1
+虛竹,康廣陵,Undirected,9
+虛竹,范百齡,Undirected,1
+虛竹,苟讀,Undirected,1
+虛竹,吳領軍,Undirected,2
+虛竹,薛慕華,Undirected,11
+虛竹,馮阿三,Undirected,2
+虛竹,石清風 石清露,Undirected,1
+虛竹,李傀儡,Undirected,1
+虛竹,余婆,Undirected,10
+虛竹,石嫂,Undirected,8
+虛竹,符敏儀,Undirected,6
+虛竹,程青霜,Undirected,2
+虛竹,珠崖大怪,Undirected,3
+虛竹,珠崖二怪,Undirected,1
+虛竹,梅劍,Undirected,17
+虛竹,蘭劍,Undirected,16
+虛竹,竹劍,Undirected,7
+虛竹,菊劍,Undirected,15
+虛竹,桑土公,Undirected,2
+虛竹,烏老大,Undirected,67
+虛竹,不平道人,Undirected,14
+虛竹,崔綠華,Undirected,7
+虛竹,卓不凡,Undirected,24
+虛竹,安洞主,Undirected,1
+虛竹,區島主,Undirected,1
+虛竹,雲島主,Undirected,1
+虛竹,哈大霸,Undirected,8
+虛竹,耶律洪基 耶律基,Undirected,8
+虛竹,夢姑,Undirected,9
+虛竹,神山上人,Undirected,4
+虛竹,觀心大師 觀心,Undirected,1
+虛竹,道清大師 道清,Undirected,4
+虛竹,覺賢大師 覺賢,Undirected,1
+虛竹,哲羅星,Undirected,6
+虛竹,波羅星,Undirected,5
+虛竹,宗贊,Undirected,1
+段譽,﻿喬峰 蕭峰,Undirected,80
+段譽,虛竹,Undirected,109
+段譽,阿朱,Undirected,114
+段譽,阿紫,Undirected,43
+段譽,阿碧,Undirected,106
+段譽,王語嫣,Undirected,332
+段譽,木婉清,Undirected,246
+段譽,鍾靈,Undirected,1
+段譽,段正明 本塵,Undirected,14
+段譽,段正淳 鎮南王,Undirected,117
+段譽,刀白鳳 鎮南王妃,Undirected,11
+段譽,高昇泰 善闡侯,Undirected,18
+段譽,范驊 范司馬,Undirected,9
+段譽,巴天石 司空,Undirected,101
+段譽,華赫艮 華司徒,Undirected,12
+段譽,褚萬里,Undirected,11
+段譽,古篤誠,Undirected,10
+段譽,傅思歸,Undirected,6
+段譽,朱丹臣,Undirected,83
+段譽,秦紅棉 修羅刀 幽谷客,Undirected,13
+段譽,甘寶寶 鐘夫人,Undirected,50
+段譽,阮星竹,Undirected,8
+段譽,慕容複 南慕容,Undirected,181
+段譽,慕容博,Undirected,7
+段譽,鄧百川,Undirected,14
+段譽,公冶乾,Undirected,4
+段譽,包不同,Undirected,26
+段譽,風波惡,Undirected,11
+段譽,鳩摩智,Undirected,119
+段譽,無名老僧 掃地僧,Undirected,1
+段譽,蕭遠山,Undirected,1
+段譽,天山童姥,Undirected,10
+段譽,李秋水,Undirected,4
+段譽,蘇星河,Undirected,11
+段譽,丁春秋 星宿老怪 星宿派掌門人,Undirected,19
+段譽,段延慶 惡貫滿盈,Undirected,57
+段譽,葉二娘 無惡不作,Undirected,26
+段譽,岳老三 南海鱷神,Undirected,156
+段譽,雲中鶴 窮凶極惡,Undirected,34
+段譽,游坦之 鐵頭人 莊聚賢,Undirected,7
+段譽,柯百歲,Undirected,4
+段譽,崔百泉 霍先生,Undirected,27
+段譽,過彥之,Undirected,11
+段譽,左子穆,Undirected,18
+段譽,辛雙清,Undirected,7
+段譽,龔光傑,Undirected,8
+段譽,容子矩,Undirected,2
+段譽,光豪 干光豪,Undirected,12
+段譽,葛光佩,Undirected,1
+段譽,郁光標 鬱游標,Undirected,16
+段譽,吳光勝,Undirected,5
+段譽,唐光雄,Undirected,2
+段譽,馬五德,Undirected,6
+段譽,司空玄,Undirected,39
+段譽,進喜兒,Undirected,1
+段譽,來福兒,Undirected,8
+段譽,鐘萬仇,Undirected,47
+段譽,孫三霸,Undirected,1
+段譽,黃眉僧,Undirected,25
+段譽,破嗔,Undirected,3
+段譽,枯榮大師 枯榮,Undirected,20
+段譽,本因大師 本因,Undirected,16
+段譽,本觀,Undirected,9
+段譽,本相,Undirected,8
+段譽,本參,Undirected,9
+段譽,玄悲,Undirected,11
+段譽,玄慈 帶頭大哥,Undirected,2
+段譽,玄生,Undirected,1
+段譽,玄鳴,Undirected,1
+段譽,玄渡 杜老先生,Undirected,6
+段譽,玄難,Undirected,5
+段譽,玄寂,Undirected,2
+段譽,慧真,Undirected,4
+段譽,慧觀,Undirected,3
+段譽,止清,Undirected,2
+段譽,瑞婆婆,Undirected,17
+段譽,平婆婆,Undirected,13
+段譽,幽草,Undirected,4
+段譽,王雲蘿 王夫人,Undirected,55
+段譽,小翠,Undirected,1
+段譽,小詩,Undirected,1
+段譽,小茗,Undirected,6
+段譽,賈老者,Undirected,6
+段譽,嚴媽媽,Undirected,12
+段譽,老顧,Undirected,4
+段譽,司馬林,Undirected,2
+段譽,馬大元,Undirected,1
+段譽,蔣舵主,Undirected,1
+段譽,奚山河 奚長老,Undirected,1
+段譽,吳長風,Undirected,1
+段譽,宋長老,Undirected,3
+段譽,全冠清,Undirected,12
+段譽,白世鏡,Undirected,1
+段譽,李春來,Undirected,1
+段譽,劉竹莊,Undirected,1
+段譽,徐沖霄 徐長老,Undirected,2
+段譽,譚公,Undirected,1
+段譽,譚婆,Undirected,3
+段譽,趙錢孫,Undirected,2
+段譽,康廣陵,Undirected,2
+段譽,范百齡,Undirected,1
+段譽,薛慕華,Undirected,1
+段譽,梅劍,Undirected,5
+段譽,蘭劍,Undirected,4
+段譽,竹劍,Undirected,1
+段譽,菊劍,Undirected,2
+段譽,桑土公,Undirected,2
+段譽,烏老大,Undirected,25
+段譽,不平道人,Undirected,9
+段譽,卓不凡,Undirected,4
+段譽,安洞主,Undirected,1
+段譽,耶律洪基 耶律基,Undirected,7
+段譽,夢姑,Undirected,2
+段譽,赫連鐵樹,Undirected,8
+段譽,努兒海,Undirected,5
+段譽,金二哥,Undirected,1
+段譽,道清大師 道清,Undirected,1
+段譽,哲羅星,Undirected,1
+段譽,波羅星,Undirected,1
+段譽,宗贊,Undirected,8
+段譽,太皇太后高氏,Undirected,1
+段譽,趙煦,Undirected,1
+阿朱,﻿喬峰 蕭峰,Undirected,169
+阿朱,段譽,Undirected,114
+阿朱,阿紫,Undirected,48
+阿朱,阿碧,Undirected,130
+阿朱,王語嫣,Undirected,52
+阿朱,木婉清,Undirected,3
+阿朱,段正淳 鎮南王,Undirected,30
+阿朱,范驊 范司馬,Undirected,1
+阿朱,巴天石 司空,Undirected,1
+阿朱,華赫艮 華司徒,Undirected,1
+阿朱,秦紅棉 修羅刀 幽谷客,Undirected,3
+阿朱,阮星竹,Undirected,12
+阿朱,慕容複 南慕容,Undirected,13
+阿朱,慕容博,Undirected,1
+阿朱,鄧百川,Undirected,2
+阿朱,公冶乾,Undirected,1
+阿朱,包不同,Undirected,16
+阿朱,風波惡,Undirected,9
+阿朱,鳩摩智,Undirected,22
+阿朱,段延慶 惡貫滿盈,Undirected,1
+阿朱,葉二娘 無惡不作,Undirected,1
+阿朱,岳老三 南海鱷神,Undirected,3
+阿朱,雲中鶴 窮凶極惡,Undirected,1
+阿朱,游坦之 鐵頭人 莊聚賢,Undirected,1
+阿朱,崔百泉 霍先生,Undirected,8
+阿朱,過彥之,Undirected,3
+阿朱,玄悲,Undirected,2
+阿朱,玄慈 帶頭大哥,Undirected,24
+阿朱,玄難,Undirected,4
+阿朱,玄寂,Undirected,5
+阿朱,玄苦,Undirected,6
+阿朱,止清,Undirected,5
+阿朱,止湛,Undirected,1
+阿朱,止淵,Undirected,1
+阿朱,幽草,Undirected,6
+阿朱,王雲蘿 王夫人,Undirected,6
+阿朱,小茗,Undirected,6
+阿朱,嚴媽媽,Undirected,4
+阿朱,老顧,Undirected,6
+阿朱,姚伯當,Undirected,4
+阿朱,諸保昆,Undirected,4
+阿朱,司馬林,Undirected,4
+阿朱,司馬衛,Undirected,1
+阿朱,馬大元,Undirected,5
+阿朱,宋長老,Undirected,1
+阿朱,全冠清,Undirected,3
+阿朱,白世鏡,Undirected,12
+阿朱,李春來,Undirected,1
+阿朱,劉竹莊,Undirected,1
+阿朱,徐沖霄 徐長老,Undirected,16
+阿朱,譚公,Undirected,17
+阿朱,譚婆,Undirected,14
+阿朱,趙錢孫,Undirected,20
+阿朱,智光大師,Undirected,5
+阿朱,玄苦大師,Undirected,6
+阿朱,單正,Undirected,12
+阿朱,單伯山,Undirected,1
+阿朱,鮑千靈,Undirected,1
+阿朱,游驥,Undirected,1
+阿朱,摘星子,Undirected,1
+阿朱,赫連鐵樹,Undirected,4
+阿朱,努兒海,Undirected,2
+阿紫,﻿喬峰 蕭峰,Undirected,276
+阿紫,虛竹,Undirected,25
+阿紫,段譽,Undirected,43
+阿紫,阿朱,Undirected,48
+阿紫,王語嫣,Undirected,4
+阿紫,木婉清,Undirected,13
+阿紫,段正明 本塵,Undirected,1
+阿紫,段正淳 鎮南王,Undirected,32
+阿紫,刀白鳳 鎮南王妃,Undirected,1
+阿紫,范驊 范司馬,Undirected,5
+阿紫,巴天石 司空,Undirected,8
+阿紫,華赫艮 華司徒,Undirected,3
+阿紫,褚萬里,Undirected,9
+阿紫,古篤誠,Undirected,2
+阿紫,傅思歸,Undirected,3
+阿紫,朱丹臣,Undirected,10
+阿紫,秦紅棉 修羅刀 幽谷客,Undirected,9
+阿紫,甘寶寶 鐘夫人,Undirected,1
+阿紫,阮星竹,Undirected,32
+阿紫,慕容複 南慕容,Undirected,10
+阿紫,天山童姥,Undirected,1
+阿紫,李秋水,Undirected,1
+阿紫,丁春秋 星宿老怪 星宿派掌門人,Undirected,61
+阿紫,段延慶 惡貫滿盈,Undirected,3
+阿紫,岳老三 南海鱷神,Undirected,1
+阿紫,雲中鶴 窮凶極惡,Undirected,1
+阿紫,游坦之 鐵頭人 莊聚賢,Undirected,54
+阿紫,鐘萬仇,Undirected,2
+阿紫,玄慈 帶頭大哥,Undirected,3
+阿紫,玄難,Undirected,3
+阿紫,慧淨,Undirected,1
+阿紫,慧方,Undirected,2
+阿紫,馬大元,Undirected,1
+阿紫,汪劍通 劍髯,Undirected,1
+阿紫,宋長老,Undirected,3
+阿紫,全冠清,Undirected,17
+阿紫,白世鏡,Undirected,1
+阿紫,譚公,Undirected,1
+阿紫,游驥,Undirected,1
+阿紫,游駒,Undirected,1
+阿紫,蘭劍,Undirected,1
+阿紫,烏老大,Undirected,3
+阿紫,獅吼子,Undirected,1
+阿紫,出塵子,Undirected,2
+阿紫,摘星子,Undirected,34
+阿紫,天狼子,Undirected,2
+阿紫,耶律洪基 耶律基,Undirected,19
+阿紫,室里 室裡,Undirected,28
+阿紫,耶律莫哥,Undirected,1
+阿紫,夢姑,Undirected,1
+阿紫,王通治,Undirected,3
+阿紫,完顏阿骨打,Undirected,2
+阿紫,穆貴妃,Undirected,11
+阿紫,張將軍,Undirected,1
+阿碧,段譽,Undirected,106
+阿碧,阿朱,Undirected,130
+阿碧,王語嫣,Undirected,46
+阿碧,木婉清,Undirected,2
+阿碧,段正淳 鎮南王,Undirected,2
+阿碧,刀白鳳 鎮南王妃,Undirected,1
+阿碧,巴天石 司空,Undirected,2
+阿碧,朱丹臣,Undirected,1
+阿碧,秦紅棉 修羅刀 幽谷客,Undirected,1
+阿碧,甘寶寶 鐘夫人,Undirected,1
+阿碧,阮星竹,Undirected,1
+阿碧,慕容複 南慕容,Undirected,3
+阿碧,慕容博,Undirected,1
+阿碧,包不同,Undirected,15
+阿碧,風波惡,Undirected,9
+阿碧,鳩摩智,Undirected,35
+阿碧,段延慶 惡貫滿盈,Undirected,1
+阿碧,岳老三 南海鱷神,Undirected,1
+阿碧,雲中鶴 窮凶極惡,Undirected,1
+阿碧,崔百泉 霍先生,Undirected,17
+阿碧,過彥之,Undirected,12
+阿碧,枯榮大師 枯榮,Undirected,1
+阿碧,玄悲,Undirected,3
+阿碧,止清,Undirected,1
+阿碧,幽草,Undirected,7
+阿碧,王雲蘿 王夫人,Undirected,8
+阿碧,小詩,Undirected,1
+阿碧,小茗,Undirected,6
+阿碧,嚴媽媽,Undirected,3
+阿碧,老顧,Undirected,2
+阿碧,姚伯當,Undirected,1
+阿碧,諸保昆,Undirected,1
+阿碧,包不靚,Undirected,1
+阿碧,李春來,Undirected,1
+阿碧,劉竹莊,Undirected,1
+阿碧,徐沖霄 徐長老,Undirected,1
+阿碧,趙錢孫,Undirected,1
+阿碧,單正,Undirected,1
+阿碧,康廣陵,Undirected,1
+阿碧,菊劍,Undirected,2
+王語嫣,﻿喬峰 蕭峰,Undirected,5
+王語嫣,虛竹,Undirected,18
+王語嫣,段譽,Undirected,332
+王語嫣,阿朱,Undirected,52
+王語嫣,阿紫,Undirected,4
+王語嫣,阿碧,Undirected,46
+王語嫣,木婉清,Undirected,22
+王語嫣,段正淳 鎮南王,Undirected,6
+王語嫣,刀白鳳 鎮南王妃,Undirected,1
+王語嫣,范驊 范司馬,Undirected,3
+王語嫣,巴天石 司空,Undirected,19
+王語嫣,華赫艮 華司徒,Undirected,1
+王語嫣,古篤誠,Undirected,2
+王語嫣,朱丹臣,Undirected,17
+王語嫣,慕容複 南慕容,Undirected,129
+王語嫣,慕容博,Undirected,2
+王語嫣,鄧百川,Undirected,21
+王語嫣,公冶乾,Undirected,13
+王語嫣,包不同,Undirected,39
+王語嫣,風波惡,Undirected,22
+王語嫣,鳩摩智,Undirected,19
+王語嫣,天山童姥,Undirected,4
+王語嫣,李秋水,Undirected,1
+王語嫣,蘇星河,Undirected,6
+王語嫣,丁春秋 星宿老怪 星宿派掌門人,Undirected,9
+王語嫣,段延慶 惡貫滿盈,Undirected,5
+王語嫣,葉二娘 無惡不作,Undirected,2
+王語嫣,岳老三 南海鱷神,Undirected,6
+王語嫣,雲中鶴 窮凶極惡,Undirected,9
+王語嫣,游坦之 鐵頭人 莊聚賢,Undirected,1
+王語嫣,柯百歲,Undirected,2
+王語嫣,黃眉僧,Undirected,1
+王語嫣,枯榮大師 枯榮,Undirected,1
+王語嫣,玄悲,Undirected,5
+王語嫣,玄慈 帶頭大哥,Undirected,1
+王語嫣,玄難,Undirected,3
+王語嫣,幽草,Undirected,2
+王語嫣,王雲蘿 王夫人,Undirected,10
+王語嫣,小茗,Undirected,2
+王語嫣,嚴媽媽,Undirected,12
+王語嫣,老顧,Undirected,1
+王語嫣,姚伯當,Undirected,10
+王語嫣,諸保昆,Undirected,14
+王語嫣,海風子,Undirected,2
+王語嫣,司馬林,Undirected,17
+王語嫣,司馬衛,Undirected,3
+王語嫣,姜老者,Undirected,1
+王語嫣,孟老者,Undirected,3
+王語嫣,馬大元,Undirected,1
+王語嫣,蔣舵主,Undirected,1
+王語嫣,奚山河 奚長老,Undirected,3
+王語嫣,全冠清,Undirected,1
+王語嫣,李春來,Undirected,1
+王語嫣,劉竹莊,Undirected,1
+王語嫣,徐沖霄 徐長老,Undirected,1
+王語嫣,趙錢孫,Undirected,1
+王語嫣,單正,Undirected,1
+王語嫣,康廣陵,Undirected,2
+王語嫣,薛慕華,Undirected,2
+王語嫣,梅劍,Undirected,1
+王語嫣,竹劍,Undirected,1
+王語嫣,菊劍,Undirected,2
+王語嫣,桑土公,Undirected,3
+王語嫣,端木元,Undirected,2
+王語嫣,黎夫人,Undirected,3
+王語嫣,烏老大,Undirected,13
+王語嫣,不平道人,Undirected,4
+王語嫣,卓不凡,Undirected,6
+王語嫣,安洞主,Undirected,1
+王語嫣,九翼道人,Undirected,4
+王語嫣,赫連鐵樹,Undirected,1
+王語嫣,努兒海,Undirected,3
+王語嫣,宗贊,Undirected,1
+木婉清,﻿喬峰 蕭峰,Undirected,12
+木婉清,虛竹,Undirected,10
+木婉清,段譽,Undirected,246
+木婉清,阿朱,Undirected,3
+木婉清,阿紫,Undirected,13
+木婉清,阿碧,Undirected,2
+木婉清,王語嫣,Undirected,22
+木婉清,段正淳 鎮南王,Undirected,58
+木婉清,刀白鳳 鎮南王妃,Undirected,15
+木婉清,高昇泰 善闡侯,Undirected,15
+木婉清,范驊 范司馬,Undirected,3
+木婉清,巴天石 司空,Undirected,29
+木婉清,華赫艮 華司徒,Undirected,5
+木婉清,褚萬里,Undirected,7
+木婉清,古篤誠,Undirected,3
+木婉清,傅思歸,Undirected,1
+木婉清,朱丹臣,Undirected,45
+木婉清,秦紅棉 修羅刀 幽谷客,Undirected,25
+木婉清,甘寶寶 鐘夫人,Undirected,15
+木婉清,阮星竹,Undirected,7
+木婉清,慕容複 南慕容,Undirected,5
+木婉清,慕容博,Undirected,1
+木婉清,鄧百川,Undirected,1
+木婉清,鳩摩智,Undirected,5
+木婉清,段延慶 惡貫滿盈,Undirected,5
+木婉清,葉二娘 無惡不作,Undirected,25
+木婉清,岳老三 南海鱷神,Undirected,79
+木婉清,雲中鶴 窮凶極惡,Undirected,32
+木婉清,崔百泉 霍先生,Undirected,1
+木婉清,過彥之,Undirected,1
+木婉清,左子穆,Undirected,5
+木婉清,司空玄,Undirected,2
+木婉清,鐘萬仇,Undirected,12
+木婉清,孫三霸,Undirected,2
+木婉清,梁阿婆,Undirected,1
+木婉清,黃眉僧,Undirected,1
+木婉清,枯榮大師 枯榮,Undirected,1
+木婉清,玄渡 杜老先生,Undirected,1
+木婉清,慧真,Undirected,1
+木婉清,慧觀,Undirected,1
+木婉清,瑞婆婆,Undirected,11
+木婉清,平婆婆,Undirected,9
+木婉清,王雲蘿 王夫人,Undirected,3
+木婉清,吳長風,Undirected,1
+木婉清,梅劍,Undirected,2
+木婉清,蘭劍,Undirected,2
+木婉清,赫連鐵樹,Undirected,2
+木婉清,宗贊,Undirected,1
+鍾靈,段譽,Undirected,1
+鍾靈,雲中鶴 窮凶極惡,Undirected,1
+鍾靈,鐘萬仇,Undirected,1
+段正明 本塵,段譽,Undirected,14
+段正明 本塵,阿紫,Undirected,1
+段正明 本塵,段正淳 鎮南王,Undirected,13
+段正明 本塵,刀白鳳 鎮南王妃,Undirected,2
+段正明 本塵,高昇泰 善闡侯,Undirected,2
+段正明 本塵,巴天石 司空,Undirected,3
+段正明 本塵,華赫艮 華司徒,Undirected,1
+段正明 本塵,褚萬里,Undirected,1
+段正明 本塵,朱丹臣,Undirected,1
+段正明 本塵,秦紅棉 修羅刀 幽谷客,Undirected,1
+段正明 本塵,慕容複 南慕容,Undirected,3
+段正明 本塵,鳩摩智,Undirected,3
+段正明 本塵,段延慶 惡貫滿盈,Undirected,7
+段正明 本塵,葉二娘 無惡不作,Undirected,1
+段正明 本塵,岳老三 南海鱷神,Undirected,2
+段正明 本塵,雲中鶴 窮凶極惡,Undirected,1
+段正明 本塵,鐘萬仇,Undirected,3
+段正明 本塵,黃眉僧,Undirected,3
+段正明 本塵,枯榮大師 枯榮,Undirected,7
+段正明 本塵,本因大師 本因,Undirected,4
+段正明 本塵,本觀,Undirected,2
+段正明 本塵,本相,Undirected,2
+段正明 本塵,本參,Undirected,2
+段正明 本塵,本塵,Undirected,7
+段正明 本塵,王雲蘿 王夫人,Undirected,3
+段正明 本塵,太皇太后高氏,Undirected,1
+段正明 本塵,趙煦,Undirected,1
+段正淳 鎮南王,﻿喬峰 蕭峰,Undirected,79
+段正淳 鎮南王,虛竹,Undirected,6
+段正淳 鎮南王,段譽,Undirected,117
+段正淳 鎮南王,阿朱,Undirected,30
+段正淳 鎮南王,阿紫,Undirected,32
+段正淳 鎮南王,阿碧,Undirected,2
+段正淳 鎮南王,王語嫣,Undirected,6
+段正淳 鎮南王,木婉清,Undirected,58
+段正淳 鎮南王,段正明 本塵,Undirected,13
+段正淳 鎮南王,刀白鳳 鎮南王妃,Undirected,40
+段正淳 鎮南王,高昇泰 善闡侯,Undirected,39
+段正淳 鎮南王,范驊 范司馬,Undirected,22
+段正淳 鎮南王,巴天石 司空,Undirected,39
+段正淳 鎮南王,華赫艮 華司徒,Undirected,19
+段正淳 鎮南王,褚萬里,Undirected,25
+段正淳 鎮南王,古篤誠,Undirected,7
+段正淳 鎮南王,傅思歸,Undirected,9
+段正淳 鎮南王,朱丹臣,Undirected,25
+段正淳 鎮南王,秦紅棉 修羅刀 幽谷客,Undirected,55
+段正淳 鎮南王,甘寶寶 鐘夫人,Undirected,47
+段正淳 鎮南王,阮星竹,Undirected,48
+段正淳 鎮南王,阿蘿,Undirected,7
+段正淳 鎮南王,慕容複 南慕容,Undirected,50
+段正淳 鎮南王,慕容博,Undirected,2
+段正淳 鎮南王,風波惡,Undirected,1
+段正淳 鎮南王,鳩摩智,Undirected,9
+段正淳 鎮南王,蘇星河,Undirected,2
+段正淳 鎮南王,丁春秋 星宿老怪 星宿派掌門人,Undirected,3
+段正淳 鎮南王,段延慶 惡貫滿盈,Undirected,65
+段正淳 鎮南王,葉二娘 無惡不作,Undirected,10
+段正淳 鎮南王,岳老三 南海鱷神,Undirected,37
+段正淳 鎮南王,雲中鶴 窮凶極惡,Undirected,14
+段正淳 鎮南王,游坦之 鐵頭人 莊聚賢,Undirected,3
+段正淳 鎮南王,柯百歲,Undirected,2
+段正淳 鎮南王,崔百泉 霍先生,Undirected,25
+段正淳 鎮南王,過彥之,Undirected,16
+段正淳 鎮南王,左子穆,Undirected,1
+段正淳 鎮南王,辛雙清,Undirected,1
+段正淳 鎮南王,馬五德,Undirected,2
+段正淳 鎮南王,鐘萬仇,Undirected,54
+段正淳 鎮南王,梁阿婆,Undirected,1
+段正淳 鎮南王,黃眉僧,Undirected,13
+段正淳 鎮南王,枯榮大師 枯榮,Undirected,1
+段正淳 鎮南王,本因大師 本因,Undirected,1
+段正淳 鎮南王,玄悲,Undirected,9
+段正淳 鎮南王,玄慈 帶頭大哥,Undirected,11
+段正淳 鎮南王,玄苦,Undirected,1
+段正淳 鎮南王,慧真,Undirected,11
+段正淳 鎮南王,慧觀,Undirected,8
+段正淳 鎮南王,五葉大師,Undirected,2
+段正淳 鎮南王,瑞婆婆,Undirected,1
+段正淳 鎮南王,平婆婆,Undirected,1
+段正淳 鎮南王,王雲蘿 王夫人,Undirected,37
+段正淳 鎮南王,馬大元,Undirected,6
+段正淳 鎮南王,全冠清,Undirected,1
+段正淳 鎮南王,白世鏡,Undirected,13
+段正淳 鎮南王,徐沖霄 徐長老,Undirected,1
+段正淳 鎮南王,譚公,Undirected,1
+段正淳 鎮南王,譚婆,Undirected,1
+段正淳 鎮南王,趙錢孫,Undirected,1
+段正淳 鎮南王,智光大師,Undirected,1
+段正淳 鎮南王,喬三槐,Undirected,1
+段正淳 鎮南王,玄苦大師,Undirected,1
+段正淳 鎮南王,譚青,Undirected,1
+段正淳 鎮南王,康廣陵,Undirected,1
+段正淳 鎮南王,梅劍,Undirected,2
+段正淳 鎮南王,菊劍,Undirected,1
+刀白鳳 鎮南王妃,段譽,Undirected,11
+刀白鳳 鎮南王妃,阿紫,Undirected,1
+刀白鳳 鎮南王妃,阿碧,Undirected,1
+刀白鳳 鎮南王妃,王語嫣,Undirected,1
+刀白鳳 鎮南王妃,木婉清,Undirected,15
+刀白鳳 鎮南王妃,段正明 本塵,Undirected,2
+刀白鳳 鎮南王妃,段正淳 鎮南王,Undirected,40
+刀白鳳 鎮南王妃,高昇泰 善闡侯,Undirected,5
+刀白鳳 鎮南王妃,范驊 范司馬,Undirected,1
+刀白鳳 鎮南王妃,巴天石 司空,Undirected,7
+刀白鳳 鎮南王妃,華赫艮 華司徒,Undirected,3
+刀白鳳 鎮南王妃,褚萬里,Undirected,2
+刀白鳳 鎮南王妃,朱丹臣,Undirected,2
+刀白鳳 鎮南王妃,秦紅棉 修羅刀 幽谷客,Undirected,24
+刀白鳳 鎮南王妃,甘寶寶 鐘夫人,Undirected,15
+刀白鳳 鎮南王妃,阮星竹,Undirected,9
+刀白鳳 鎮南王妃,慕容複 南慕容,Undirected,6
+刀白鳳 鎮南王妃,段延慶 惡貫滿盈,Undirected,5
+刀白鳳 鎮南王妃,岳老三 南海鱷神,Undirected,3
+刀白鳳 鎮南王妃,雲中鶴 窮凶極惡,Undirected,2
+刀白鳳 鎮南王妃,崔百泉 霍先生,Undirected,1
+刀白鳳 鎮南王妃,過彥之,Undirected,1
+刀白鳳 鎮南王妃,馬五德,Undirected,1
+刀白鳳 鎮南王妃,鐘萬仇,Undirected,13
+刀白鳳 鎮南王妃,黃眉僧,Undirected,1
+刀白鳳 鎮南王妃,王雲蘿 王夫人,Undirected,7
+高昇泰 善闡侯,段譽,Undirected,18
+高昇泰 善闡侯,木婉清,Undirected,15
+高昇泰 善闡侯,段正明 本塵,Undirected,2
+高昇泰 善闡侯,段正淳 鎮南王,Undirected,39
+高昇泰 善闡侯,刀白鳳 鎮南王妃,Undirected,5
+高昇泰 善闡侯,范驊 范司馬,Undirected,1
+高昇泰 善闡侯,巴天石 司空,Undirected,9
+高昇泰 善闡侯,華赫艮 華司徒,Undirected,1
+高昇泰 善闡侯,褚萬里,Undirected,10
+高昇泰 善闡侯,古篤誠,Undirected,4
+高昇泰 善闡侯,傅思歸,Undirected,3
+高昇泰 善闡侯,朱丹臣,Undirected,7
+高昇泰 善闡侯,秦紅棉 修羅刀 幽谷客,Undirected,4
+高昇泰 善闡侯,甘寶寶 鐘夫人,Undirected,3
+高昇泰 善闡侯,慕容複 南慕容,Undirected,1
+高昇泰 善闡侯,葉二娘 無惡不作,Undirected,6
+高昇泰 善闡侯,岳老三 南海鱷神,Undirected,14
+高昇泰 善闡侯,雲中鶴 窮凶極惡,Undirected,4
+高昇泰 善闡侯,崔百泉 霍先生,Undirected,3
+高昇泰 善闡侯,過彥之,Undirected,2
+高昇泰 善闡侯,左子穆,Undirected,1
+高昇泰 善闡侯,辛雙清,Undirected,1
+高昇泰 善闡侯,馬五德,Undirected,3
+高昇泰 善闡侯,鐘萬仇,Undirected,10
+高昇泰 善闡侯,黃眉僧,Undirected,3
+高昇泰 善闡侯,玄悲,Undirected,1
+高昇泰 善闡侯,慧真,Undirected,1
+范驊 范司馬,﻿喬峰 蕭峰,Undirected,5
+范驊 范司馬,虛竹,Undirected,1
+范驊 范司馬,段譽,Undirected,9
+范驊 范司馬,阿朱,Undirected,1
+范驊 范司馬,阿紫,Undirected,5
+范驊 范司馬,王語嫣,Undirected,3
+范驊 范司馬,木婉清,Undirected,3
+范驊 范司馬,段正淳 鎮南王,Undirected,22
+范驊 范司馬,刀白鳳 鎮南王妃,Undirected,1
+范驊 范司馬,高昇泰 善闡侯,Undirected,1
+范驊 范司馬,巴天石 司空,Undirected,28
+范驊 范司馬,華赫艮 華司徒,Undirected,25
+范驊 范司馬,褚萬里,Undirected,6
+范驊 范司馬,古篤誠,Undirected,1
+范驊 范司馬,傅思歸,Undirected,3
+范驊 范司馬,朱丹臣,Undirected,6
+范驊 范司馬,阮星竹,Undirected,5
+范驊 范司馬,慕容複 南慕容,Undirected,1
+范驊 范司馬,鄧百川,Undirected,1
+范驊 范司馬,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+范驊 范司馬,段延慶 惡貫滿盈,Undirected,9
+范驊 范司馬,葉二娘 無惡不作,Undirected,3
+范驊 范司馬,岳老三 南海鱷神,Undirected,1
+范驊 范司馬,雲中鶴 窮凶極惡,Undirected,2
+范驊 范司馬,崔百泉 霍先生,Undirected,3
+范驊 范司馬,過彥之,Undirected,1
+范驊 范司馬,鐘萬仇,Undirected,1
+范驊 范司馬,黃眉僧,Undirected,1
+范驊 范司馬,玄悲,Undirected,3
+范驊 范司馬,玄慈 帶頭大哥,Undirected,2
+范驊 范司馬,玄渡 杜老先生,Undirected,1
+范驊 范司馬,慧真,Undirected,1
+范驊 范司馬,慧觀,Undirected,1
+范驊 范司馬,吳長風,Undirected,2
+巴天石 司空,﻿喬峰 蕭峰,Undirected,22
+巴天石 司空,虛竹,Undirected,12
+巴天石 司空,段譽,Undirected,101
+巴天石 司空,阿朱,Undirected,1
+巴天石 司空,阿紫,Undirected,8
+巴天石 司空,阿碧,Undirected,2
+巴天石 司空,王語嫣,Undirected,19
+巴天石 司空,木婉清,Undirected,29
+巴天石 司空,段正明 本塵,Undirected,3
+巴天石 司空,段正淳 鎮南王,Undirected,39
+巴天石 司空,刀白鳳 鎮南王妃,Undirected,7
+巴天石 司空,高昇泰 善闡侯,Undirected,9
+巴天石 司空,范驊 范司馬,Undirected,28
+巴天石 司空,華赫艮 華司徒,Undirected,27
+巴天石 司空,褚萬里,Undirected,6
+巴天石 司空,古篤誠,Undirected,2
+巴天石 司空,傅思歸,Undirected,3
+巴天石 司空,朱丹臣,Undirected,55
+巴天石 司空,秦紅棉 修羅刀 幽谷客,Undirected,3
+巴天石 司空,甘寶寶 鐘夫人,Undirected,7
+巴天石 司空,阮星竹,Undirected,4
+巴天石 司空,慕容複 南慕容,Undirected,5
+巴天石 司空,鄧百川,Undirected,4
+巴天石 司空,公冶乾,Undirected,1
+巴天石 司空,包不同,Undirected,4
+巴天石 司空,風波惡,Undirected,2
+巴天石 司空,天山童姥,Undirected,6
+巴天石 司空,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+巴天石 司空,段延慶 惡貫滿盈,Undirected,7
+巴天石 司空,葉二娘 無惡不作,Undirected,2
+巴天石 司空,岳老三 南海鱷神,Undirected,6
+巴天石 司空,雲中鶴 窮凶極惡,Undirected,8
+巴天石 司空,崔百泉 霍先生,Undirected,2
+巴天石 司空,左子穆,Undirected,8
+巴天石 司空,辛雙清,Undirected,4
+巴天石 司空,光豪 干光豪,Undirected,1
+巴天石 司空,葛光佩,Undirected,1
+巴天石 司空,郁光標 鬱游標,Undirected,1
+巴天石 司空,吳光勝,Undirected,1
+巴天石 司空,馬五德,Undirected,1
+巴天石 司空,司空玄,Undirected,85
+巴天石 司空,鐘萬仇,Undirected,10
+巴天石 司空,黃眉僧,Undirected,3
+巴天石 司空,玄悲,Undirected,4
+巴天石 司空,玄慈 帶頭大哥,Undirected,2
+巴天石 司空,玄渡 杜老先生,Undirected,1
+巴天石 司空,慧真,Undirected,2
+巴天石 司空,慧觀,Undirected,2
+巴天石 司空,瑞婆婆,Undirected,1
+巴天石 司空,平婆婆,Undirected,1
+巴天石 司空,王雲蘿 王夫人,Undirected,1
+巴天石 司空,賈老者,Undirected,3
+巴天石 司空,吳長風,Undirected,1
+巴天石 司空,符聖使,Undirected,2
+巴天石 司空,梅劍,Undirected,3
+巴天石 司空,蘭劍,Undirected,1
+巴天石 司空,竹劍,Undirected,1
+巴天石 司空,菊劍,Undirected,1
+巴天石 司空,摘星子,Undirected,1
+巴天石 司空,耶律洪基 耶律基,Undirected,1
+巴天石 司空,宗贊,Undirected,3
+華赫艮 華司徒,﻿喬峰 蕭峰,Undirected,5
+華赫艮 華司徒,虛竹,Undirected,1
+華赫艮 華司徒,段譽,Undirected,12
+華赫艮 華司徒,阿朱,Undirected,1
+華赫艮 華司徒,阿紫,Undirected,3
+華赫艮 華司徒,王語嫣,Undirected,1
+華赫艮 華司徒,木婉清,Undirected,5
+華赫艮 華司徒,段正明 本塵,Undirected,1
+華赫艮 華司徒,段正淳 鎮南王,Undirected,19
+華赫艮 華司徒,刀白鳳 鎮南王妃,Undirected,3
+華赫艮 華司徒,高昇泰 善闡侯,Undirected,1
+華赫艮 華司徒,范驊 范司馬,Undirected,25
+華赫艮 華司徒,巴天石 司空,Undirected,27
+華赫艮 華司徒,褚萬里,Undirected,4
+華赫艮 華司徒,傅思歸,Undirected,1
+華赫艮 華司徒,朱丹臣,Undirected,7
+華赫艮 華司徒,甘寶寶 鐘夫人,Undirected,4
+華赫艮 華司徒,阮星竹,Undirected,3
+華赫艮 華司徒,段延慶 惡貫滿盈,Undirected,8
+華赫艮 華司徒,葉二娘 無惡不作,Undirected,2
+華赫艮 華司徒,岳老三 南海鱷神,Undirected,2
+華赫艮 華司徒,雲中鶴 窮凶極惡,Undirected,2
+華赫艮 華司徒,崔百泉 霍先生,Undirected,2
+華赫艮 華司徒,過彥之,Undirected,1
+華赫艮 華司徒,鐘萬仇,Undirected,5
+華赫艮 華司徒,黃眉僧,Undirected,2
+華赫艮 華司徒,玄悲,Undirected,3
+華赫艮 華司徒,玄慈 帶頭大哥,Undirected,2
+華赫艮 華司徒,玄渡 杜老先生,Undirected,1
+華赫艮 華司徒,慧真,Undirected,1
+華赫艮 華司徒,慧觀,Undirected,1
+華赫艮 華司徒,吳長風,Undirected,1
+華赫艮 華司徒,梅劍,Undirected,1
+褚萬里,﻿喬峰 蕭峰,Undirected,5
+褚萬里,段譽,Undirected,11
+褚萬里,阿紫,Undirected,9
+褚萬里,木婉清,Undirected,7
+褚萬里,段正明 本塵,Undirected,1
+褚萬里,段正淳 鎮南王,Undirected,25
+褚萬里,刀白鳳 鎮南王妃,Undirected,2
+褚萬里,高昇泰 善闡侯,Undirected,10
+褚萬里,范驊 范司馬,Undirected,6
+褚萬里,巴天石 司空,Undirected,6
+褚萬里,華赫艮 華司徒,Undirected,4
+褚萬里,古篤誠,Undirected,9
+褚萬里,傅思歸,Undirected,11
+褚萬里,朱丹臣,Undirected,17
+褚萬里,秦紅棉 修羅刀 幽谷客,Undirected,1
+褚萬里,甘寶寶 鐘夫人,Undirected,2
+褚萬里,阮星竹,Undirected,1
+褚萬里,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+褚萬里,段延慶 惡貫滿盈,Undirected,13
+褚萬里,葉二娘 無惡不作,Undirected,6
+褚萬里,岳老三 南海鱷神,Undirected,8
+褚萬里,雲中鶴 窮凶極惡,Undirected,5
+褚萬里,游坦之 鐵頭人 莊聚賢,Undirected,1
+褚萬里,左子穆,Undirected,2
+褚萬里,辛雙清,Undirected,1
+褚萬里,馬五德,Undirected,1
+褚萬里,鐘萬仇,Undirected,5
+褚萬里,黃眉僧,Undirected,1
+古篤誠,﻿喬峰 蕭峰,Undirected,1
+古篤誠,段譽,Undirected,10
+古篤誠,阿紫,Undirected,2
+古篤誠,王語嫣,Undirected,2
+古篤誠,木婉清,Undirected,3
+古篤誠,段正淳 鎮南王,Undirected,7
+古篤誠,高昇泰 善闡侯,Undirected,4
+古篤誠,范驊 范司馬,Undirected,1
+古篤誠,巴天石 司空,Undirected,2
+古篤誠,褚萬里,Undirected,9
+古篤誠,傅思歸,Undirected,12
+古篤誠,朱丹臣,Undirected,13
+古篤誠,秦紅棉 修羅刀 幽谷客,Undirected,1
+古篤誠,段延慶 惡貫滿盈,Undirected,3
+古篤誠,葉二娘 無惡不作,Undirected,3
+古篤誠,岳老三 南海鱷神,Undirected,2
+古篤誠,雲中鶴 窮凶極惡,Undirected,3
+古篤誠,鐘萬仇,Undirected,3
+古篤誠,王雲蘿 王夫人,Undirected,1
+古篤誠,全冠清,Undirected,1
+傅思歸,﻿喬峰 蕭峰,Undirected,3
+傅思歸,虛竹,Undirected,1
+傅思歸,段譽,Undirected,6
+傅思歸,阿紫,Undirected,3
+傅思歸,木婉清,Undirected,1
+傅思歸,段正淳 鎮南王,Undirected,9
+傅思歸,高昇泰 善闡侯,Undirected,3
+傅思歸,范驊 范司馬,Undirected,3
+傅思歸,巴天石 司空,Undirected,3
+傅思歸,華赫艮 華司徒,Undirected,1
+傅思歸,褚萬里,Undirected,11
+傅思歸,古篤誠,Undirected,12
+傅思歸,朱丹臣,Undirected,8
+傅思歸,秦紅棉 修羅刀 幽谷客,Undirected,1
+傅思歸,阮星竹,Undirected,1
+傅思歸,慕容複 南慕容,Undirected,1
+傅思歸,段延慶 惡貫滿盈,Undirected,4
+傅思歸,葉二娘 無惡不作,Undirected,4
+傅思歸,岳老三 南海鱷神,Undirected,3
+傅思歸,雲中鶴 窮凶極惡,Undirected,5
+傅思歸,崔百泉 霍先生,Undirected,1
+傅思歸,過彥之,Undirected,1
+傅思歸,左子穆,Undirected,1
+傅思歸,鐘萬仇,Undirected,2
+傅思歸,馬大元,Undirected,1
+傅思歸,全冠清,Undirected,1
+朱丹臣,﻿喬峰 蕭峰,Undirected,13
+朱丹臣,虛竹,Undirected,12
+朱丹臣,段譽,Undirected,83
+朱丹臣,阿紫,Undirected,10
+朱丹臣,阿碧,Undirected,1
+朱丹臣,王語嫣,Undirected,17
+朱丹臣,木婉清,Undirected,45
+朱丹臣,段正明 本塵,Undirected,1
+朱丹臣,段正淳 鎮南王,Undirected,25
+朱丹臣,刀白鳳 鎮南王妃,Undirected,2
+朱丹臣,高昇泰 善闡侯,Undirected,7
+朱丹臣,范驊 范司馬,Undirected,6
+朱丹臣,巴天石 司空,Undirected,55
+朱丹臣,華赫艮 華司徒,Undirected,7
+朱丹臣,褚萬里,Undirected,17
+朱丹臣,古篤誠,Undirected,13
+朱丹臣,傅思歸,Undirected,8
+朱丹臣,秦紅棉 修羅刀 幽谷客,Undirected,4
+朱丹臣,甘寶寶 鐘夫人,Undirected,1
+朱丹臣,阮星竹,Undirected,3
+朱丹臣,慕容複 南慕容,Undirected,2
+朱丹臣,鄧百川,Undirected,1
+朱丹臣,公冶乾,Undirected,1
+朱丹臣,包不同,Undirected,4
+朱丹臣,風波惡,Undirected,2
+朱丹臣,鳩摩智,Undirected,2
+朱丹臣,蘇星河,Undirected,1
+朱丹臣,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+朱丹臣,段延慶 惡貫滿盈,Undirected,9
+朱丹臣,葉二娘 無惡不作,Undirected,7
+朱丹臣,岳老三 南海鱷神,Undirected,7
+朱丹臣,雲中鶴 窮凶極惡,Undirected,12
+朱丹臣,游坦之 鐵頭人 莊聚賢,Undirected,1
+朱丹臣,左子穆,Undirected,1
+朱丹臣,馬五德,Undirected,1
+朱丹臣,鐘萬仇,Undirected,1
+朱丹臣,黃眉僧,Undirected,1
+朱丹臣,枯榮大師 枯榮,Undirected,1
+朱丹臣,玄悲,Undirected,2
+朱丹臣,玄慈 帶頭大哥,Undirected,1
+朱丹臣,玄渡 杜老先生,Undirected,1
+朱丹臣,王雲蘿 王夫人,Undirected,1
+朱丹臣,賈老者,Undirected,3
+朱丹臣,吳長風,Undirected,1
+朱丹臣,全冠清,Undirected,2
+朱丹臣,梅劍,Undirected,1
+朱丹臣,宗贊,Undirected,2
+秦紅棉 修羅刀 幽谷客,﻿喬峰 蕭峰,Undirected,12
+秦紅棉 修羅刀 幽谷客,段譽,Undirected,13
+秦紅棉 修羅刀 幽谷客,阿朱,Undirected,3
+秦紅棉 修羅刀 幽谷客,阿紫,Undirected,9
+秦紅棉 修羅刀 幽谷客,阿碧,Undirected,1
+秦紅棉 修羅刀 幽谷客,木婉清,Undirected,25
+秦紅棉 修羅刀 幽谷客,段正明 本塵,Undirected,1
+秦紅棉 修羅刀 幽谷客,段正淳 鎮南王,Undirected,55
+秦紅棉 修羅刀 幽谷客,刀白鳳 鎮南王妃,Undirected,24
+秦紅棉 修羅刀 幽谷客,高昇泰 善闡侯,Undirected,4
+秦紅棉 修羅刀 幽谷客,巴天石 司空,Undirected,3
+秦紅棉 修羅刀 幽谷客,褚萬里,Undirected,1
+秦紅棉 修羅刀 幽谷客,古篤誠,Undirected,1
+秦紅棉 修羅刀 幽谷客,傅思歸,Undirected,1
+秦紅棉 修羅刀 幽谷客,朱丹臣,Undirected,4
+秦紅棉 修羅刀 幽谷客,甘寶寶 鐘夫人,Undirected,21
+秦紅棉 修羅刀 幽谷客,阮星竹,Undirected,37
+秦紅棉 修羅刀 幽谷客,康敏,Undirected,1
+秦紅棉 修羅刀 幽谷客,慕容複 南慕容,Undirected,7
+秦紅棉 修羅刀 幽谷客,段延慶 惡貫滿盈,Undirected,3
+秦紅棉 修羅刀 幽谷客,葉二娘 無惡不作,Undirected,2
+秦紅棉 修羅刀 幽谷客,岳老三 南海鱷神,Undirected,6
+秦紅棉 修羅刀 幽谷客,雲中鶴 窮凶極惡,Undirected,3
+秦紅棉 修羅刀 幽谷客,崔百泉 霍先生,Undirected,2
+秦紅棉 修羅刀 幽谷客,過彥之,Undirected,2
+秦紅棉 修羅刀 幽谷客,鐘萬仇,Undirected,10
+秦紅棉 修羅刀 幽谷客,慧真,Undirected,1
+秦紅棉 修羅刀 幽谷客,慧觀,Undirected,1
+秦紅棉 修羅刀 幽谷客,瑞婆婆,Undirected,1
+秦紅棉 修羅刀 幽谷客,平婆婆,Undirected,1
+秦紅棉 修羅刀 幽谷客,王雲蘿 王夫人,Undirected,8
+甘寶寶 鐘夫人,段譽,Undirected,50
+甘寶寶 鐘夫人,阿紫,Undirected,1
+甘寶寶 鐘夫人,阿碧,Undirected,1
+甘寶寶 鐘夫人,木婉清,Undirected,15
+甘寶寶 鐘夫人,段正淳 鎮南王,Undirected,47
+甘寶寶 鐘夫人,刀白鳳 鎮南王妃,Undirected,15
+甘寶寶 鐘夫人,高昇泰 善闡侯,Undirected,3
+甘寶寶 鐘夫人,巴天石 司空,Undirected,7
+甘寶寶 鐘夫人,華赫艮 華司徒,Undirected,4
+甘寶寶 鐘夫人,褚萬里,Undirected,2
+甘寶寶 鐘夫人,朱丹臣,Undirected,1
+甘寶寶 鐘夫人,秦紅棉 修羅刀 幽谷客,Undirected,21
+甘寶寶 鐘夫人,阮星竹,Undirected,10
+甘寶寶 鐘夫人,慕容複 南慕容,Undirected,6
+甘寶寶 鐘夫人,段延慶 惡貫滿盈,Undirected,4
+甘寶寶 鐘夫人,葉二娘 無惡不作,Undirected,3
+甘寶寶 鐘夫人,岳老三 南海鱷神,Undirected,9
+甘寶寶 鐘夫人,雲中鶴 窮凶極惡,Undirected,9
+甘寶寶 鐘夫人,崔百泉 霍先生,Undirected,3
+甘寶寶 鐘夫人,過彥之,Undirected,1
+甘寶寶 鐘夫人,左子穆,Undirected,1
+甘寶寶 鐘夫人,辛雙清,Undirected,1
+甘寶寶 鐘夫人,司空玄,Undirected,3
+甘寶寶 鐘夫人,進喜兒,Undirected,3
+甘寶寶 鐘夫人,來福兒,Undirected,2
+甘寶寶 鐘夫人,鐘萬仇,Undirected,44
+甘寶寶 鐘夫人,黃眉僧,Undirected,2
+甘寶寶 鐘夫人,瑞婆婆,Undirected,2
+甘寶寶 鐘夫人,平婆婆,Undirected,2
+甘寶寶 鐘夫人,王雲蘿 王夫人,Undirected,7
+阮星竹,﻿喬峰 蕭峰,Undirected,27
+阮星竹,段譽,Undirected,8
+阮星竹,阿朱,Undirected,12
+阮星竹,阿紫,Undirected,32
+阮星竹,阿碧,Undirected,1
+阮星竹,木婉清,Undirected,7
+阮星竹,段正淳 鎮南王,Undirected,48
+阮星竹,刀白鳳 鎮南王妃,Undirected,9
+阮星竹,范驊 范司馬,Undirected,5
+阮星竹,巴天石 司空,Undirected,4
+阮星竹,華赫艮 華司徒,Undirected,3
+阮星竹,褚萬里,Undirected,1
+阮星竹,傅思歸,Undirected,1
+阮星竹,朱丹臣,Undirected,3
+阮星竹,秦紅棉 修羅刀 幽谷客,Undirected,37
+阮星竹,甘寶寶 鐘夫人,Undirected,10
+阮星竹,康敏,Undirected,1
+阮星竹,慕容複 南慕容,Undirected,9
+阮星竹,丁春秋 星宿老怪 星宿派掌門人,Undirected,3
+阮星竹,段延慶 惡貫滿盈,Undirected,7
+阮星竹,葉二娘 無惡不作,Undirected,1
+阮星竹,岳老三 南海鱷神,Undirected,1
+阮星竹,雲中鶴 窮凶極惡,Undirected,1
+阮星竹,游坦之 鐵頭人 莊聚賢,Undirected,1
+阮星竹,崔百泉 霍先生,Undirected,1
+阮星竹,過彥之,Undirected,1
+阮星竹,鐘萬仇,Undirected,1
+阮星竹,玄悲,Undirected,1
+阮星竹,王雲蘿 王夫人,Undirected,8
+阮星竹,馬大元,Undirected,1
+阮星竹,全冠清,Undirected,1
+阮星竹,白世鏡,Undirected,1
+阿蘿,段正淳 鎮南王,Undirected,7
+阿蘿,慕容複 南慕容,Undirected,1
+阿蘿,段延慶 惡貫滿盈,Undirected,2
+阿蘿,王雲蘿 王夫人,Undirected,5
+康敏,秦紅棉 修羅刀 幽谷客,Undirected,1
+康敏,阮星竹,Undirected,1
+慕容複 南慕容,﻿喬峰 蕭峰,Undirected,47
+慕容複 南慕容,虛竹,Undirected,26
+慕容複 南慕容,段譽,Undirected,181
+慕容複 南慕容,阿朱,Undirected,13
+慕容複 南慕容,阿紫,Undirected,10
+慕容複 南慕容,阿碧,Undirected,3
+慕容複 南慕容,王語嫣,Undirected,129
+慕容複 南慕容,木婉清,Undirected,5
+慕容複 南慕容,段正明 本塵,Undirected,3
+慕容複 南慕容,段正淳 鎮南王,Undirected,50
+慕容複 南慕容,刀白鳳 鎮南王妃,Undirected,6
+慕容複 南慕容,高昇泰 善闡侯,Undirected,1
+慕容複 南慕容,范驊 范司馬,Undirected,1
+慕容複 南慕容,巴天石 司空,Undirected,5
+慕容複 南慕容,傅思歸,Undirected,1
+慕容複 南慕容,朱丹臣,Undirected,2
+慕容複 南慕容,秦紅棉 修羅刀 幽谷客,Undirected,7
+慕容複 南慕容,甘寶寶 鐘夫人,Undirected,6
+慕容複 南慕容,阮星竹,Undirected,9
+慕容複 南慕容,阿蘿,Undirected,1
+慕容複 南慕容,慕容博,Undirected,17
+慕容複 南慕容,鄧百川,Undirected,49
+慕容複 南慕容,公冶乾,Undirected,31
+慕容複 南慕容,包不同,Undirected,46
+慕容複 南慕容,風波惡,Undirected,30
+慕容複 南慕容,鳩摩智,Undirected,44
+慕容複 南慕容,無名老僧 掃地僧,Undirected,1
+慕容複 南慕容,蕭遠山,Undirected,9
+慕容複 南慕容,天山童姥,Undirected,6
+慕容複 南慕容,李秋水,Undirected,2
+慕容複 南慕容,蘇星河,Undirected,9
+慕容複 南慕容,丁春秋 星宿老怪 星宿派掌門人,Undirected,39
+慕容複 南慕容,段延慶 惡貫滿盈,Undirected,49
+慕容複 南慕容,葉二娘 無惡不作,Undirected,3
+慕容複 南慕容,岳老三 南海鱷神,Undirected,13
+慕容複 南慕容,雲中鶴 窮凶極惡,Undirected,2
+慕容複 南慕容,游坦之 鐵頭人 莊聚賢,Undirected,6
+慕容複 南慕容,崔百泉 霍先生,Undirected,1
+慕容複 南慕容,玄慈 帶頭大哥,Undirected,4
+慕容複 南慕容,玄生,Undirected,2
+慕容複 南慕容,玄難,Undirected,8
+慕容複 南慕容,玄滅,Undirected,2
+慕容複 南慕容,慧方,Undirected,1
+慕容複 南慕容,止清,Undirected,1
+慕容複 南慕容,止湛,Undirected,1
+慕容複 南慕容,止淵,Undirected,1
+慕容複 南慕容,王雲蘿 王夫人,Undirected,44
+慕容複 南慕容,姚伯當,Undirected,2
+慕容複 南慕容,馬大元,Undirected,3
+慕容複 南慕容,奚山河 奚長老,Undirected,1
+慕容複 南慕容,全冠清,Undirected,6
+慕容複 南慕容,徐沖霄 徐長老,Undirected,1
+慕容複 南慕容,譚公,Undirected,1
+慕容複 南慕容,譚婆,Undirected,1
+慕容複 南慕容,趙錢孫,Undirected,2
+慕容複 南慕容,康廣陵,Undirected,2
+慕容複 南慕容,薛慕華,Undirected,2
+慕容複 南慕容,桑土公,Undirected,18
+慕容複 南慕容,玄黃子,Undirected,1
+慕容複 南慕容,章達夫,Undirected,1
+慕容複 南慕容,端木元,Undirected,1
+慕容複 南慕容,黎夫人,Undirected,1
+慕容複 南慕容,烏老大,Undirected,26
+慕容複 南慕容,不平道人,Undirected,12
+慕容複 南慕容,崔綠華,Undirected,1
+慕容複 南慕容,卓不凡,Undirected,3
+慕容複 南慕容,安洞主,Undirected,3
+慕容複 南慕容,九翼道人,Undirected,3
+慕容複 南慕容,哈大霸,Undirected,1
+慕容複 南慕容,摘星子,Undirected,3
+慕容複 南慕容,赫連鐵樹,Undirected,5
+慕容複 南慕容,神山上人,Undirected,1
+慕容複 南慕容,道清大師 道清,Undirected,1
+慕容複 南慕容,哲羅星,Undirected,1
+慕容複 南慕容,波羅星,Undirected,2
+慕容複 南慕容,宗贊,Undirected,2
+慕容博,﻿喬峰 蕭峰,Undirected,19
+慕容博,段譽,Undirected,7
+慕容博,阿朱,Undirected,1
+慕容博,阿碧,Undirected,1
+慕容博,王語嫣,Undirected,2
+慕容博,木婉清,Undirected,1
+慕容博,段正淳 鎮南王,Undirected,2
+慕容博,慕容複 南慕容,Undirected,17
+慕容博,公冶乾,Undirected,1
+慕容博,包不同,Undirected,1
+慕容博,鳩摩智,Undirected,15
+慕容博,無名老僧 掃地僧,Undirected,2
+慕容博,蕭遠山,Undirected,26
+慕容博,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+慕容博,段延慶 惡貫滿盈,Undirected,1
+慕容博,葉二娘 無惡不作,Undirected,1
+慕容博,雲中鶴 窮凶極惡,Undirected,1
+慕容博,游坦之 鐵頭人 莊聚賢,Undirected,2
+慕容博,柯百歲,Undirected,1
+慕容博,崔百泉 霍先生,Undirected,5
+慕容博,過彥之,Undirected,2
+慕容博,黃眉僧,Undirected,2
+慕容博,駱氏三雄,Undirected,1
+慕容博,章虛道人,Undirected,1
+慕容博,枯榮大師 枯榮,Undirected,1
+慕容博,本因大師 本因,Undirected,1
+慕容博,玄慈 帶頭大哥,Undirected,7
+慕容博,玄生,Undirected,2
+慕容博,玄淨,Undirected,1
+慕容博,玄滅,Undirected,2
+慕容博,玄苦,Undirected,1
+慕容博,慧觀,Undirected,1
+慕容博,姚伯當,Undirected,2
+慕容博,宋長老,Undirected,1
+慕容博,全冠清,Undirected,1
+慕容博,喬三槐,Undirected,1
+慕容博,玄苦大師,Undirected,1
+慕容博,神山上人,Undirected,1
+慕容博,觀心大師 觀心,Undirected,1
+慕容博,道清大師 道清,Undirected,2
+慕容博,哲羅星,Undirected,2
+慕容博,波羅星,Undirected,2
+鄧百川,﻿喬峰 蕭峰,Undirected,4
+鄧百川,虛竹,Undirected,12
+鄧百川,段譽,Undirected,14
+鄧百川,阿朱,Undirected,2
+鄧百川,王語嫣,Undirected,21
+鄧百川,木婉清,Undirected,1
+鄧百川,范驊 范司馬,Undirected,1
+鄧百川,巴天石 司空,Undirected,4
+鄧百川,朱丹臣,Undirected,1
+鄧百川,慕容複 南慕容,Undirected,49
+鄧百川,公冶乾,Undirected,51
+鄧百川,包不同,Undirected,48
+鄧百川,風波惡,Undirected,37
+鄧百川,鳩摩智,Undirected,3
+鄧百川,蘇星河,Undirected,2
+鄧百川,丁春秋 星宿老怪 星宿派掌門人,Undirected,19
+鄧百川,段延慶 惡貫滿盈,Undirected,4
+鄧百川,葉二娘 無惡不作,Undirected,1
+鄧百川,雲中鶴 窮凶極惡,Undirected,1
+鄧百川,游坦之 鐵頭人 莊聚賢,Undirected,4
+鄧百川,玄悲,Undirected,2
+鄧百川,玄渡 杜老先生,Undirected,1
+鄧百川,玄難,Undirected,29
+鄧百川,玄寂,Undirected,1
+鄧百川,玄痛,Undirected,10
+鄧百川,玄苦,Undirected,1
+鄧百川,慧淨,Undirected,1
+鄧百川,慧方,Undirected,2
+鄧百川,慧鏡,Undirected,3
+鄧百川,王雲蘿 王夫人,Undirected,2
+鄧百川,康廣陵,Undirected,6
+鄧百川,薛慕華,Undirected,5
+鄧百川,馮阿三,Undirected,1
+鄧百川,李傀儡,Undirected,1
+鄧百川,桑土公,Undirected,5
+鄧百川,烏老大,Undirected,4
+鄧百川,不平道人,Undirected,3
+鄧百川,崔綠華,Undirected,1
+鄧百川,卓不凡,Undirected,1
+鄧百川,安洞主,Undirected,1
+公冶乾,﻿喬峰 蕭峰,Undirected,3
+公冶乾,虛竹,Undirected,4
+公冶乾,段譽,Undirected,4
+公冶乾,阿朱,Undirected,1
+公冶乾,王語嫣,Undirected,13
+公冶乾,巴天石 司空,Undirected,1
+公冶乾,朱丹臣,Undirected,1
+公冶乾,慕容複 南慕容,Undirected,31
+公冶乾,慕容博,Undirected,1
+公冶乾,鄧百川,Undirected,51
+公冶乾,包不同,Undirected,44
+公冶乾,風波惡,Undirected,43
+公冶乾,鳩摩智,Undirected,1
+公冶乾,蘇星河,Undirected,2
+公冶乾,丁春秋 星宿老怪 星宿派掌門人,Undirected,13
+公冶乾,段延慶 惡貫滿盈,Undirected,2
+公冶乾,雲中鶴 窮凶極惡,Undirected,1
+公冶乾,游坦之 鐵頭人 莊聚賢,Undirected,2
+公冶乾,玄悲,Undirected,2
+公冶乾,玄渡 杜老先生,Undirected,1
+公冶乾,玄難,Undirected,21
+公冶乾,玄寂,Undirected,1
+公冶乾,玄痛,Undirected,8
+公冶乾,玄苦,Undirected,2
+公冶乾,慧方,Undirected,2
+公冶乾,慧鏡,Undirected,1
+公冶乾,王雲蘿 王夫人,Undirected,1
+公冶乾,吳長風,Undirected,1
+公冶乾,宋長老,Undirected,1
+公冶乾,陳孤雁,Undirected,1
+公冶乾,全冠清,Undirected,1
+公冶乾,康廣陵,Undirected,2
+公冶乾,薛慕華,Undirected,2
+公冶乾,馮阿三,Undirected,1
+公冶乾,桑土公,Undirected,4
+公冶乾,不平道人,Undirected,1
+包不同,﻿喬峰 蕭峰,Undirected,6
+包不同,虛竹,Undirected,14
+包不同,段譽,Undirected,26
+包不同,阿朱,Undirected,16
+包不同,阿碧,Undirected,15
+包不同,王語嫣,Undirected,39
+包不同,巴天石 司空,Undirected,4
+包不同,朱丹臣,Undirected,4
+包不同,慕容複 南慕容,Undirected,46
+包不同,慕容博,Undirected,1
+包不同,鄧百川,Undirected,48
+包不同,公冶乾,Undirected,44
+包不同,風波惡,Undirected,62
+包不同,天山童姥,Undirected,1
+包不同,蘇星河,Undirected,3
+包不同,丁春秋 星宿老怪 星宿派掌門人,Undirected,18
+包不同,段延慶 惡貫滿盈,Undirected,4
+包不同,游坦之 鐵頭人 莊聚賢,Undirected,5
+包不同,左子穆,Undirected,1
+包不同,辛雙清,Undirected,1
+包不同,玄難,Undirected,19
+包不同,玄寂,Undirected,1
+包不同,玄痛,Undirected,10
+包不同,慧淨,Undirected,1
+包不同,王雲蘿 王夫人,Undirected,5
+包不同,老顧,Undirected,1
+包不同,姚伯當,Undirected,2
+包不同,諸保昆,Undirected,2
+包不同,司馬林,Undirected,1
+包不同,包不靚,Undirected,3
+包不同,馬大元,Undirected,1
+包不同,蔣舵主,Undirected,2
+包不同,宋長老,Undirected,8
+包不同,陳孤雁,Undirected,1
+包不同,全冠清,Undirected,4
+包不同,康廣陵,Undirected,7
+包不同,苟讀,Undirected,3
+包不同,吳領軍,Undirected,1
+包不同,薛慕華,Undirected,3
+包不同,馮阿三,Undirected,1
+包不同,李傀儡,Undirected,3
+包不同,桑土公,Undirected,10
+包不同,烏老大,Undirected,7
+包不同,不平道人,Undirected,2
+包不同,欽島主,Undirected,1
+包不同,安洞主,Undirected,1
+包不同,九翼道人,Undirected,2
+包不同,哈大霸,Undirected,2
+包不同,宗贊,Undirected,3
+風波惡,﻿喬峰 蕭峰,Undirected,2
+風波惡,虛竹,Undirected,5
+風波惡,段譽,Undirected,11
+風波惡,阿朱,Undirected,9
+風波惡,阿碧,Undirected,9
+風波惡,王語嫣,Undirected,22
+風波惡,段正淳 鎮南王,Undirected,1
+風波惡,巴天石 司空,Undirected,2
+風波惡,朱丹臣,Undirected,2
+風波惡,慕容複 南慕容,Undirected,30
+風波惡,鄧百川,Undirected,37
+風波惡,公冶乾,Undirected,43
+風波惡,包不同,Undirected,62
+風波惡,蘇星河,Undirected,4
+風波惡,丁春秋 星宿老怪 星宿派掌門人,Undirected,15
+風波惡,段延慶 惡貫滿盈,Undirected,6
+風波惡,游坦之 鐵頭人 莊聚賢,Undirected,2
+風波惡,玄難,Undirected,15
+風波惡,玄寂,Undirected,1
+風波惡,玄痛,Undirected,6
+風波惡,慧淨,Undirected,2
+風波惡,王雲蘿 王夫人,Undirected,3
+風波惡,蔣舵主,Undirected,1
+風波惡,陳孤雁,Undirected,2
+風波惡,全冠清,Undirected,1
+風波惡,李春來,Undirected,1
+風波惡,劉竹莊,Undirected,1
+風波惡,康廣陵,Undirected,1
+風波惡,薛慕華,Undirected,2
+風波惡,馮阿三,Undirected,1
+風波惡,李傀儡,Undirected,1
+風波惡,桑土公,Undirected,2
+風波惡,烏老大,Undirected,1
+風波惡,不平道人,Undirected,1
+鳩摩智,﻿喬峰 蕭峰,Undirected,8
+鳩摩智,虛竹,Undirected,43
+鳩摩智,段譽,Undirected,119
+鳩摩智,阿朱,Undirected,22
+鳩摩智,阿碧,Undirected,35
+鳩摩智,王語嫣,Undirected,19
+鳩摩智,木婉清,Undirected,5
+鳩摩智,段正明 本塵,Undirected,3
+鳩摩智,段正淳 鎮南王,Undirected,9
+鳩摩智,朱丹臣,Undirected,2
+鳩摩智,慕容複 南慕容,Undirected,44
+鳩摩智,慕容博,Undirected,15
+鳩摩智,鄧百川,Undirected,3
+鳩摩智,公冶乾,Undirected,1
+鳩摩智,無名老僧 掃地僧,Undirected,2
+鳩摩智,蕭遠山,Undirected,3
+鳩摩智,無崖子,Undirected,1
+鳩摩智,天山童姥,Undirected,1
+鳩摩智,蘇星河,Undirected,6
+鳩摩智,丁春秋 星宿老怪 星宿派掌門人,Undirected,11
+鳩摩智,段延慶 惡貫滿盈,Undirected,9
+鳩摩智,葉二娘 無惡不作,Undirected,1
+鳩摩智,岳老三 南海鱷神,Undirected,5
+鳩摩智,雲中鶴 窮凶極惡,Undirected,1
+鳩摩智,游坦之 鐵頭人 莊聚賢,Undirected,5
+鳩摩智,柯百歲,Undirected,1
+鳩摩智,崔百泉 霍先生,Undirected,13
+鳩摩智,過彥之,Undirected,10
+鳩摩智,鐘萬仇,Undirected,1
+鳩摩智,枯榮大師 枯榮,Undirected,28
+鳩摩智,本因大師 本因,Undirected,26
+鳩摩智,本觀,Undirected,7
+鳩摩智,本相,Undirected,8
+鳩摩智,本參,Undirected,10
+鳩摩智,本塵,Undirected,2
+鳩摩智,玄悲,Undirected,1
+鳩摩智,玄慈 帶頭大哥,Undirected,11
+鳩摩智,玄慚,Undirected,1
+鳩摩智,玄生,Undirected,11
+鳩摩智,玄渡 杜老先生,Undirected,9
+鳩摩智,玄愧,Undirected,1
+鳩摩智,玄念,Undirected,1
+鳩摩智,玄淨,Undirected,3
+鳩摩智,玄難,Undirected,6
+鳩摩智,玄寂,Undirected,4
+鳩摩智,玄痛,Undirected,1
+鳩摩智,玄滅,Undirected,2
+鳩摩智,玄苦,Undirected,2
+鳩摩智,慧方,Undirected,1
+鳩摩智,慧鏡,Undirected,1
+鳩摩智,慧輪,Undirected,1
+鳩摩智,王雲蘿 王夫人,Undirected,2
+鳩摩智,玄苦大師,Undirected,1
+鳩摩智,康廣陵,Undirected,2
+鳩摩智,薛慕華,Undirected,1
+鳩摩智,梅劍,Undirected,1
+鳩摩智,菊劍,Undirected,2
+鳩摩智,神山上人,Undirected,6
+鳩摩智,觀心大師 觀心,Undirected,4
+鳩摩智,道清大師 道清,Undirected,3
+鳩摩智,覺賢大師 覺賢,Undirected,1
+鳩摩智,哲羅星,Undirected,12
+鳩摩智,波羅星,Undirected,9
+無名老僧 掃地僧,段譽,Undirected,1
+無名老僧 掃地僧,慕容複 南慕容,Undirected,1
+無名老僧 掃地僧,慕容博,Undirected,2
+無名老僧 掃地僧,鳩摩智,Undirected,2
+無名老僧 掃地僧,蕭遠山,Undirected,2
+無名老僧 掃地僧,葉二娘 無惡不作,Undirected,1
+無名老僧 掃地僧,玄慈 帶頭大哥,Undirected,1
+無名老僧 掃地僧,玄苦,Undirected,1
+無名老僧 掃地僧,喬三槐,Undirected,1
+無名老僧 掃地僧,玄苦大師,Undirected,1
+蕭遠山,﻿喬峰 蕭峰,Undirected,21
+蕭遠山,虛竹,Undirected,1
+蕭遠山,段譽,Undirected,1
+蕭遠山,慕容複 南慕容,Undirected,9
+蕭遠山,慕容博,Undirected,26
+蕭遠山,鳩摩智,Undirected,3
+蕭遠山,無名老僧 掃地僧,Undirected,2
+蕭遠山,葉二娘 無惡不作,Undirected,4
+蕭遠山,玄慈 帶頭大哥,Undirected,7
+蕭遠山,玄生,Undirected,2
+蕭遠山,玄淨,Undirected,1
+蕭遠山,玄滅,Undirected,2
+蕭遠山,玄苦,Undirected,3
+蕭遠山,馬大元,Undirected,1
+蕭遠山,汪劍通 劍髯,Undirected,2
+蕭遠山,全冠清,Undirected,2
+蕭遠山,白世鏡,Undirected,1
+蕭遠山,趙錢孫,Undirected,1
+蕭遠山,智光大師,Undirected,1
+蕭遠山,喬三槐,Undirected,1
+蕭遠山,玄苦大師,Undirected,1
+蕭遠山,神山上人,Undirected,1
+蕭遠山,觀心大師 觀心,Undirected,1
+蕭遠山,道清大師 道清,Undirected,2
+蕭遠山,哲羅星,Undirected,2
+蕭遠山,波羅星,Undirected,2
+無崖子,虛竹,Undirected,34
+無崖子,鳩摩智,Undirected,1
+無崖子,天山童姥,Undirected,1
+無崖子,李秋水,Undirected,14
+無崖子,蘇星河,Undirected,4
+無崖子,丁春秋 星宿老怪 星宿派掌門人,Undirected,4
+無崖子,段延慶 惡貫滿盈,Undirected,1
+無崖子,玄渡 杜老先生,Undirected,1
+無崖子,玄難,Undirected,1
+無崖子,慧方,Undirected,1
+無崖子,烏老大,Undirected,3
+無崖子,不平道人,Undirected,1
+天山童姥,﻿喬峰 蕭峰,Undirected,1
+天山童姥,虛竹,Undirected,11
+天山童姥,段譽,Undirected,10
+天山童姥,阿紫,Undirected,1
+天山童姥,王語嫣,Undirected,4
+天山童姥,巴天石 司空,Undirected,6
+天山童姥,慕容複 南慕容,Undirected,6
+天山童姥,包不同,Undirected,1
+天山童姥,鳩摩智,Undirected,1
+天山童姥,無崖子,Undirected,1
+天山童姥,李秋水,Undirected,1
+天山童姥,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+天山童姥,左子穆,Undirected,1
+天山童姥,郁光標 鬱游標,Undirected,1
+天山童姥,吳光勝,Undirected,1
+天山童姥,司空玄,Undirected,6
+天山童姥,玄難,Undirected,1
+天山童姥,慧方,Undirected,1
+天山童姥,符聖使,Undirected,1
+天山童姥,烏老大,Undirected,17
+天山童姥,不平道人,Undirected,5
+天山童姥,卓不凡,Undirected,1
+天山童姥,九翼道人,Undirected,1
+天山童姥,區島主,Undirected,1
+李秋水,虛竹,Undirected,84
+李秋水,段譽,Undirected,4
+李秋水,阿紫,Undirected,1
+李秋水,王語嫣,Undirected,1
+李秋水,慕容複 南慕容,Undirected,2
+李秋水,無崖子,Undirected,14
+李秋水,天山童姥,Undirected,1
+李秋水,蘇星河,Undirected,1
+李秋水,丁春秋 星宿老怪 星宿派掌門人,Undirected,2
+李秋水,玄慈 帶頭大哥,Undirected,1
+李秋水,余婆,Undirected,1
+李秋水,石嫂,Undirected,1
+李秋水,桑土公,Undirected,1
+李秋水,烏老大,Undirected,4
+李秋水,夢姑,Undirected,1
+蘇星河,虛竹,Undirected,64
+蘇星河,段譽,Undirected,11
+蘇星河,王語嫣,Undirected,6
+蘇星河,段正淳 鎮南王,Undirected,2
+蘇星河,朱丹臣,Undirected,1
+蘇星河,慕容複 南慕容,Undirected,9
+蘇星河,鄧百川,Undirected,2
+蘇星河,公冶乾,Undirected,2
+蘇星河,包不同,Undirected,3
+蘇星河,風波惡,Undirected,4
+蘇星河,鳩摩智,Undirected,6
+蘇星河,無崖子,Undirected,4
+蘇星河,李秋水,Undirected,1
+蘇星河,丁春秋 星宿老怪 星宿派掌門人,Undirected,45
+蘇星河,段延慶 惡貫滿盈,Undirected,7
+蘇星河,葉二娘 無惡不作,Undirected,1
+蘇星河,岳老三 南海鱷神,Undirected,2
+蘇星河,雲中鶴 窮凶極惡,Undirected,1
+蘇星河,游坦之 鐵頭人 莊聚賢,Undirected,1
+蘇星河,玄慈 帶頭大哥,Undirected,1
+蘇星河,玄渡 杜老先生,Undirected,1
+蘇星河,玄難,Undirected,31
+蘇星河,慧方,Undirected,3
+蘇星河,慧鏡,Undirected,1
+蘇星河,全冠清,Undirected,1
+蘇星河,康廣陵,Undirected,7
+蘇星河,范百齡,Undirected,1
+蘇星河,苟讀,Undirected,1
+蘇星河,吳領軍,Undirected,1
+蘇星河,薛慕華,Undirected,7
+蘇星河,馮阿三,Undirected,1
+蘇星河,石清風 石清露,Undirected,2
+蘇星河,李傀儡,Undirected,1
+蘇星河,烏老大,Undirected,1
+蘇星河,不平道人,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,﻿喬峰 蕭峰,Undirected,27
+丁春秋 星宿老怪 星宿派掌門人,虛竹,Undirected,62
+丁春秋 星宿老怪 星宿派掌門人,段譽,Undirected,19
+丁春秋 星宿老怪 星宿派掌門人,阿紫,Undirected,61
+丁春秋 星宿老怪 星宿派掌門人,王語嫣,Undirected,9
+丁春秋 星宿老怪 星宿派掌門人,段正淳 鎮南王,Undirected,3
+丁春秋 星宿老怪 星宿派掌門人,范驊 范司馬,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,巴天石 司空,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,褚萬里,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,朱丹臣,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,阮星竹,Undirected,3
+丁春秋 星宿老怪 星宿派掌門人,慕容複 南慕容,Undirected,39
+丁春秋 星宿老怪 星宿派掌門人,慕容博,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,鄧百川,Undirected,19
+丁春秋 星宿老怪 星宿派掌門人,公冶乾,Undirected,13
+丁春秋 星宿老怪 星宿派掌門人,包不同,Undirected,18
+丁春秋 星宿老怪 星宿派掌門人,風波惡,Undirected,15
+丁春秋 星宿老怪 星宿派掌門人,鳩摩智,Undirected,11
+丁春秋 星宿老怪 星宿派掌門人,無崖子,Undirected,4
+丁春秋 星宿老怪 星宿派掌門人,天山童姥,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,李秋水,Undirected,2
+丁春秋 星宿老怪 星宿派掌門人,蘇星河,Undirected,45
+丁春秋 星宿老怪 星宿派掌門人,段延慶 惡貫滿盈,Undirected,12
+丁春秋 星宿老怪 星宿派掌門人,葉二娘 無惡不作,Undirected,3
+丁春秋 星宿老怪 星宿派掌門人,岳老三 南海鱷神,Undirected,3
+丁春秋 星宿老怪 星宿派掌門人,游坦之 鐵頭人 莊聚賢,Undirected,25
+丁春秋 星宿老怪 星宿派掌門人,玄悲,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,玄慈 帶頭大哥,Undirected,9
+丁春秋 星宿老怪 星宿派掌門人,玄生,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,玄渡 杜老先生,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,玄難,Undirected,54
+丁春秋 星宿老怪 星宿派掌門人,玄寂,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,玄痛,Undirected,9
+丁春秋 星宿老怪 星宿派掌門人,玄苦,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,慧淨,Undirected,14
+丁春秋 星宿老怪 星宿派掌門人,慧方,Undirected,7
+丁春秋 星宿老怪 星宿派掌門人,慧鏡,Undirected,3
+丁春秋 星宿老怪 星宿派掌門人,汪劍通 劍髯,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,宋長老,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,全冠清,Undirected,18
+丁春秋 星宿老怪 星宿派掌門人,康廣陵,Undirected,15
+丁春秋 星宿老怪 星宿派掌門人,范百齡,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,苟讀,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,吳領軍,Undirected,2
+丁春秋 星宿老怪 星宿派掌門人,薛慕華,Undirected,30
+丁春秋 星宿老怪 星宿派掌門人,馮阿三,Undirected,4
+丁春秋 星宿老怪 星宿派掌門人,石清風 石清露,Undirected,2
+丁春秋 星宿老怪 星宿派掌門人,李傀儡,Undirected,6
+丁春秋 星宿老怪 星宿派掌門人,梅劍,Undirected,2
+丁春秋 星宿老怪 星宿派掌門人,蘭劍,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,菊劍,Undirected,4
+丁春秋 星宿老怪 星宿派掌門人,烏老大,Undirected,3
+丁春秋 星宿老怪 星宿派掌門人,不平道人,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,獅吼子,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,摘星子,Undirected,3
+丁春秋 星宿老怪 星宿派掌門人,天狼子,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,觀心大師 觀心,Undirected,1
+丁春秋 星宿老怪 星宿派掌門人,道清大師 道清,Undirected,1
+段延慶 惡貫滿盈,﻿喬峰 蕭峰,Undirected,13
+段延慶 惡貫滿盈,虛竹,Undirected,18
+段延慶 惡貫滿盈,段譽,Undirected,57
+段延慶 惡貫滿盈,阿朱,Undirected,1
+段延慶 惡貫滿盈,阿紫,Undirected,3
+段延慶 惡貫滿盈,阿碧,Undirected,1
+段延慶 惡貫滿盈,王語嫣,Undirected,5
+段延慶 惡貫滿盈,木婉清,Undirected,5
+段延慶 惡貫滿盈,段正明 本塵,Undirected,7
+段延慶 惡貫滿盈,段正淳 鎮南王,Undirected,65
+段延慶 惡貫滿盈,刀白鳳 鎮南王妃,Undirected,5
+段延慶 惡貫滿盈,范驊 范司馬,Undirected,9
+段延慶 惡貫滿盈,巴天石 司空,Undirected,7
+段延慶 惡貫滿盈,華赫艮 華司徒,Undirected,8
+段延慶 惡貫滿盈,褚萬里,Undirected,13
+段延慶 惡貫滿盈,古篤誠,Undirected,3
+段延慶 惡貫滿盈,傅思歸,Undirected,4
+段延慶 惡貫滿盈,朱丹臣,Undirected,9
+段延慶 惡貫滿盈,秦紅棉 修羅刀 幽谷客,Undirected,3
+段延慶 惡貫滿盈,甘寶寶 鐘夫人,Undirected,4
+段延慶 惡貫滿盈,阮星竹,Undirected,7
+段延慶 惡貫滿盈,阿蘿,Undirected,2
+段延慶 惡貫滿盈,慕容複 南慕容,Undirected,49
+段延慶 惡貫滿盈,慕容博,Undirected,1
+段延慶 惡貫滿盈,鄧百川,Undirected,4
+段延慶 惡貫滿盈,公冶乾,Undirected,2
+段延慶 惡貫滿盈,包不同,Undirected,4
+段延慶 惡貫滿盈,風波惡,Undirected,6
+段延慶 惡貫滿盈,鳩摩智,Undirected,9
+段延慶 惡貫滿盈,無崖子,Undirected,1
+段延慶 惡貫滿盈,蘇星河,Undirected,7
+段延慶 惡貫滿盈,丁春秋 星宿老怪 星宿派掌門人,Undirected,12
+段延慶 惡貫滿盈,葉二娘 無惡不作,Undirected,11
+段延慶 惡貫滿盈,岳老三 南海鱷神,Undirected,31
+段延慶 惡貫滿盈,雲中鶴 窮凶極惡,Undirected,18
+段延慶 惡貫滿盈,游坦之 鐵頭人 莊聚賢,Undirected,2
+段延慶 惡貫滿盈,崔百泉 霍先生,Undirected,3
+段延慶 惡貫滿盈,過彥之,Undirected,1
+段延慶 惡貫滿盈,鐘萬仇,Undirected,3
+段延慶 惡貫滿盈,黃眉僧,Undirected,7
+段延慶 惡貫滿盈,枯榮大師 枯榮,Undirected,3
+段延慶 惡貫滿盈,本因大師 本因,Undirected,1
+段延慶 惡貫滿盈,本觀,Undirected,1
+段延慶 惡貫滿盈,本相,Undirected,1
+段延慶 惡貫滿盈,本參,Undirected,1
+段延慶 惡貫滿盈,玄悲,Undirected,1
+段延慶 惡貫滿盈,玄渡 杜老先生,Undirected,1
+段延慶 惡貫滿盈,玄難,Undirected,8
+段延慶 惡貫滿盈,王雲蘿 王夫人,Undirected,24
+段延慶 惡貫滿盈,譚公,Undirected,1
+段延慶 惡貫滿盈,譚青,Undirected,2
+段延慶 惡貫滿盈,康廣陵,Undirected,2
+段延慶 惡貫滿盈,薛慕華,Undirected,1
+段延慶 惡貫滿盈,梅劍,Undirected,1
+段延慶 惡貫滿盈,赫連鐵樹,Undirected,4
+葉二娘 無惡不作,﻿喬峰 蕭峰,Undirected,4
+葉二娘 無惡不作,虛竹,Undirected,17
+葉二娘 無惡不作,段譽,Undirected,26
+葉二娘 無惡不作,阿朱,Undirected,1
+葉二娘 無惡不作,王語嫣,Undirected,2
+葉二娘 無惡不作,木婉清,Undirected,25
+葉二娘 無惡不作,段正明 本塵,Undirected,1
+葉二娘 無惡不作,段正淳 鎮南王,Undirected,10
+葉二娘 無惡不作,高昇泰 善闡侯,Undirected,6
+葉二娘 無惡不作,范驊 范司馬,Undirected,3
+葉二娘 無惡不作,巴天石 司空,Undirected,2
+葉二娘 無惡不作,華赫艮 華司徒,Undirected,2
+葉二娘 無惡不作,褚萬里,Undirected,6
+葉二娘 無惡不作,古篤誠,Undirected,3
+葉二娘 無惡不作,傅思歸,Undirected,4
+葉二娘 無惡不作,朱丹臣,Undirected,7
+葉二娘 無惡不作,秦紅棉 修羅刀 幽谷客,Undirected,2
+葉二娘 無惡不作,甘寶寶 鐘夫人,Undirected,3
+葉二娘 無惡不作,阮星竹,Undirected,1
+葉二娘 無惡不作,慕容複 南慕容,Undirected,3
+葉二娘 無惡不作,慕容博,Undirected,1
+葉二娘 無惡不作,鄧百川,Undirected,1
+葉二娘 無惡不作,鳩摩智,Undirected,1
+葉二娘 無惡不作,無名老僧 掃地僧,Undirected,1
+葉二娘 無惡不作,蕭遠山,Undirected,4
+葉二娘 無惡不作,蘇星河,Undirected,1
+葉二娘 無惡不作,丁春秋 星宿老怪 星宿派掌門人,Undirected,3
+葉二娘 無惡不作,段延慶 惡貫滿盈,Undirected,11
+葉二娘 無惡不作,岳老三 南海鱷神,Undirected,59
+葉二娘 無惡不作,雲中鶴 窮凶極惡,Undirected,35
+葉二娘 無惡不作,崔百泉 霍先生,Undirected,2
+葉二娘 無惡不作,左子穆,Undirected,16
+葉二娘 無惡不作,辛雙清,Undirected,1
+葉二娘 無惡不作,鐘萬仇,Undirected,12
+葉二娘 無惡不作,黃眉僧,Undirected,6
+葉二娘 無惡不作,本因大師 本因,Undirected,1
+葉二娘 無惡不作,本觀,Undirected,1
+葉二娘 無惡不作,本相,Undirected,1
+葉二娘 無惡不作,本參,Undirected,1
+葉二娘 無惡不作,玄慈 帶頭大哥,Undirected,9
+葉二娘 無惡不作,玄難,Undirected,1
+葉二娘 無惡不作,玄寂,Undirected,2
+葉二娘 無惡不作,玄苦,Undirected,1
+葉二娘 無惡不作,瑞婆婆,Undirected,1
+葉二娘 無惡不作,平婆婆,Undirected,1
+葉二娘 無惡不作,喬三槐,Undirected,1
+葉二娘 無惡不作,玄苦大師,Undirected,1
+葉二娘 無惡不作,康廣陵,Undirected,1
+葉二娘 無惡不作,薛慕華,Undirected,1
+葉二娘 無惡不作,赫連鐵樹,Undirected,1
+葉二娘 無惡不作,努兒海,Undirected,1
+岳老三 南海鱷神,﻿喬峰 蕭峰,Undirected,9
+岳老三 南海鱷神,虛竹,Undirected,13
+岳老三 南海鱷神,段譽,Undirected,156
+岳老三 南海鱷神,阿朱,Undirected,3
+岳老三 南海鱷神,阿紫,Undirected,1
+岳老三 南海鱷神,阿碧,Undirected,1
+岳老三 南海鱷神,王語嫣,Undirected,6
+岳老三 南海鱷神,木婉清,Undirected,79
+岳老三 南海鱷神,段正明 本塵,Undirected,2
+岳老三 南海鱷神,段正淳 鎮南王,Undirected,37
+岳老三 南海鱷神,刀白鳳 鎮南王妃,Undirected,3
+岳老三 南海鱷神,高昇泰 善闡侯,Undirected,14
+岳老三 南海鱷神,范驊 范司馬,Undirected,1
+岳老三 南海鱷神,巴天石 司空,Undirected,6
+岳老三 南海鱷神,華赫艮 華司徒,Undirected,2
+岳老三 南海鱷神,褚萬里,Undirected,8
+岳老三 南海鱷神,古篤誠,Undirected,2
+岳老三 南海鱷神,傅思歸,Undirected,3
+岳老三 南海鱷神,朱丹臣,Undirected,7
+岳老三 南海鱷神,秦紅棉 修羅刀 幽谷客,Undirected,6
+岳老三 南海鱷神,甘寶寶 鐘夫人,Undirected,9
+岳老三 南海鱷神,阮星竹,Undirected,1
+岳老三 南海鱷神,慕容複 南慕容,Undirected,13
+岳老三 南海鱷神,鳩摩智,Undirected,5
+岳老三 南海鱷神,蘇星河,Undirected,2
+岳老三 南海鱷神,丁春秋 星宿老怪 星宿派掌門人,Undirected,3
+岳老三 南海鱷神,段延慶 惡貫滿盈,Undirected,31
+岳老三 南海鱷神,葉二娘 無惡不作,Undirected,59
+岳老三 南海鱷神,雲中鶴 窮凶極惡,Undirected,67
+岳老三 南海鱷神,游坦之 鐵頭人 莊聚賢,Undirected,1
+岳老三 南海鱷神,崔百泉 霍先生,Undirected,6
+岳老三 南海鱷神,過彥之,Undirected,1
+岳老三 南海鱷神,左子穆,Undirected,7
+岳老三 南海鱷神,辛雙清,Undirected,2
+岳老三 南海鱷神,郁光標 鬱游標,Undirected,1
+岳老三 南海鱷神,馬五德,Undirected,1
+岳老三 南海鱷神,司空玄,Undirected,1
+岳老三 南海鱷神,進喜兒,Undirected,1
+岳老三 南海鱷神,鐘萬仇,Undirected,24
+岳老三 南海鱷神,孫三霸,Undirected,3
+岳老三 南海鱷神,黃眉僧,Undirected,6
+岳老三 南海鱷神,本因大師 本因,Undirected,2
+岳老三 南海鱷神,本觀,Undirected,1
+岳老三 南海鱷神,本相,Undirected,1
+岳老三 南海鱷神,本參,Undirected,1
+岳老三 南海鱷神,玄難,Undirected,1
+岳老三 南海鱷神,瑞婆婆,Undirected,5
+岳老三 南海鱷神,平婆婆,Undirected,3
+岳老三 南海鱷神,王雲蘿 王夫人,Undirected,4
+岳老三 南海鱷神,康廣陵,Undirected,1
+岳老三 南海鱷神,薛慕華,Undirected,1
+岳老三 南海鱷神,赫連鐵樹,Undirected,4
+岳老三 南海鱷神,努兒海,Undirected,1
+雲中鶴 窮凶極惡,﻿喬峰 蕭峰,Undirected,5
+雲中鶴 窮凶極惡,虛竹,Undirected,4
+雲中鶴 窮凶極惡,段譽,Undirected,34
+雲中鶴 窮凶極惡,阿朱,Undirected,1
+雲中鶴 窮凶極惡,阿紫,Undirected,1
+雲中鶴 窮凶極惡,阿碧,Undirected,1
+雲中鶴 窮凶極惡,王語嫣,Undirected,9
+雲中鶴 窮凶極惡,木婉清,Undirected,32
+雲中鶴 窮凶極惡,鍾靈,Undirected,1
+雲中鶴 窮凶極惡,段正明 本塵,Undirected,1
+雲中鶴 窮凶極惡,段正淳 鎮南王,Undirected,14
+雲中鶴 窮凶極惡,刀白鳳 鎮南王妃,Undirected,2
+雲中鶴 窮凶極惡,高昇泰 善闡侯,Undirected,4
+雲中鶴 窮凶極惡,范驊 范司馬,Undirected,2
+雲中鶴 窮凶極惡,巴天石 司空,Undirected,8
+雲中鶴 窮凶極惡,華赫艮 華司徒,Undirected,2
+雲中鶴 窮凶極惡,褚萬里,Undirected,5
+雲中鶴 窮凶極惡,古篤誠,Undirected,3
+雲中鶴 窮凶極惡,傅思歸,Undirected,5
+雲中鶴 窮凶極惡,朱丹臣,Undirected,12
+雲中鶴 窮凶極惡,秦紅棉 修羅刀 幽谷客,Undirected,3
+雲中鶴 窮凶極惡,甘寶寶 鐘夫人,Undirected,9
+雲中鶴 窮凶極惡,阮星竹,Undirected,1
+雲中鶴 窮凶極惡,慕容複 南慕容,Undirected,2
+雲中鶴 窮凶極惡,慕容博,Undirected,1
+雲中鶴 窮凶極惡,鄧百川,Undirected,1
+雲中鶴 窮凶極惡,公冶乾,Undirected,1
+雲中鶴 窮凶極惡,鳩摩智,Undirected,1
+雲中鶴 窮凶極惡,蘇星河,Undirected,1
+雲中鶴 窮凶極惡,段延慶 惡貫滿盈,Undirected,18
+雲中鶴 窮凶極惡,葉二娘 無惡不作,Undirected,35
+雲中鶴 窮凶極惡,岳老三 南海鱷神,Undirected,67
+雲中鶴 窮凶極惡,崔百泉 霍先生,Undirected,6
+雲中鶴 窮凶極惡,過彥之,Undirected,2
+雲中鶴 窮凶極惡,左子穆,Undirected,5
+雲中鶴 窮凶極惡,鐘萬仇,Undirected,23
+雲中鶴 窮凶極惡,黃眉僧,Undirected,7
+雲中鶴 窮凶極惡,本因大師 本因,Undirected,1
+雲中鶴 窮凶極惡,本觀,Undirected,1
+雲中鶴 窮凶極惡,本相,Undirected,1
+雲中鶴 窮凶極惡,本參,Undirected,1
+雲中鶴 窮凶極惡,玄悲,Undirected,1
+雲中鶴 窮凶極惡,瑞婆婆,Undirected,1
+雲中鶴 窮凶極惡,平婆婆,Undirected,1
+雲中鶴 窮凶極惡,奚山河 奚長老,Undirected,3
+雲中鶴 窮凶極惡,宋長老,Undirected,1
+雲中鶴 窮凶極惡,徐沖霄 徐長老,Undirected,2
+雲中鶴 窮凶極惡,譚青,Undirected,5
+雲中鶴 窮凶極惡,摘星子,Undirected,1
+雲中鶴 窮凶極惡,赫連鐵樹,Undirected,3
+雲中鶴 窮凶極惡,努兒海,Undirected,2
+雲中鶴 窮凶極惡,哲羅星,Undirected,1
+游坦之 鐵頭人 莊聚賢,﻿喬峰 蕭峰,Undirected,19
+游坦之 鐵頭人 莊聚賢,虛竹,Undirected,4
+游坦之 鐵頭人 莊聚賢,段譽,Undirected,7
+游坦之 鐵頭人 莊聚賢,阿朱,Undirected,1
+游坦之 鐵頭人 莊聚賢,阿紫,Undirected,54
+游坦之 鐵頭人 莊聚賢,王語嫣,Undirected,1
+游坦之 鐵頭人 莊聚賢,段正淳 鎮南王,Undirected,3
+游坦之 鐵頭人 莊聚賢,褚萬里,Undirected,1
+游坦之 鐵頭人 莊聚賢,朱丹臣,Undirected,1
+游坦之 鐵頭人 莊聚賢,阮星竹,Undirected,1
+游坦之 鐵頭人 莊聚賢,慕容複 南慕容,Undirected,6
+游坦之 鐵頭人 莊聚賢,慕容博,Undirected,2
+游坦之 鐵頭人 莊聚賢,鄧百川,Undirected,4
+游坦之 鐵頭人 莊聚賢,公冶乾,Undirected,2
+游坦之 鐵頭人 莊聚賢,包不同,Undirected,5
+游坦之 鐵頭人 莊聚賢,風波惡,Undirected,2
+游坦之 鐵頭人 莊聚賢,鳩摩智,Undirected,5
+游坦之 鐵頭人 莊聚賢,蘇星河,Undirected,1
+游坦之 鐵頭人 莊聚賢,丁春秋 星宿老怪 星宿派掌門人,Undirected,25
+游坦之 鐵頭人 莊聚賢,段延慶 惡貫滿盈,Undirected,2
+游坦之 鐵頭人 莊聚賢,岳老三 南海鱷神,Undirected,1
+游坦之 鐵頭人 莊聚賢,玄慈 帶頭大哥,Undirected,7
+游坦之 鐵頭人 莊聚賢,玄渡 杜老先生,Undirected,1
+游坦之 鐵頭人 莊聚賢,玄難,Undirected,4
+游坦之 鐵頭人 莊聚賢,玄寂,Undirected,1
+游坦之 鐵頭人 莊聚賢,玄痛,Undirected,3
+游坦之 鐵頭人 莊聚賢,慧淨,Undirected,2
+游坦之 鐵頭人 莊聚賢,慧鏡,Undirected,1
+游坦之 鐵頭人 莊聚賢,慧輪,Undirected,1
+游坦之 鐵頭人 莊聚賢,宋長老,Undirected,2
+游坦之 鐵頭人 莊聚賢,全冠清,Undirected,16
+游坦之 鐵頭人 莊聚賢,喬三槐,Undirected,1
+游坦之 鐵頭人 莊聚賢,游駒,Undirected,2
+游坦之 鐵頭人 莊聚賢,康廣陵,Undirected,3
+游坦之 鐵頭人 莊聚賢,薛慕華,Undirected,4
+游坦之 鐵頭人 莊聚賢,天狼子,Undirected,1
+游坦之 鐵頭人 莊聚賢,耶律洪基 耶律基,Undirected,1
+游坦之 鐵頭人 莊聚賢,室里 室裡,Undirected,2
+游坦之 鐵頭人 莊聚賢,波羅星,Undirected,1
+柯百歲,段譽,Undirected,4
+柯百歲,王語嫣,Undirected,2
+柯百歲,段正淳 鎮南王,Undirected,2
+柯百歲,慕容博,Undirected,1
+柯百歲,鳩摩智,Undirected,1
+柯百歲,崔百泉 霍先生,Undirected,2
+柯百歲,過彥之,Undirected,4
+柯百歲,玄悲,Undirected,1
+柯百歲,玄慈 帶頭大哥,Undirected,1
+崔百泉 霍先生,﻿喬峰 蕭峰,Undirected,1
+崔百泉 霍先生,段譽,Undirected,27
+崔百泉 霍先生,阿朱,Undirected,8
+崔百泉 霍先生,阿碧,Undirected,17
+崔百泉 霍先生,木婉清,Undirected,1
+崔百泉 霍先生,段正淳 鎮南王,Undirected,25
+崔百泉 霍先生,刀白鳳 鎮南王妃,Undirected,1
+崔百泉 霍先生,高昇泰 善闡侯,Undirected,3
+崔百泉 霍先生,范驊 范司馬,Undirected,3
+崔百泉 霍先生,巴天石 司空,Undirected,2
+崔百泉 霍先生,華赫艮 華司徒,Undirected,2
+崔百泉 霍先生,傅思歸,Undirected,1
+崔百泉 霍先生,秦紅棉 修羅刀 幽谷客,Undirected,2
+崔百泉 霍先生,甘寶寶 鐘夫人,Undirected,3
+崔百泉 霍先生,阮星竹,Undirected,1
+崔百泉 霍先生,慕容複 南慕容,Undirected,1
+崔百泉 霍先生,慕容博,Undirected,5
+崔百泉 霍先生,鳩摩智,Undirected,13
+崔百泉 霍先生,段延慶 惡貫滿盈,Undirected,3
+崔百泉 霍先生,葉二娘 無惡不作,Undirected,2
+崔百泉 霍先生,岳老三 南海鱷神,Undirected,6
+崔百泉 霍先生,雲中鶴 窮凶極惡,Undirected,6
+崔百泉 霍先生,柯百歲,Undirected,2
+崔百泉 霍先生,過彥之,Undirected,41
+崔百泉 霍先生,鐘萬仇,Undirected,6
+崔百泉 霍先生,黃眉僧,Undirected,9
+崔百泉 霍先生,蔡慶圖,Undirected,2
+崔百泉 霍先生,本因大師 本因,Undirected,1
+崔百泉 霍先生,本觀,Undirected,1
+崔百泉 霍先生,本相,Undirected,1
+崔百泉 霍先生,本參,Undirected,1
+崔百泉 霍先生,玄悲,Undirected,3
+崔百泉 霍先生,慧真,Undirected,4
+崔百泉 霍先生,慧觀,Undirected,4
+崔百泉 霍先生,司馬林,Undirected,1
+過彥之,段譽,Undirected,11
+過彥之,阿朱,Undirected,3
+過彥之,阿碧,Undirected,12
+過彥之,木婉清,Undirected,1
+過彥之,段正淳 鎮南王,Undirected,16
+過彥之,刀白鳳 鎮南王妃,Undirected,1
+過彥之,高昇泰 善闡侯,Undirected,2
+過彥之,范驊 范司馬,Undirected,1
+過彥之,華赫艮 華司徒,Undirected,1
+過彥之,傅思歸,Undirected,1
+過彥之,秦紅棉 修羅刀 幽谷客,Undirected,2
+過彥之,甘寶寶 鐘夫人,Undirected,1
+過彥之,阮星竹,Undirected,1
+過彥之,慕容博,Undirected,2
+過彥之,鳩摩智,Undirected,10
+過彥之,段延慶 惡貫滿盈,Undirected,1
+過彥之,岳老三 南海鱷神,Undirected,1
+過彥之,雲中鶴 窮凶極惡,Undirected,2
+過彥之,柯百歲,Undirected,4
+過彥之,崔百泉 霍先生,Undirected,41
+過彥之,黃眉僧,Undirected,2
+過彥之,蔡慶圖,Undirected,1
+過彥之,玄悲,Undirected,2
+過彥之,慧真,Undirected,4
+過彥之,慧觀,Undirected,4
+過彥之,司馬林,Undirected,1
+左子穆,虛竹,Undirected,1
+左子穆,段譽,Undirected,18
+左子穆,木婉清,Undirected,5
+左子穆,段正淳 鎮南王,Undirected,1
+左子穆,高昇泰 善闡侯,Undirected,1
+左子穆,巴天石 司空,Undirected,8
+左子穆,褚萬里,Undirected,2
+左子穆,傅思歸,Undirected,1
+左子穆,朱丹臣,Undirected,1
+左子穆,甘寶寶 鐘夫人,Undirected,1
+左子穆,包不同,Undirected,1
+左子穆,天山童姥,Undirected,1
+左子穆,葉二娘 無惡不作,Undirected,16
+左子穆,岳老三 南海鱷神,Undirected,7
+左子穆,雲中鶴 窮凶極惡,Undirected,5
+左子穆,辛雙清,Undirected,7
+左子穆,龔光傑,Undirected,10
+左子穆,容子矩,Undirected,3
+左子穆,光豪 干光豪,Undirected,4
+左子穆,郁光標 鬱游標,Undirected,1
+左子穆,馬五德,Undirected,4
+左子穆,司空玄,Undirected,7
+左子穆,鐘萬仇,Undirected,2
+左子穆,黃眉僧,Undirected,1
+左子穆,瑞婆婆,Undirected,1
+左子穆,平婆婆,Undirected,1
+左子穆,梅劍,Undirected,1
+辛雙清,段譽,Undirected,7
+辛雙清,段正淳 鎮南王,Undirected,1
+辛雙清,高昇泰 善闡侯,Undirected,1
+辛雙清,巴天石 司空,Undirected,4
+辛雙清,褚萬里,Undirected,1
+辛雙清,甘寶寶 鐘夫人,Undirected,1
+辛雙清,包不同,Undirected,1
+辛雙清,葉二娘 無惡不作,Undirected,1
+辛雙清,岳老三 南海鱷神,Undirected,2
+辛雙清,左子穆,Undirected,7
+辛雙清,光豪 干光豪,Undirected,1
+辛雙清,葛光佩,Undirected,1
+辛雙清,郁光標 鬱游標,Undirected,2
+辛雙清,吳光勝,Undirected,2
+辛雙清,馬五德,Undirected,1
+辛雙清,司空玄,Undirected,3
+辛雙清,鐘萬仇,Undirected,2
+辛雙清,黃眉僧,Undirected,1
+辛雙清,瑞婆婆,Undirected,1
+辛雙清,平婆婆,Undirected,1
+辛雙清,符聖使,Undirected,1
+辛雙清,卓不凡,Undirected,1
+龔光傑,段譽,Undirected,8
+龔光傑,左子穆,Undirected,10
+龔光傑,容子矩,Undirected,2
+龔光傑,光豪 干光豪,Undirected,4
+容子矩,段譽,Undirected,2
+容子矩,左子穆,Undirected,3
+容子矩,龔光傑,Undirected,2
+容子矩,光豪 干光豪,Undirected,1
+容子矩,馬五德,Undirected,1
+光豪 干光豪,段譽,Undirected,12
+光豪 干光豪,巴天石 司空,Undirected,1
+光豪 干光豪,左子穆,Undirected,4
+光豪 干光豪,辛雙清,Undirected,1
+光豪 干光豪,龔光傑,Undirected,4
+光豪 干光豪,容子矩,Undirected,1
+光豪 干光豪,葛光佩,Undirected,6
+光豪 干光豪,郁光標 鬱游標,Undirected,3
+光豪 干光豪,吳光勝,Undirected,3
+光豪 干光豪,司空玄,Undirected,1
+光豪 干光豪,符聖使,Undirected,1
+葛光佩,段譽,Undirected,1
+葛光佩,巴天石 司空,Undirected,1
+葛光佩,辛雙清,Undirected,1
+葛光佩,光豪 干光豪,Undirected,6
+葛光佩,郁光標 鬱游標,Undirected,3
+葛光佩,吳光勝,Undirected,3
+葛光佩,司空玄,Undirected,1
+葛光佩,符聖使,Undirected,1
+郁光標 鬱游標,段譽,Undirected,16
+郁光標 鬱游標,巴天石 司空,Undirected,1
+郁光標 鬱游標,天山童姥,Undirected,1
+郁光標 鬱游標,岳老三 南海鱷神,Undirected,1
+郁光標 鬱游標,左子穆,Undirected,1
+郁光標 鬱游標,辛雙清,Undirected,2
+郁光標 鬱游標,光豪 干光豪,Undirected,3
+郁光標 鬱游標,葛光佩,Undirected,3
+郁光標 鬱游標,吳光勝,Undirected,15
+郁光標 鬱游標,司空玄,Undirected,1
+郁光標 鬱游標,符聖使,Undirected,3
+吳光勝,段譽,Undirected,5
+吳光勝,巴天石 司空,Undirected,1
+吳光勝,天山童姥,Undirected,1
+吳光勝,辛雙清,Undirected,2
+吳光勝,光豪 干光豪,Undirected,3
+吳光勝,葛光佩,Undirected,3
+吳光勝,郁光標 鬱游標,Undirected,15
+吳光勝,司空玄,Undirected,1
+吳光勝,符聖使,Undirected,3
+唐光雄,段譽,Undirected,2
+唐光雄,王雲蘿 王夫人,Undirected,3
+馬五德,段譽,Undirected,6
+馬五德,段正淳 鎮南王,Undirected,2
+馬五德,刀白鳳 鎮南王妃,Undirected,1
+馬五德,高昇泰 善闡侯,Undirected,3
+馬五德,巴天石 司空,Undirected,1
+馬五德,褚萬里,Undirected,1
+馬五德,朱丹臣,Undirected,1
+馬五德,岳老三 南海鱷神,Undirected,1
+馬五德,左子穆,Undirected,4
+馬五德,辛雙清,Undirected,1
+馬五德,容子矩,Undirected,1
+馬五德,鐘萬仇,Undirected,2
+馬五德,黃眉僧,Undirected,1
+司空玄,段譽,Undirected,39
+司空玄,木婉清,Undirected,2
+司空玄,巴天石 司空,Undirected,85
+司空玄,甘寶寶 鐘夫人,Undirected,3
+司空玄,天山童姥,Undirected,6
+司空玄,岳老三 南海鱷神,Undirected,1
+司空玄,左子穆,Undirected,7
+司空玄,辛雙清,Undirected,3
+司空玄,光豪 干光豪,Undirected,1
+司空玄,葛光佩,Undirected,1
+司空玄,郁光標 鬱游標,Undirected,1
+司空玄,吳光勝,Undirected,1
+司空玄,鐘萬仇,Undirected,3
+司空玄,瑞婆婆,Undirected,1
+司空玄,平婆婆,Undirected,1
+司空玄,符聖使,Undirected,2
+進喜兒,段譽,Undirected,1
+進喜兒,甘寶寶 鐘夫人,Undirected,3
+進喜兒,岳老三 南海鱷神,Undirected,1
+進喜兒,來福兒,Undirected,1
+進喜兒,鐘萬仇,Undirected,1
+來福兒,段譽,Undirected,8
+來福兒,甘寶寶 鐘夫人,Undirected,2
+來福兒,進喜兒,Undirected,1
+來福兒,瑞婆婆,Undirected,1
+鐘萬仇,段譽,Undirected,47
+鐘萬仇,阿紫,Undirected,2
+鐘萬仇,木婉清,Undirected,12
+鐘萬仇,鍾靈,Undirected,1
+鐘萬仇,段正明 本塵,Undirected,3
+鐘萬仇,段正淳 鎮南王,Undirected,54
+鐘萬仇,刀白鳳 鎮南王妃,Undirected,13
+鐘萬仇,高昇泰 善闡侯,Undirected,10
+鐘萬仇,范驊 范司馬,Undirected,1
+鐘萬仇,巴天石 司空,Undirected,10
+鐘萬仇,華赫艮 華司徒,Undirected,5
+鐘萬仇,褚萬里,Undirected,5
+鐘萬仇,古篤誠,Undirected,3
+鐘萬仇,傅思歸,Undirected,2
+鐘萬仇,朱丹臣,Undirected,1
+鐘萬仇,秦紅棉 修羅刀 幽谷客,Undirected,10
+鐘萬仇,甘寶寶 鐘夫人,Undirected,44
+鐘萬仇,阮星竹,Undirected,1
+鐘萬仇,鳩摩智,Undirected,1
+鐘萬仇,段延慶 惡貫滿盈,Undirected,3
+鐘萬仇,葉二娘 無惡不作,Undirected,12
+鐘萬仇,岳老三 南海鱷神,Undirected,24
+鐘萬仇,雲中鶴 窮凶極惡,Undirected,23
+鐘萬仇,崔百泉 霍先生,Undirected,6
+鐘萬仇,左子穆,Undirected,2
+鐘萬仇,辛雙清,Undirected,2
+鐘萬仇,馬五德,Undirected,2
+鐘萬仇,司空玄,Undirected,3
+鐘萬仇,進喜兒,Undirected,1
+鐘萬仇,黃眉僧,Undirected,6
+鐘萬仇,本因大師 本因,Undirected,1
+鐘萬仇,本觀,Undirected,1
+鐘萬仇,本相,Undirected,1
+鐘萬仇,本參,Undirected,1
+鐘萬仇,瑞婆婆,Undirected,2
+鐘萬仇,平婆婆,Undirected,2
+孫三霸,段譽,Undirected,1
+孫三霸,木婉清,Undirected,2
+孫三霸,岳老三 南海鱷神,Undirected,3
+梁阿婆,木婉清,Undirected,1
+梁阿婆,段正淳 鎮南王,Undirected,1
+黃眉僧,﻿喬峰 蕭峰,Undirected,1
+黃眉僧,段譽,Undirected,25
+黃眉僧,王語嫣,Undirected,1
+黃眉僧,木婉清,Undirected,1
+黃眉僧,段正明 本塵,Undirected,3
+黃眉僧,段正淳 鎮南王,Undirected,13
+黃眉僧,刀白鳳 鎮南王妃,Undirected,1
+黃眉僧,高昇泰 善闡侯,Undirected,3
+黃眉僧,范驊 范司馬,Undirected,1
+黃眉僧,巴天石 司空,Undirected,3
+黃眉僧,華赫艮 華司徒,Undirected,2
+黃眉僧,褚萬里,Undirected,1
+黃眉僧,朱丹臣,Undirected,1
+黃眉僧,甘寶寶 鐘夫人,Undirected,2
+黃眉僧,慕容博,Undirected,2
+黃眉僧,段延慶 惡貫滿盈,Undirected,7
+黃眉僧,葉二娘 無惡不作,Undirected,6
+黃眉僧,岳老三 南海鱷神,Undirected,6
+黃眉僧,雲中鶴 窮凶極惡,Undirected,7
+黃眉僧,崔百泉 霍先生,Undirected,9
+黃眉僧,過彥之,Undirected,2
+黃眉僧,左子穆,Undirected,1
+黃眉僧,辛雙清,Undirected,1
+黃眉僧,馬五德,Undirected,1
+黃眉僧,鐘萬仇,Undirected,6
+黃眉僧,破嗔,Undirected,5
+黃眉僧,破癡,Undirected,2
+黃眉僧,本因大師 本因,Undirected,1
+黃眉僧,本觀,Undirected,1
+黃眉僧,本相,Undirected,1
+黃眉僧,本參,Undirected,1
+黃眉僧,玄悲,Undirected,4
+黃眉僧,玄慈 帶頭大哥,Undirected,1
+黃眉僧,慧真,Undirected,4
+黃眉僧,慧觀,Undirected,3
+黃眉僧,五葉大師,Undirected,1
+破嗔,段譽,Undirected,3
+破嗔,黃眉僧,Undirected,5
+破嗔,破癡,Undirected,1
+破癡,黃眉僧,Undirected,2
+破癡,破嗔,Undirected,1
+駱氏三雄,慕容博,Undirected,1
+駱氏三雄,章虛道人,Undirected,1
+章虛道人,慕容博,Undirected,1
+章虛道人,駱氏三雄,Undirected,1
+蔡慶圖,崔百泉 霍先生,Undirected,2
+蔡慶圖,過彥之,Undirected,1
+枯榮大師 枯榮,﻿喬峰 蕭峰,Undirected,1
+枯榮大師 枯榮,虛竹,Undirected,2
+枯榮大師 枯榮,段譽,Undirected,20
+枯榮大師 枯榮,阿碧,Undirected,1
+枯榮大師 枯榮,王語嫣,Undirected,1
+枯榮大師 枯榮,木婉清,Undirected,1
+枯榮大師 枯榮,段正明 本塵,Undirected,7
+枯榮大師 枯榮,段正淳 鎮南王,Undirected,1
+枯榮大師 枯榮,朱丹臣,Undirected,1
+枯榮大師 枯榮,慕容博,Undirected,1
+枯榮大師 枯榮,鳩摩智,Undirected,28
+枯榮大師 枯榮,段延慶 惡貫滿盈,Undirected,3
+枯榮大師 枯榮,本因大師 本因,Undirected,24
+枯榮大師 枯榮,本觀,Undirected,8
+枯榮大師 枯榮,本相,Undirected,4
+枯榮大師 枯榮,本參,Undirected,7
+枯榮大師 枯榮,本塵,Undirected,5
+本因大師 本因,虛竹,Undirected,1
+本因大師 本因,段譽,Undirected,16
+本因大師 本因,段正明 本塵,Undirected,4
+本因大師 本因,段正淳 鎮南王,Undirected,1
+本因大師 本因,慕容博,Undirected,1
+本因大師 本因,鳩摩智,Undirected,26
+本因大師 本因,段延慶 惡貫滿盈,Undirected,1
+本因大師 本因,葉二娘 無惡不作,Undirected,1
+本因大師 本因,岳老三 南海鱷神,Undirected,2
+本因大師 本因,雲中鶴 窮凶極惡,Undirected,1
+本因大師 本因,崔百泉 霍先生,Undirected,1
+本因大師 本因,鐘萬仇,Undirected,1
+本因大師 本因,黃眉僧,Undirected,1
+本因大師 本因,枯榮大師 枯榮,Undirected,24
+本因大師 本因,本觀,Undirected,17
+本因大師 本因,本相,Undirected,14
+本因大師 本因,本參,Undirected,17
+本因大師 本因,本塵,Undirected,4
+本觀,段譽,Undirected,9
+本觀,段正明 本塵,Undirected,2
+本觀,鳩摩智,Undirected,7
+本觀,段延慶 惡貫滿盈,Undirected,1
+本觀,葉二娘 無惡不作,Undirected,1
+本觀,岳老三 南海鱷神,Undirected,1
+本觀,雲中鶴 窮凶極惡,Undirected,1
+本觀,崔百泉 霍先生,Undirected,1
+本觀,鐘萬仇,Undirected,1
+本觀,黃眉僧,Undirected,1
+本觀,枯榮大師 枯榮,Undirected,8
+本觀,本因大師 本因,Undirected,17
+本觀,本相,Undirected,10
+本觀,本參,Undirected,14
+本觀,本塵,Undirected,2
+本相,虛竹,Undirected,1
+本相,段譽,Undirected,8
+本相,段正明 本塵,Undirected,2
+本相,鳩摩智,Undirected,8
+本相,段延慶 惡貫滿盈,Undirected,1
+本相,葉二娘 無惡不作,Undirected,1
+本相,岳老三 南海鱷神,Undirected,1
+本相,雲中鶴 窮凶極惡,Undirected,1
+本相,崔百泉 霍先生,Undirected,1
+本相,鐘萬仇,Undirected,1
+本相,黃眉僧,Undirected,1
+本相,枯榮大師 枯榮,Undirected,4
+本相,本因大師 本因,Undirected,14
+本相,本觀,Undirected,10
+本相,本參,Undirected,11
+本相,本塵,Undirected,2
+本參,段譽,Undirected,9
+本參,段正明 本塵,Undirected,2
+本參,鳩摩智,Undirected,10
+本參,段延慶 惡貫滿盈,Undirected,1
+本參,葉二娘 無惡不作,Undirected,1
+本參,岳老三 南海鱷神,Undirected,1
+本參,雲中鶴 窮凶極惡,Undirected,1
+本參,崔百泉 霍先生,Undirected,1
+本參,鐘萬仇,Undirected,1
+本參,黃眉僧,Undirected,1
+本參,枯榮大師 枯榮,Undirected,7
+本參,本因大師 本因,Undirected,17
+本參,本觀,Undirected,14
+本參,本相,Undirected,11
+本參,本塵,Undirected,2
+本塵,段正明 本塵,Undirected,7
+本塵,鳩摩智,Undirected,2
+本塵,枯榮大師 枯榮,Undirected,5
+本塵,本因大師 本因,Undirected,4
+本塵,本觀,Undirected,2
+本塵,本相,Undirected,2
+本塵,本參,Undirected,2
+靈門,虛竹,Undirected,1
+靈門,玄慈 帶頭大哥,Undirected,1
+靈門,神山上人,Undirected,1
+玄悲,虛竹,Undirected,3
+玄悲,段譽,Undirected,11
+玄悲,阿朱,Undirected,2
+玄悲,阿碧,Undirected,3
+玄悲,王語嫣,Undirected,5
+玄悲,段正淳 鎮南王,Undirected,9
+玄悲,高昇泰 善闡侯,Undirected,1
+玄悲,范驊 范司馬,Undirected,3
+玄悲,巴天石 司空,Undirected,4
+玄悲,華赫艮 華司徒,Undirected,3
+玄悲,朱丹臣,Undirected,2
+玄悲,阮星竹,Undirected,1
+玄悲,鄧百川,Undirected,2
+玄悲,公冶乾,Undirected,2
+玄悲,鳩摩智,Undirected,1
+玄悲,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+玄悲,段延慶 惡貫滿盈,Undirected,1
+玄悲,雲中鶴 窮凶極惡,Undirected,1
+玄悲,柯百歲,Undirected,1
+玄悲,崔百泉 霍先生,Undirected,3
+玄悲,過彥之,Undirected,2
+玄悲,黃眉僧,Undirected,4
+玄悲,玄慈 帶頭大哥,Undirected,9
+玄悲,玄渡 杜老先生,Undirected,2
+玄悲,玄難,Undirected,5
+玄悲,玄痛,Undirected,2
+玄悲,玄苦,Undirected,3
+玄悲,慧真,Undirected,8
+玄悲,慧觀,Undirected,4
+玄悲,慧方,Undirected,1
+玄悲,慧鏡,Undirected,1
+玄悲,五葉大師,Undirected,1
+玄悲,嚴媽媽,Undirected,1
+玄慈 帶頭大哥,﻿喬峰 蕭峰,Undirected,12
+玄慈 帶頭大哥,虛竹,Undirected,31
+玄慈 帶頭大哥,段譽,Undirected,2
+玄慈 帶頭大哥,阿朱,Undirected,24
+玄慈 帶頭大哥,阿紫,Undirected,3
+玄慈 帶頭大哥,王語嫣,Undirected,1
+玄慈 帶頭大哥,段正淳 鎮南王,Undirected,11
+玄慈 帶頭大哥,范驊 范司馬,Undirected,2
+玄慈 帶頭大哥,巴天石 司空,Undirected,2
+玄慈 帶頭大哥,華赫艮 華司徒,Undirected,2
+玄慈 帶頭大哥,朱丹臣,Undirected,1
+玄慈 帶頭大哥,慕容複 南慕容,Undirected,4
+玄慈 帶頭大哥,慕容博,Undirected,7
+玄慈 帶頭大哥,鳩摩智,Undirected,11
+玄慈 帶頭大哥,無名老僧 掃地僧,Undirected,1
+玄慈 帶頭大哥,蕭遠山,Undirected,7
+玄慈 帶頭大哥,李秋水,Undirected,1
+玄慈 帶頭大哥,蘇星河,Undirected,1
+玄慈 帶頭大哥,丁春秋 星宿老怪 星宿派掌門人,Undirected,9
+玄慈 帶頭大哥,葉二娘 無惡不作,Undirected,9
+玄慈 帶頭大哥,游坦之 鐵頭人 莊聚賢,Undirected,7
+玄慈 帶頭大哥,柯百歲,Undirected,1
+玄慈 帶頭大哥,黃眉僧,Undirected,1
+玄慈 帶頭大哥,靈門,Undirected,1
+玄慈 帶頭大哥,玄悲,Undirected,9
+玄慈 帶頭大哥,玄慚,Undirected,3
+玄慈 帶頭大哥,玄生,Undirected,6
+玄慈 帶頭大哥,玄鳴,Undirected,1
+玄慈 帶頭大哥,玄石,Undirected,1
+玄慈 帶頭大哥,玄渡 杜老先生,Undirected,4
+玄慈 帶頭大哥,玄愧,Undirected,1
+玄慈 帶頭大哥,玄念,Undirected,1
+玄慈 帶頭大哥,玄淨,Undirected,1
+玄慈 帶頭大哥,玄難,Undirected,12
+玄慈 帶頭大哥,玄寂,Undirected,20
+玄慈 帶頭大哥,玄痛,Undirected,1
+玄慈 帶頭大哥,玄苦,Undirected,9
+玄慈 帶頭大哥,慧真,Undirected,2
+玄慈 帶頭大哥,慧觀,Undirected,2
+玄慈 帶頭大哥,慧方,Undirected,1
+玄慈 帶頭大哥,慧輪,Undirected,2
+玄慈 帶頭大哥,止清,Undirected,3
+玄慈 帶頭大哥,止湛,Undirected,1
+玄慈 帶頭大哥,止淵,Undirected,1
+玄慈 帶頭大哥,青松,Undirected,2
+玄慈 帶頭大哥,馬大元,Undirected,2
+玄慈 帶頭大哥,汪劍通 劍髯,Undirected,2
+玄慈 帶頭大哥,全冠清,Undirected,2
+玄慈 帶頭大哥,白世鏡,Undirected,2
+玄慈 帶頭大哥,徐沖霄 徐長老,Undirected,5
+玄慈 帶頭大哥,譚公,Undirected,6
+玄慈 帶頭大哥,譚婆,Undirected,6
+玄慈 帶頭大哥,趙錢孫,Undirected,9
+玄慈 帶頭大哥,智光大師,Undirected,5
+玄慈 帶頭大哥,喬三槐,Undirected,1
+玄慈 帶頭大哥,玄苦大師,Undirected,2
+玄慈 帶頭大哥,單正,Undirected,4
+玄慈 帶頭大哥,康廣陵,Undirected,1
+玄慈 帶頭大哥,竹劍,Undirected,1
+玄慈 帶頭大哥,菊劍,Undirected,1
+玄慈 帶頭大哥,神山上人,Undirected,10
+玄慈 帶頭大哥,觀心大師 觀心,Undirected,9
+玄慈 帶頭大哥,道清大師 道清,Undirected,8
+玄慈 帶頭大哥,覺賢大師 覺賢,Undirected,3
+玄慈 帶頭大哥,融智大師 融智,Undirected,6
+玄慈 帶頭大哥,神音大師 神音,Undirected,1
+玄慈 帶頭大哥,哲羅星,Undirected,12
+玄慈 帶頭大哥,波羅星,Undirected,14
+玄慚,鳩摩智,Undirected,1
+玄慚,玄慈 帶頭大哥,Undirected,3
+玄慚,玄愧,Undirected,2
+玄慚,玄念,Undirected,2
+玄慚,玄淨,Undirected,3
+玄慚,玄寂,Undirected,2
+玄慚,梅劍,Undirected,2
+玄慚,菊劍,Undirected,2
+玄慚,波羅星,Undirected,3
+玄生,﻿喬峰 蕭峰,Undirected,2
+玄生,虛竹,Undirected,3
+玄生,段譽,Undirected,1
+玄生,慕容複 南慕容,Undirected,2
+玄生,慕容博,Undirected,2
+玄生,鳩摩智,Undirected,11
+玄生,蕭遠山,Undirected,2
+玄生,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+玄生,玄慈 帶頭大哥,Undirected,6
+玄生,玄渡 杜老先生,Undirected,1
+玄生,玄淨,Undirected,2
+玄生,玄難,Undirected,1
+玄生,玄寂,Undirected,3
+玄生,玄痛,Undirected,1
+玄生,玄澄 十三絕神僧,Undirected,2
+玄生,玄滅,Undirected,7
+玄生,玄苦,Undirected,1
+玄生,神山上人,Undirected,4
+玄生,觀心大師 觀心,Undirected,2
+玄生,道清大師 道清,Undirected,4
+玄生,哲羅星,Undirected,8
+玄生,波羅星,Undirected,8
+玄生,諸葛中,Undirected,1
+玄鳴,﻿喬峰 蕭峰,Undirected,3
+玄鳴,虛竹,Undirected,1
+玄鳴,段譽,Undirected,1
+玄鳴,玄慈 帶頭大哥,Undirected,1
+玄鳴,玄石,Undirected,3
+玄鳴,玄渡 杜老先生,Undirected,1
+玄石,﻿喬峰 蕭峰,Undirected,2
+玄石,玄慈 帶頭大哥,Undirected,1
+玄石,玄鳴,Undirected,3
+玄渡 杜老先生,﻿喬峰 蕭峰,Undirected,9
+玄渡 杜老先生,虛竹,Undirected,15
+玄渡 杜老先生,段譽,Undirected,6
+玄渡 杜老先生,木婉清,Undirected,1
+玄渡 杜老先生,范驊 范司馬,Undirected,1
+玄渡 杜老先生,巴天石 司空,Undirected,1
+玄渡 杜老先生,華赫艮 華司徒,Undirected,1
+玄渡 杜老先生,朱丹臣,Undirected,1
+玄渡 杜老先生,鄧百川,Undirected,1
+玄渡 杜老先生,公冶乾,Undirected,1
+玄渡 杜老先生,鳩摩智,Undirected,9
+玄渡 杜老先生,無崖子,Undirected,1
+玄渡 杜老先生,蘇星河,Undirected,1
+玄渡 杜老先生,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+玄渡 杜老先生,段延慶 惡貫滿盈,Undirected,1
+玄渡 杜老先生,游坦之 鐵頭人 莊聚賢,Undirected,1
+玄渡 杜老先生,玄悲,Undirected,2
+玄渡 杜老先生,玄慈 帶頭大哥,Undirected,4
+玄渡 杜老先生,玄生,Undirected,1
+玄渡 杜老先生,玄鳴,Undirected,1
+玄渡 杜老先生,玄難,Undirected,2
+玄渡 杜老先生,玄痛,Undirected,2
+玄渡 杜老先生,玄苦,Undirected,2
+玄渡 杜老先生,慧方,Undirected,1
+玄渡 杜老先生,慧鏡,Undirected,1
+玄渡 杜老先生,慧輪,Undirected,1
+玄渡 杜老先生,吳長風,Undirected,2
+玄渡 杜老先生,完顏阿骨打,Undirected,1
+玄渡 杜老先生,觀心大師 觀心,Undirected,1
+玄渡 杜老先生,哲羅星,Undirected,1
+玄渡 杜老先生,張將軍,Undirected,1
+玄愧,鳩摩智,Undirected,1
+玄愧,玄慈 帶頭大哥,Undirected,1
+玄愧,玄慚,Undirected,2
+玄愧,玄念,Undirected,2
+玄愧,玄淨,Undirected,3
+玄愧,梅劍,Undirected,2
+玄愧,蘭劍,Undirected,1
+玄愧,竹劍,Undirected,1
+玄愧,菊劍,Undirected,2
+玄念,鳩摩智,Undirected,1
+玄念,玄慈 帶頭大哥,Undirected,1
+玄念,玄慚,Undirected,2
+玄念,玄愧,Undirected,2
+玄念,玄淨,Undirected,2
+玄念,梅劍,Undirected,1
+玄念,菊劍,Undirected,1
+玄淨,虛竹,Undirected,1
+玄淨,慕容博,Undirected,1
+玄淨,鳩摩智,Undirected,3
+玄淨,蕭遠山,Undirected,1
+玄淨,玄慈 帶頭大哥,Undirected,1
+玄淨,玄慚,Undirected,3
+玄淨,玄生,Undirected,2
+玄淨,玄愧,Undirected,3
+玄淨,玄念,Undirected,2
+玄淨,玄滅,Undirected,2
+玄淨,梅劍,Undirected,3
+玄淨,蘭劍,Undirected,1
+玄淨,竹劍,Undirected,1
+玄淨,菊劍,Undirected,3
+玄淨,神山上人,Undirected,2
+玄淨,觀心大師 觀心,Undirected,1
+玄淨,道清大師 道清,Undirected,1
+玄淨,哲羅星,Undirected,2
+玄淨,波羅星,Undirected,1
+玄難,﻿喬峰 蕭峰,Undirected,2
+玄難,虛竹,Undirected,39
+玄難,段譽,Undirected,5
+玄難,阿朱,Undirected,4
+玄難,阿紫,Undirected,3
+玄難,王語嫣,Undirected,3
+玄難,慕容複 南慕容,Undirected,8
+玄難,鄧百川,Undirected,29
+玄難,公冶乾,Undirected,21
+玄難,包不同,Undirected,19
+玄難,風波惡,Undirected,15
+玄難,鳩摩智,Undirected,6
+玄難,無崖子,Undirected,1
+玄難,天山童姥,Undirected,1
+玄難,蘇星河,Undirected,31
+玄難,丁春秋 星宿老怪 星宿派掌門人,Undirected,54
+玄難,段延慶 惡貫滿盈,Undirected,8
+玄難,葉二娘 無惡不作,Undirected,1
+玄難,岳老三 南海鱷神,Undirected,1
+玄難,游坦之 鐵頭人 莊聚賢,Undirected,4
+玄難,玄悲,Undirected,5
+玄難,玄慈 帶頭大哥,Undirected,12
+玄難,玄生,Undirected,1
+玄難,玄渡 杜老先生,Undirected,2
+玄難,玄寂,Undirected,24
+玄難,玄痛,Undirected,23
+玄難,玄苦,Undirected,8
+玄難,慧淨,Undirected,5
+玄難,慧方,Undirected,9
+玄難,慧鏡,Undirected,4
+玄難,止清,Undirected,4
+玄難,止湛,Undirected,1
+玄難,譚公,Undirected,2
+玄難,譚婆,Undirected,2
+玄難,趙錢孫,Undirected,2
+玄難,玄苦大師,Undirected,2
+玄難,單正,Undirected,1
+玄難,祁老六 快刀祁六,Undirected,1
+玄難,向望海 湘東,Undirected,1
+玄難,鮑千靈,Undirected,1
+玄難,游驥,Undirected,1
+玄難,康廣陵,Undirected,12
+玄難,范百齡,Undirected,1
+玄難,薛慕華,Undirected,11
+玄難,馮阿三,Undirected,3
+玄難,李傀儡,Undirected,2
+玄寂,﻿喬峰 蕭峰,Undirected,3
+玄寂,虛竹,Undirected,17
+玄寂,段譽,Undirected,2
+玄寂,阿朱,Undirected,5
+玄寂,鄧百川,Undirected,1
+玄寂,公冶乾,Undirected,1
+玄寂,包不同,Undirected,1
+玄寂,風波惡,Undirected,1
+玄寂,鳩摩智,Undirected,4
+玄寂,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+玄寂,葉二娘 無惡不作,Undirected,2
+玄寂,游坦之 鐵頭人 莊聚賢,Undirected,1
+玄寂,玄慈 帶頭大哥,Undirected,20
+玄寂,玄慚,Undirected,2
+玄寂,玄生,Undirected,3
+玄寂,玄難,Undirected,24
+玄寂,玄痛,Undirected,1
+玄寂,玄苦,Undirected,3
+玄寂,慧輪,Undirected,1
+玄寂,止清,Undirected,6
+玄寂,止湛,Undirected,3
+玄寂,止淵,Undirected,1
+玄寂,譚公,Undirected,2
+玄寂,譚婆,Undirected,2
+玄寂,趙錢孫,Undirected,2
+玄寂,玄苦大師,Undirected,3
+玄寂,單正,Undirected,1
+玄寂,祁老六 快刀祁六,Undirected,1
+玄寂,向望海 湘東,Undirected,1
+玄寂,鮑千靈,Undirected,1
+玄寂,游驥,Undirected,1
+玄寂,康廣陵,Undirected,1
+玄寂,神山上人,Undirected,1
+玄寂,觀心大師 觀心,Undirected,2
+玄寂,道清大師 道清,Undirected,3
+玄寂,覺賢大師 覺賢,Undirected,1
+玄寂,哲羅星,Undirected,4
+玄寂,波羅星,Undirected,7
+玄痛,﻿喬峰 蕭峰,Undirected,2
+玄痛,虛竹,Undirected,8
+玄痛,鄧百川,Undirected,10
+玄痛,公冶乾,Undirected,8
+玄痛,包不同,Undirected,10
+玄痛,風波惡,Undirected,6
+玄痛,鳩摩智,Undirected,1
+玄痛,丁春秋 星宿老怪 星宿派掌門人,Undirected,9
+玄痛,游坦之 鐵頭人 莊聚賢,Undirected,3
+玄痛,玄悲,Undirected,2
+玄痛,玄慈 帶頭大哥,Undirected,1
+玄痛,玄生,Undirected,1
+玄痛,玄渡 杜老先生,Undirected,2
+玄痛,玄難,Undirected,23
+玄痛,玄寂,Undirected,1
+玄痛,玄苦,Undirected,2
+玄痛,慧淨,Undirected,1
+玄痛,慧方,Undirected,3
+玄痛,慧鏡,Undirected,1
+玄痛,康廣陵,Undirected,1
+玄澄 十三絕神僧,玄生,Undirected,2
+玄澄 十三絕神僧,玄滅,Undirected,1
+玄澄 十三絕神僧,道清大師 道清,Undirected,1
+玄澄 十三絕神僧,波羅星,Undirected,1
+玄滅,﻿喬峰 蕭峰,Undirected,1
+玄滅,慕容複 南慕容,Undirected,2
+玄滅,慕容博,Undirected,2
+玄滅,鳩摩智,Undirected,2
+玄滅,蕭遠山,Undirected,2
+玄滅,玄生,Undirected,7
+玄滅,玄淨,Undirected,2
+玄滅,玄澄 十三絕神僧,Undirected,1
+玄滅,神山上人,Undirected,2
+玄滅,觀心大師 觀心,Undirected,1
+玄滅,道清大師 道清,Undirected,3
+玄滅,哲羅星,Undirected,1
+玄滅,波羅星,Undirected,2
+玄苦,﻿喬峰 蕭峰,Undirected,7
+玄苦,虛竹,Undirected,2
+玄苦,阿朱,Undirected,6
+玄苦,段正淳 鎮南王,Undirected,1
+玄苦,慕容博,Undirected,1
+玄苦,鄧百川,Undirected,1
+玄苦,公冶乾,Undirected,2
+玄苦,鳩摩智,Undirected,2
+玄苦,無名老僧 掃地僧,Undirected,1
+玄苦,蕭遠山,Undirected,3
+玄苦,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+玄苦,葉二娘 無惡不作,Undirected,1
+玄苦,玄悲,Undirected,3
+玄苦,玄慈 帶頭大哥,Undirected,9
+玄苦,玄生,Undirected,1
+玄苦,玄渡 杜老先生,Undirected,2
+玄苦,玄難,Undirected,8
+玄苦,玄寂,Undirected,3
+玄苦,玄痛,Undirected,2
+玄苦,慧方,Undirected,1
+玄苦,慧鏡,Undirected,1
+玄苦,青松,Undirected,1
+玄苦,譚婆,Undirected,1
+玄苦,趙錢孫,Undirected,1
+玄苦,喬三槐,Undirected,6
+玄苦,玄苦大師,Undirected,43
+玄苦,向望海 湘東,Undirected,1
+玄苦,鮑千靈,Undirected,1
+玄苦,康廣陵,Undirected,1
+慧真,段譽,Undirected,4
+慧真,木婉清,Undirected,1
+慧真,段正淳 鎮南王,Undirected,11
+慧真,高昇泰 善闡侯,Undirected,1
+慧真,范驊 范司馬,Undirected,1
+慧真,巴天石 司空,Undirected,2
+慧真,華赫艮 華司徒,Undirected,1
+慧真,秦紅棉 修羅刀 幽谷客,Undirected,1
+慧真,崔百泉 霍先生,Undirected,4
+慧真,過彥之,Undirected,4
+慧真,黃眉僧,Undirected,4
+慧真,玄悲,Undirected,8
+慧真,玄慈 帶頭大哥,Undirected,2
+慧真,慧觀,Undirected,11
+慧真,五葉大師,Undirected,1
+慧觀,段譽,Undirected,3
+慧觀,木婉清,Undirected,1
+慧觀,段正淳 鎮南王,Undirected,8
+慧觀,范驊 范司馬,Undirected,1
+慧觀,巴天石 司空,Undirected,2
+慧觀,華赫艮 華司徒,Undirected,1
+慧觀,秦紅棉 修羅刀 幽谷客,Undirected,1
+慧觀,慕容博,Undirected,1
+慧觀,崔百泉 霍先生,Undirected,4
+慧觀,過彥之,Undirected,4
+慧觀,黃眉僧,Undirected,3
+慧觀,玄悲,Undirected,4
+慧觀,玄慈 帶頭大哥,Undirected,2
+慧觀,慧真,Undirected,11
+慧觀,五葉大師,Undirected,1
+慧淨,虛竹,Undirected,1
+慧淨,阿紫,Undirected,1
+慧淨,鄧百川,Undirected,1
+慧淨,包不同,Undirected,1
+慧淨,風波惡,Undirected,2
+慧淨,丁春秋 星宿老怪 星宿派掌門人,Undirected,14
+慧淨,游坦之 鐵頭人 莊聚賢,Undirected,2
+慧淨,玄難,Undirected,5
+慧淨,玄痛,Undirected,1
+慧淨,薛慕華,Undirected,3
+慧方,虛竹,Undirected,16
+慧方,阿紫,Undirected,2
+慧方,慕容複 南慕容,Undirected,1
+慧方,鄧百川,Undirected,2
+慧方,公冶乾,Undirected,2
+慧方,鳩摩智,Undirected,1
+慧方,無崖子,Undirected,1
+慧方,天山童姥,Undirected,1
+慧方,蘇星河,Undirected,3
+慧方,丁春秋 星宿老怪 星宿派掌門人,Undirected,7
+慧方,玄悲,Undirected,1
+慧方,玄慈 帶頭大哥,Undirected,1
+慧方,玄渡 杜老先生,Undirected,1
+慧方,玄難,Undirected,9
+慧方,玄痛,Undirected,3
+慧方,玄苦,Undirected,1
+慧方,慧鏡,Undirected,1
+慧方,烏老大,Undirected,1
+慧鏡,虛竹,Undirected,4
+慧鏡,鄧百川,Undirected,3
+慧鏡,公冶乾,Undirected,1
+慧鏡,鳩摩智,Undirected,1
+慧鏡,蘇星河,Undirected,1
+慧鏡,丁春秋 星宿老怪 星宿派掌門人,Undirected,3
+慧鏡,游坦之 鐵頭人 莊聚賢,Undirected,1
+慧鏡,玄悲,Undirected,1
+慧鏡,玄渡 杜老先生,Undirected,1
+慧鏡,玄難,Undirected,4
+慧鏡,玄痛,Undirected,1
+慧鏡,玄苦,Undirected,1
+慧鏡,慧方,Undirected,1
+慧鏡,康廣陵,Undirected,1
+慧鏡,薛慕華,Undirected,2
+慧輪,虛竹,Undirected,5
+慧輪,鳩摩智,Undirected,1
+慧輪,游坦之 鐵頭人 莊聚賢,Undirected,1
+慧輪,玄慈 帶頭大哥,Undirected,2
+慧輪,玄渡 杜老先生,Undirected,1
+慧輪,玄寂,Undirected,1
+慧輪,波羅星,Undirected,1
+止清,﻿喬峰 蕭峰,Undirected,1
+止清,段譽,Undirected,2
+止清,阿朱,Undirected,5
+止清,阿碧,Undirected,1
+止清,慕容複 南慕容,Undirected,1
+止清,玄慈 帶頭大哥,Undirected,3
+止清,玄難,Undirected,4
+止清,玄寂,Undirected,6
+止清,止湛,Undirected,9
+止清,止淵,Undirected,7
+止湛,阿朱,Undirected,1
+止湛,慕容複 南慕容,Undirected,1
+止湛,玄慈 帶頭大哥,Undirected,1
+止湛,玄難,Undirected,1
+止湛,玄寂,Undirected,3
+止湛,止清,Undirected,9
+止湛,止淵,Undirected,7
+止淵,阿朱,Undirected,1
+止淵,慕容複 南慕容,Undirected,1
+止淵,玄慈 帶頭大哥,Undirected,1
+止淵,玄寂,Undirected,1
+止淵,止清,Undirected,7
+止淵,止湛,Undirected,7
+五葉大師,段正淳 鎮南王,Undirected,2
+五葉大師,黃眉僧,Undirected,1
+五葉大師,玄悲,Undirected,1
+五葉大師,慧真,Undirected,1
+五葉大師,慧觀,Undirected,1
+青松,玄慈 帶頭大哥,Undirected,2
+青松,玄苦,Undirected,1
+緣根,虛竹,Undirected,20
+緣根,梅劍,Undirected,1
+緣根,蘭劍,Undirected,2
+緣根,竹劍,Undirected,1
+瑞婆婆,段譽,Undirected,17
+瑞婆婆,木婉清,Undirected,11
+瑞婆婆,段正淳 鎮南王,Undirected,1
+瑞婆婆,巴天石 司空,Undirected,1
+瑞婆婆,秦紅棉 修羅刀 幽谷客,Undirected,1
+瑞婆婆,甘寶寶 鐘夫人,Undirected,2
+瑞婆婆,葉二娘 無惡不作,Undirected,1
+瑞婆婆,岳老三 南海鱷神,Undirected,5
+瑞婆婆,雲中鶴 窮凶極惡,Undirected,1
+瑞婆婆,左子穆,Undirected,1
+瑞婆婆,辛雙清,Undirected,1
+瑞婆婆,司空玄,Undirected,1
+瑞婆婆,來福兒,Undirected,1
+瑞婆婆,鐘萬仇,Undirected,2
+瑞婆婆,平婆婆,Undirected,15
+平婆婆,段譽,Undirected,13
+平婆婆,木婉清,Undirected,9
+平婆婆,段正淳 鎮南王,Undirected,1
+平婆婆,巴天石 司空,Undirected,1
+平婆婆,秦紅棉 修羅刀 幽谷客,Undirected,1
+平婆婆,甘寶寶 鐘夫人,Undirected,2
+平婆婆,葉二娘 無惡不作,Undirected,1
+平婆婆,岳老三 南海鱷神,Undirected,3
+平婆婆,雲中鶴 窮凶極惡,Undirected,1
+平婆婆,左子穆,Undirected,1
+平婆婆,辛雙清,Undirected,1
+平婆婆,司空玄,Undirected,1
+平婆婆,鐘萬仇,Undirected,2
+平婆婆,瑞婆婆,Undirected,15
+幽草,段譽,Undirected,4
+幽草,阿朱,Undirected,6
+幽草,阿碧,Undirected,7
+幽草,王語嫣,Undirected,2
+幽草,王雲蘿 王夫人,Undirected,1
+幽草,小茗,Undirected,5
+王雲蘿 王夫人,段譽,Undirected,55
+王雲蘿 王夫人,阿朱,Undirected,6
+王雲蘿 王夫人,阿碧,Undirected,8
+王雲蘿 王夫人,王語嫣,Undirected,10
+王雲蘿 王夫人,木婉清,Undirected,3
+王雲蘿 王夫人,段正明 本塵,Undirected,3
+王雲蘿 王夫人,段正淳 鎮南王,Undirected,37
+王雲蘿 王夫人,刀白鳳 鎮南王妃,Undirected,7
+王雲蘿 王夫人,巴天石 司空,Undirected,1
+王雲蘿 王夫人,古篤誠,Undirected,1
+王雲蘿 王夫人,朱丹臣,Undirected,1
+王雲蘿 王夫人,秦紅棉 修羅刀 幽谷客,Undirected,8
+王雲蘿 王夫人,甘寶寶 鐘夫人,Undirected,7
+王雲蘿 王夫人,阮星竹,Undirected,8
+王雲蘿 王夫人,阿蘿,Undirected,5
+王雲蘿 王夫人,慕容複 南慕容,Undirected,44
+王雲蘿 王夫人,鄧百川,Undirected,2
+王雲蘿 王夫人,公冶乾,Undirected,1
+王雲蘿 王夫人,包不同,Undirected,5
+王雲蘿 王夫人,風波惡,Undirected,3
+王雲蘿 王夫人,鳩摩智,Undirected,2
+王雲蘿 王夫人,段延慶 惡貫滿盈,Undirected,24
+王雲蘿 王夫人,岳老三 南海鱷神,Undirected,4
+王雲蘿 王夫人,唐光雄,Undirected,3
+王雲蘿 王夫人,幽草,Undirected,1
+王雲蘿 王夫人,小翠,Undirected,3
+王雲蘿 王夫人,小蘭,Undirected,1
+王雲蘿 王夫人,小詩,Undirected,3
+王雲蘿 王夫人,小茗,Undirected,4
+小翠,段譽,Undirected,1
+小翠,王雲蘿 王夫人,Undirected,3
+小翠,小蘭,Undirected,1
+小翠,小詩,Undirected,1
+小蘭,王雲蘿 王夫人,Undirected,1
+小蘭,小翠,Undirected,1
+小蘭,小詩,Undirected,1
+小詩,段譽,Undirected,1
+小詩,阿碧,Undirected,1
+小詩,王雲蘿 王夫人,Undirected,3
+小詩,小翠,Undirected,1
+小詩,小蘭,Undirected,1
+小茗,段譽,Undirected,6
+小茗,阿朱,Undirected,6
+小茗,阿碧,Undirected,6
+小茗,王語嫣,Undirected,2
+小茗,幽草,Undirected,5
+小茗,王雲蘿 王夫人,Undirected,4
+賈老者,段譽,Undirected,6
+賈老者,巴天石 司空,Undirected,3
+賈老者,朱丹臣,Undirected,3
+嚴媽媽,段譽,Undirected,12
+嚴媽媽,阿朱,Undirected,4
+嚴媽媽,阿碧,Undirected,3
+嚴媽媽,王語嫣,Undirected,12
+嚴媽媽,玄悲,Undirected,1
+老顧,段譽,Undirected,4
+老顧,阿朱,Undirected,6
+老顧,阿碧,Undirected,2
+老顧,王語嫣,Undirected,1
+老顧,包不同,Undirected,1
+老顧,姚伯當,Undirected,1
+老顧,司馬林,Undirected,1
+姚伯當,阿朱,Undirected,4
+姚伯當,阿碧,Undirected,1
+姚伯當,王語嫣,Undirected,10
+姚伯當,慕容複 南慕容,Undirected,2
+姚伯當,慕容博,Undirected,2
+姚伯當,包不同,Undirected,2
+姚伯當,老顧,Undirected,1
+姚伯當,諸保昆,Undirected,4
+姚伯當,司馬林,Undirected,15
+姚伯當,姜老者,Undirected,1
+諸保昆,阿朱,Undirected,4
+諸保昆,阿碧,Undirected,1
+諸保昆,王語嫣,Undirected,14
+諸保昆,包不同,Undirected,2
+諸保昆,姚伯當,Undirected,4
+諸保昆,都靈子,Undirected,9
+諸保昆,司馬林,Undirected,33
+諸保昆,司馬衛,Undirected,10
+諸保昆,姜老者,Undirected,4
+諸保昆,孟老者,Undirected,5
+海風子,王語嫣,Undirected,2
+都靈子,諸保昆,Undirected,9
+都靈子,司馬林,Undirected,4
+都靈子,司馬衛,Undirected,5
+司馬林,段譽,Undirected,2
+司馬林,阿朱,Undirected,4
+司馬林,王語嫣,Undirected,17
+司馬林,包不同,Undirected,1
+司馬林,崔百泉 霍先生,Undirected,1
+司馬林,過彥之,Undirected,1
+司馬林,老顧,Undirected,1
+司馬林,姚伯當,Undirected,15
+司馬林,諸保昆,Undirected,33
+司馬林,都靈子,Undirected,4
+司馬林,司馬衛,Undirected,9
+司馬林,姜老者,Undirected,3
+司馬林,孟老者,Undirected,6
+司馬衛,阿朱,Undirected,1
+司馬衛,王語嫣,Undirected,3
+司馬衛,諸保昆,Undirected,10
+司馬衛,都靈子,Undirected,5
+司馬衛,司馬林,Undirected,9
+姜老者,王語嫣,Undirected,1
+姜老者,姚伯當,Undirected,1
+姜老者,諸保昆,Undirected,4
+姜老者,司馬林,Undirected,3
+姜老者,孟老者,Undirected,1
+孟老者,王語嫣,Undirected,3
+孟老者,諸保昆,Undirected,5
+孟老者,司馬林,Undirected,6
+孟老者,姜老者,Undirected,1
+包不靚,阿碧,Undirected,1
+包不靚,包不同,Undirected,3
+馬大元,﻿喬峰 蕭峰,Undirected,8
+馬大元,段譽,Undirected,1
+馬大元,阿朱,Undirected,5
+馬大元,阿紫,Undirected,1
+馬大元,王語嫣,Undirected,1
+馬大元,段正淳 鎮南王,Undirected,6
+馬大元,傅思歸,Undirected,1
+馬大元,阮星竹,Undirected,1
+馬大元,慕容複 南慕容,Undirected,3
+馬大元,包不同,Undirected,1
+馬大元,蕭遠山,Undirected,1
+馬大元,玄慈 帶頭大哥,Undirected,2
+馬大元,汪劍通 劍髯,Undirected,1
+馬大元,全冠清,Undirected,2
+馬大元,白世鏡,Undirected,9
+馬大元,徐沖霄 徐長老,Undirected,6
+馬大元,譚公,Undirected,1
+馬大元,譚婆,Undirected,2
+馬大元,趙錢孫,Undirected,3
+馬大元,智光大師,Undirected,1
+馬大元,喬三槐,Undirected,1
+馬大元,單正,Undirected,1
+馬大元,耶律洪基 耶律基,Undirected,2
+馬大元,耶律涅魯古,Undirected,1
+馬大元,耶律重元,Undirected,1
+汪劍通 劍髯,阿紫,Undirected,1
+汪劍通 劍髯,蕭遠山,Undirected,2
+汪劍通 劍髯,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+汪劍通 劍髯,玄慈 帶頭大哥,Undirected,2
+汪劍通 劍髯,馬大元,Undirected,1
+汪劍通 劍髯,徐沖霄 徐長老,Undirected,3
+汪劍通 劍髯,趙錢孫,Undirected,1
+蔣舵主,段譽,Undirected,1
+蔣舵主,王語嫣,Undirected,1
+蔣舵主,包不同,Undirected,2
+蔣舵主,風波惡,Undirected,1
+蔣舵主,全冠清,Undirected,2
+蔣舵主,張全祥,Undirected,2
+蔣舵主,方舵主,Undirected,1
+蔣舵主,徐沖霄 徐長老,Undirected,2
+奚山河 奚長老,段譽,Undirected,1
+奚山河 奚長老,王語嫣,Undirected,3
+奚山河 奚長老,慕容複 南慕容,Undirected,1
+奚山河 奚長老,雲中鶴 窮凶極惡,Undirected,3
+奚山河 奚長老,吳長風,Undirected,1
+奚山河 奚長老,宋長老,Undirected,5
+奚山河 奚長老,全冠清,Undirected,3
+奚山河 奚長老,白世鏡,Undirected,2
+奚山河 奚長老,徐沖霄 徐長老,Undirected,3
+奚山河 奚長老,赫連鐵樹,Undirected,1
+奚山河 奚長老,努兒海,Undirected,1
+吳長風,﻿喬峰 蕭峰,Undirected,2
+吳長風,虛竹,Undirected,1
+吳長風,段譽,Undirected,1
+吳長風,木婉清,Undirected,1
+吳長風,范驊 范司馬,Undirected,2
+吳長風,巴天石 司空,Undirected,1
+吳長風,華赫艮 華司徒,Undirected,1
+吳長風,朱丹臣,Undirected,1
+吳長風,公冶乾,Undirected,1
+吳長風,玄渡 杜老先生,Undirected,2
+吳長風,奚山河 奚長老,Undirected,1
+吳長風,宋長老,Undirected,2
+吳長風,全冠清,Undirected,3
+吳長風,白世鏡,Undirected,1
+吳長風,單正,Undirected,1
+吳長風,單叔山,Undirected,1
+宋長老,﻿喬峰 蕭峰,Undirected,1
+宋長老,段譽,Undirected,3
+宋長老,阿朱,Undirected,1
+宋長老,阿紫,Undirected,3
+宋長老,慕容博,Undirected,1
+宋長老,公冶乾,Undirected,1
+宋長老,包不同,Undirected,8
+宋長老,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+宋長老,雲中鶴 窮凶極惡,Undirected,1
+宋長老,游坦之 鐵頭人 莊聚賢,Undirected,2
+宋長老,奚山河 奚長老,Undirected,5
+宋長老,吳長風,Undirected,2
+宋長老,全冠清,Undirected,4
+宋長老,白世鏡,Undirected,4
+宋長老,徐沖霄 徐長老,Undirected,5
+宋長老,譚青,Undirected,1
+宋長老,努兒海,Undirected,1
+陳孤雁,公冶乾,Undirected,1
+陳孤雁,包不同,Undirected,1
+陳孤雁,風波惡,Undirected,2
+全冠清,﻿喬峰 蕭峰,Undirected,9
+全冠清,段譽,Undirected,12
+全冠清,阿朱,Undirected,3
+全冠清,阿紫,Undirected,17
+全冠清,王語嫣,Undirected,1
+全冠清,段正淳 鎮南王,Undirected,1
+全冠清,古篤誠,Undirected,1
+全冠清,傅思歸,Undirected,1
+全冠清,朱丹臣,Undirected,2
+全冠清,阮星竹,Undirected,1
+全冠清,慕容複 南慕容,Undirected,6
+全冠清,慕容博,Undirected,1
+全冠清,公冶乾,Undirected,1
+全冠清,包不同,Undirected,4
+全冠清,風波惡,Undirected,1
+全冠清,蕭遠山,Undirected,2
+全冠清,蘇星河,Undirected,1
+全冠清,丁春秋 星宿老怪 星宿派掌門人,Undirected,18
+全冠清,游坦之 鐵頭人 莊聚賢,Undirected,16
+全冠清,玄慈 帶頭大哥,Undirected,2
+全冠清,馬大元,Undirected,2
+全冠清,蔣舵主,Undirected,2
+全冠清,奚山河 奚長老,Undirected,3
+全冠清,吳長風,Undirected,3
+全冠清,宋長老,Undirected,4
+全冠清,張全祥,Undirected,4
+全冠清,方舵主,Undirected,1
+全冠清,白世鏡,Undirected,9
+全冠清,李春來,Undirected,1
+全冠清,徐沖霄 徐長老,Undirected,1
+全冠清,譚公,Undirected,1
+全冠清,趙錢孫,Undirected,1
+全冠清,天狼子,Undirected,3
+張全祥,蔣舵主,Undirected,2
+張全祥,全冠清,Undirected,4
+張全祥,方舵主,Undirected,1
+方舵主,蔣舵主,Undirected,1
+方舵主,全冠清,Undirected,1
+方舵主,張全祥,Undirected,1
+方舵主,徐沖霄 徐長老,Undirected,1
+白世鏡,﻿喬峰 蕭峰,Undirected,18
+白世鏡,段譽,Undirected,1
+白世鏡,阿朱,Undirected,12
+白世鏡,阿紫,Undirected,1
+白世鏡,段正淳 鎮南王,Undirected,13
+白世鏡,阮星竹,Undirected,1
+白世鏡,蕭遠山,Undirected,1
+白世鏡,玄慈 帶頭大哥,Undirected,2
+白世鏡,馬大元,Undirected,9
+白世鏡,奚山河 奚長老,Undirected,2
+白世鏡,吳長風,Undirected,1
+白世鏡,宋長老,Undirected,4
+白世鏡,全冠清,Undirected,9
+白世鏡,李春來,Undirected,2
+白世鏡,劉竹莊,Undirected,1
+白世鏡,徐沖霄 徐長老,Undirected,8
+白世鏡,譚公,Undirected,1
+白世鏡,譚婆,Undirected,1
+白世鏡,趙錢孫,Undirected,1
+白世鏡,赫連鐵樹,Undirected,2
+李春來,段譽,Undirected,1
+李春來,阿朱,Undirected,1
+李春來,阿碧,Undirected,1
+李春來,王語嫣,Undirected,1
+李春來,風波惡,Undirected,1
+李春來,全冠清,Undirected,1
+李春來,白世鏡,Undirected,2
+李春來,劉竹莊,Undirected,1
+項長老,劉竹莊,Undirected,1
+劉竹莊,段譽,Undirected,1
+劉竹莊,阿朱,Undirected,1
+劉竹莊,阿碧,Undirected,1
+劉竹莊,王語嫣,Undirected,1
+劉竹莊,風波惡,Undirected,1
+劉竹莊,白世鏡,Undirected,1
+劉竹莊,李春來,Undirected,1
+劉竹莊,項長老,Undirected,1
+徐沖霄 徐長老,﻿喬峰 蕭峰,Undirected,4
+徐沖霄 徐長老,段譽,Undirected,2
+徐沖霄 徐長老,阿朱,Undirected,16
+徐沖霄 徐長老,阿碧,Undirected,1
+徐沖霄 徐長老,王語嫣,Undirected,1
+徐沖霄 徐長老,段正淳 鎮南王,Undirected,1
+徐沖霄 徐長老,慕容複 南慕容,Undirected,1
+徐沖霄 徐長老,雲中鶴 窮凶極惡,Undirected,2
+徐沖霄 徐長老,玄慈 帶頭大哥,Undirected,5
+徐沖霄 徐長老,馬大元,Undirected,6
+徐沖霄 徐長老,汪劍通 劍髯,Undirected,3
+徐沖霄 徐長老,蔣舵主,Undirected,2
+徐沖霄 徐長老,奚山河 奚長老,Undirected,3
+徐沖霄 徐長老,宋長老,Undirected,5
+徐沖霄 徐長老,全冠清,Undirected,1
+徐沖霄 徐長老,方舵主,Undirected,1
+徐沖霄 徐長老,白世鏡,Undirected,8
+徐沖霄 徐長老,譚公,Undirected,11
+徐沖霄 徐長老,譚婆,Undirected,17
+徐沖霄 徐長老,趙錢孫,Undirected,21
+徐沖霄 徐長老,智光大師,Undirected,9
+徐沖霄 徐長老,單正,Undirected,13
+徐沖霄 徐長老,單叔山,Undirected,1
+徐沖霄 徐長老,赫連鐵樹,Undirected,1
+徐沖霄 徐長老,努兒海,Undirected,3
+譚公,﻿喬峰 蕭峰,Undirected,2
+譚公,段譽,Undirected,1
+譚公,阿朱,Undirected,17
+譚公,阿紫,Undirected,1
+譚公,段正淳 鎮南王,Undirected,1
+譚公,慕容複 南慕容,Undirected,1
+譚公,段延慶 惡貫滿盈,Undirected,1
+譚公,玄慈 帶頭大哥,Undirected,6
+譚公,玄難,Undirected,2
+譚公,玄寂,Undirected,2
+譚公,馬大元,Undirected,1
+譚公,全冠清,Undirected,1
+譚公,白世鏡,Undirected,1
+譚公,徐沖霄 徐長老,Undirected,11
+譚公,譚婆,Undirected,46
+譚公,趙錢孫,Undirected,35
+譚公,智光大師,Undirected,2
+譚公,單正,Undirected,6
+譚公,譚青,Undirected,1
+譚婆,﻿喬峰 蕭峰,Undirected,1
+譚婆,段譽,Undirected,3
+譚婆,阿朱,Undirected,14
+譚婆,段正淳 鎮南王,Undirected,1
+譚婆,慕容複 南慕容,Undirected,1
+譚婆,玄慈 帶頭大哥,Undirected,6
+譚婆,玄難,Undirected,2
+譚婆,玄寂,Undirected,2
+譚婆,玄苦,Undirected,1
+譚婆,馬大元,Undirected,2
+譚婆,白世鏡,Undirected,1
+譚婆,徐沖霄 徐長老,Undirected,17
+譚婆,譚公,Undirected,46
+譚婆,趙錢孫,Undirected,47
+譚婆,智光大師,Undirected,2
+譚婆,玄苦大師,Undirected,1
+譚婆,單正,Undirected,8
+趙錢孫,段譽,Undirected,2
+趙錢孫,阿朱,Undirected,20
+趙錢孫,阿碧,Undirected,1
+趙錢孫,王語嫣,Undirected,1
+趙錢孫,段正淳 鎮南王,Undirected,1
+趙錢孫,慕容複 南慕容,Undirected,2
+趙錢孫,蕭遠山,Undirected,1
+趙錢孫,玄慈 帶頭大哥,Undirected,9
+趙錢孫,玄難,Undirected,2
+趙錢孫,玄寂,Undirected,2
+趙錢孫,玄苦,Undirected,1
+趙錢孫,馬大元,Undirected,3
+趙錢孫,汪劍通 劍髯,Undirected,1
+趙錢孫,全冠清,Undirected,1
+趙錢孫,白世鏡,Undirected,1
+趙錢孫,徐沖霄 徐長老,Undirected,21
+趙錢孫,譚公,Undirected,35
+趙錢孫,譚婆,Undirected,47
+趙錢孫,智光大師,Undirected,6
+趙錢孫,玄苦大師,Undirected,1
+趙錢孫,單正,Undirected,21
+趙錢孫,單伯山,Undirected,3
+趙錢孫,單叔山,Undirected,1
+智光大師,﻿喬峰 蕭峰,Undirected,5
+智光大師,阿朱,Undirected,5
+智光大師,段正淳 鎮南王,Undirected,1
+智光大師,蕭遠山,Undirected,1
+智光大師,玄慈 帶頭大哥,Undirected,5
+智光大師,馬大元,Undirected,1
+智光大師,徐沖霄 徐長老,Undirected,9
+智光大師,譚公,Undirected,2
+智光大師,譚婆,Undirected,2
+智光大師,趙錢孫,Undirected,6
+智光大師,單正,Undirected,3
+智光大師,單季山,Undirected,1
+喬三槐,﻿喬峰 蕭峰,Undirected,3
+喬三槐,虛竹,Undirected,1
+喬三槐,段正淳 鎮南王,Undirected,1
+喬三槐,慕容博,Undirected,1
+喬三槐,無名老僧 掃地僧,Undirected,1
+喬三槐,蕭遠山,Undirected,1
+喬三槐,葉二娘 無惡不作,Undirected,1
+喬三槐,游坦之 鐵頭人 莊聚賢,Undirected,1
+喬三槐,玄慈 帶頭大哥,Undirected,1
+喬三槐,玄苦,Undirected,6
+喬三槐,馬大元,Undirected,1
+喬三槐,玄苦大師,Undirected,6
+喬三槐,符敏儀,Undirected,1
+喬三槐,梅劍,Undirected,1
+玄苦大師,﻿喬峰 蕭峰,Undirected,7
+玄苦大師,虛竹,Undirected,1
+玄苦大師,阿朱,Undirected,6
+玄苦大師,段正淳 鎮南王,Undirected,1
+玄苦大師,慕容博,Undirected,1
+玄苦大師,鳩摩智,Undirected,1
+玄苦大師,無名老僧 掃地僧,Undirected,1
+玄苦大師,蕭遠山,Undirected,1
+玄苦大師,葉二娘 無惡不作,Undirected,1
+玄苦大師,玄慈 帶頭大哥,Undirected,2
+玄苦大師,玄難,Undirected,2
+玄苦大師,玄寂,Undirected,3
+玄苦大師,玄苦,Undirected,43
+玄苦大師,譚婆,Undirected,1
+玄苦大師,趙錢孫,Undirected,1
+玄苦大師,喬三槐,Undirected,6
+玄苦大師,向望海 湘東,Undirected,1
+玄苦大師,鮑千靈,Undirected,1
+單正,阿朱,Undirected,12
+單正,阿碧,Undirected,1
+單正,王語嫣,Undirected,1
+單正,玄慈 帶頭大哥,Undirected,4
+單正,玄難,Undirected,1
+單正,玄寂,Undirected,1
+單正,馬大元,Undirected,1
+單正,吳長風,Undirected,1
+單正,徐沖霄 徐長老,Undirected,13
+單正,譚公,Undirected,6
+單正,譚婆,Undirected,8
+單正,趙錢孫,Undirected,21
+單正,智光大師,Undirected,3
+單正,單伯山,Undirected,4
+單正,單仲山,Undirected,2
+單正,單叔山,Undirected,2
+單正,單季山,Undirected,2
+單正,單小山,Undirected,3
+單正,向望海 湘東,Undirected,1
+單伯山,阿朱,Undirected,1
+單伯山,趙錢孫,Undirected,3
+單伯山,單正,Undirected,4
+單伯山,單季山,Undirected,1
+單伯山,單小山,Undirected,1
+單仲山,單正,Undirected,2
+單仲山,單叔山,Undirected,1
+單仲山,單季山,Undirected,1
+單叔山,吳長風,Undirected,1
+單叔山,徐沖霄 徐長老,Undirected,1
+單叔山,趙錢孫,Undirected,1
+單叔山,單正,Undirected,2
+單叔山,單仲山,Undirected,1
+單叔山,單季山,Undirected,1
+單季山,智光大師,Undirected,1
+單季山,單正,Undirected,2
+單季山,單伯山,Undirected,1
+單季山,單仲山,Undirected,1
+單季山,單叔山,Undirected,1
+單季山,單小山,Undirected,1
+單小山,單正,Undirected,3
+單小山,單伯山,Undirected,1
+單小山,單季山,Undirected,1
+祁老六 快刀祁六,玄難,Undirected,1
+祁老六 快刀祁六,玄寂,Undirected,1
+祁老六 快刀祁六,向望海 湘東,Undirected,2
+祁老六 快刀祁六,鮑千靈,Undirected,2
+向望海 湘東,玄難,Undirected,1
+向望海 湘東,玄寂,Undirected,1
+向望海 湘東,玄苦,Undirected,1
+向望海 湘東,玄苦大師,Undirected,1
+向望海 湘東,單正,Undirected,1
+向望海 湘東,祁老六 快刀祁六,Undirected,2
+向望海 湘東,鮑千靈,Undirected,10
+鮑千靈,阿朱,Undirected,1
+鮑千靈,玄難,Undirected,1
+鮑千靈,玄寂,Undirected,1
+鮑千靈,玄苦,Undirected,1
+鮑千靈,玄苦大師,Undirected,1
+鮑千靈,祁老六 快刀祁六,Undirected,2
+鮑千靈,向望海 湘東,Undirected,10
+鮑千靈,游驥,Undirected,1
+游驥,﻿喬峰 蕭峰,Undirected,1
+游驥,阿朱,Undirected,1
+游驥,阿紫,Undirected,1
+游驥,玄難,Undirected,1
+游驥,玄寂,Undirected,1
+游驥,鮑千靈,Undirected,1
+游驥,游駒,Undirected,2
+游驥,薛慕華,Undirected,1
+游駒,﻿喬峰 蕭峰,Undirected,2
+游駒,阿紫,Undirected,1
+游駒,游坦之 鐵頭人 莊聚賢,Undirected,2
+游駒,游驥,Undirected,2
+游駒,薛慕華,Undirected,1
+譚青,﻿喬峰 蕭峰,Undirected,2
+譚青,段正淳 鎮南王,Undirected,1
+譚青,段延慶 惡貫滿盈,Undirected,2
+譚青,雲中鶴 窮凶極惡,Undirected,5
+譚青,宋長老,Undirected,1
+譚青,譚公,Undirected,1
+康廣陵,虛竹,Undirected,9
+康廣陵,段譽,Undirected,2
+康廣陵,阿碧,Undirected,1
+康廣陵,王語嫣,Undirected,2
+康廣陵,段正淳 鎮南王,Undirected,1
+康廣陵,慕容複 南慕容,Undirected,2
+康廣陵,鄧百川,Undirected,6
+康廣陵,公冶乾,Undirected,2
+康廣陵,包不同,Undirected,7
+康廣陵,風波惡,Undirected,1
+康廣陵,鳩摩智,Undirected,2
+康廣陵,蘇星河,Undirected,7
+康廣陵,丁春秋 星宿老怪 星宿派掌門人,Undirected,15
+康廣陵,段延慶 惡貫滿盈,Undirected,2
+康廣陵,葉二娘 無惡不作,Undirected,1
+康廣陵,岳老三 南海鱷神,Undirected,1
+康廣陵,游坦之 鐵頭人 莊聚賢,Undirected,3
+康廣陵,玄慈 帶頭大哥,Undirected,1
+康廣陵,玄難,Undirected,12
+康廣陵,玄寂,Undirected,1
+康廣陵,玄痛,Undirected,1
+康廣陵,玄苦,Undirected,1
+康廣陵,慧鏡,Undirected,1
+康廣陵,范百齡,Undirected,3
+康廣陵,苟讀,Undirected,2
+康廣陵,吳領軍,Undirected,3
+康廣陵,薛慕華,Undirected,15
+康廣陵,馮阿三,Undirected,6
+康廣陵,石清風 石清露,Undirected,3
+康廣陵,李傀儡,Undirected,4
+康廣陵,菊劍,Undirected,2
+范百齡,虛竹,Undirected,1
+范百齡,段譽,Undirected,1
+范百齡,蘇星河,Undirected,1
+范百齡,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+范百齡,玄難,Undirected,1
+范百齡,康廣陵,Undirected,3
+范百齡,苟讀,Undirected,1
+范百齡,吳領軍,Undirected,1
+范百齡,薛慕華,Undirected,3
+范百齡,馮阿三,Undirected,1
+范百齡,石清風 石清露,Undirected,1
+范百齡,李傀儡,Undirected,2
+苟讀,虛竹,Undirected,1
+苟讀,包不同,Undirected,3
+苟讀,蘇星河,Undirected,1
+苟讀,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+苟讀,康廣陵,Undirected,2
+苟讀,范百齡,Undirected,1
+苟讀,吳領軍,Undirected,3
+苟讀,薛慕華,Undirected,3
+苟讀,馮阿三,Undirected,3
+苟讀,石清風 石清露,Undirected,3
+苟讀,李傀儡,Undirected,3
+苟讀,菊劍,Undirected,1
+吳領軍,虛竹,Undirected,2
+吳領軍,包不同,Undirected,1
+吳領軍,蘇星河,Undirected,1
+吳領軍,丁春秋 星宿老怪 星宿派掌門人,Undirected,2
+吳領軍,康廣陵,Undirected,3
+吳領軍,范百齡,Undirected,1
+吳領軍,苟讀,Undirected,3
+吳領軍,薛慕華,Undirected,5
+吳領軍,馮阿三,Undirected,4
+吳領軍,石清風 石清露,Undirected,3
+吳領軍,李傀儡,Undirected,3
+吳領軍,菊劍,Undirected,1
+薛慕華,虛竹,Undirected,11
+薛慕華,段譽,Undirected,1
+薛慕華,王語嫣,Undirected,2
+薛慕華,慕容複 南慕容,Undirected,2
+薛慕華,鄧百川,Undirected,5
+薛慕華,公冶乾,Undirected,2
+薛慕華,包不同,Undirected,3
+薛慕華,風波惡,Undirected,2
+薛慕華,鳩摩智,Undirected,1
+薛慕華,蘇星河,Undirected,7
+薛慕華,丁春秋 星宿老怪 星宿派掌門人,Undirected,30
+薛慕華,段延慶 惡貫滿盈,Undirected,1
+薛慕華,葉二娘 無惡不作,Undirected,1
+薛慕華,岳老三 南海鱷神,Undirected,1
+薛慕華,游坦之 鐵頭人 莊聚賢,Undirected,4
+薛慕華,玄難,Undirected,11
+薛慕華,慧淨,Undirected,3
+薛慕華,慧鏡,Undirected,2
+薛慕華,游驥,Undirected,1
+薛慕華,游駒,Undirected,1
+薛慕華,康廣陵,Undirected,15
+薛慕華,范百齡,Undirected,3
+薛慕華,苟讀,Undirected,3
+薛慕華,吳領軍,Undirected,5
+薛慕華,馮阿三,Undirected,7
+薛慕華,石清風 石清露,Undirected,3
+薛慕華,李傀儡,Undirected,5
+薛慕華,梅劍,Undirected,1
+薛慕華,菊劍,Undirected,3
+馮阿三,虛竹,Undirected,2
+馮阿三,鄧百川,Undirected,1
+馮阿三,公冶乾,Undirected,1
+馮阿三,包不同,Undirected,1
+馮阿三,風波惡,Undirected,1
+馮阿三,蘇星河,Undirected,1
+馮阿三,丁春秋 星宿老怪 星宿派掌門人,Undirected,4
+馮阿三,玄難,Undirected,3
+馮阿三,康廣陵,Undirected,6
+馮阿三,范百齡,Undirected,1
+馮阿三,苟讀,Undirected,3
+馮阿三,吳領軍,Undirected,4
+馮阿三,薛慕華,Undirected,7
+馮阿三,石清風 石清露,Undirected,3
+馮阿三,李傀儡,Undirected,4
+馮阿三,菊劍,Undirected,1
+石清風 石清露,虛竹,Undirected,1
+石清風 石清露,蘇星河,Undirected,2
+石清風 石清露,丁春秋 星宿老怪 星宿派掌門人,Undirected,2
+石清風 石清露,康廣陵,Undirected,3
+石清風 石清露,范百齡,Undirected,1
+石清風 石清露,苟讀,Undirected,3
+石清風 石清露,吳領軍,Undirected,3
+石清風 石清露,薛慕華,Undirected,3
+石清風 石清露,馮阿三,Undirected,3
+石清風 石清露,李傀儡,Undirected,3
+石清風 石清露,菊劍,Undirected,1
+李傀儡,虛竹,Undirected,1
+李傀儡,鄧百川,Undirected,1
+李傀儡,包不同,Undirected,3
+李傀儡,風波惡,Undirected,1
+李傀儡,蘇星河,Undirected,1
+李傀儡,丁春秋 星宿老怪 星宿派掌門人,Undirected,6
+李傀儡,玄難,Undirected,2
+李傀儡,康廣陵,Undirected,4
+李傀儡,范百齡,Undirected,2
+李傀儡,苟讀,Undirected,3
+李傀儡,吳領軍,Undirected,3
+李傀儡,薛慕華,Undirected,5
+李傀儡,馮阿三,Undirected,4
+李傀儡,石清風 石清露,Undirected,3
+李傀儡,菊劍,Undirected,1
+符聖使,巴天石 司空,Undirected,2
+符聖使,天山童姥,Undirected,1
+符聖使,辛雙清,Undirected,1
+符聖使,光豪 干光豪,Undirected,1
+符聖使,葛光佩,Undirected,1
+符聖使,郁光標 鬱游標,Undirected,3
+符聖使,吳光勝,Undirected,3
+符聖使,司空玄,Undirected,2
+余婆,虛竹,Undirected,10
+余婆,李秋水,Undirected,1
+余婆,石嫂,Undirected,8
+余婆,符敏儀,Undirected,4
+余婆,蘭劍,Undirected,1
+余婆,菊劍,Undirected,1
+余婆,烏老大,Undirected,1
+余婆,夢姑,Undirected,1
+石嫂,虛竹,Undirected,8
+石嫂,李秋水,Undirected,1
+石嫂,余婆,Undirected,8
+石嫂,符敏儀,Undirected,4
+石嫂,蘭劍,Undirected,1
+石嫂,菊劍,Undirected,1
+石嫂,夢姑,Undirected,1
+符敏儀,虛竹,Undirected,6
+符敏儀,喬三槐,Undirected,1
+符敏儀,余婆,Undirected,4
+符敏儀,石嫂,Undirected,4
+符敏儀,梅劍,Undirected,1
+程青霜,虛竹,Undirected,2
+珠崖大怪,虛竹,Undirected,3
+珠崖大怪,卓不凡,Undirected,2
+珠崖大怪,區島主,Undirected,1
+珠崖二怪,虛竹,Undirected,1
+梅劍,﻿喬峰 蕭峰,Undirected,3
+梅劍,虛竹,Undirected,17
+梅劍,段譽,Undirected,5
+梅劍,王語嫣,Undirected,1
+梅劍,木婉清,Undirected,2
+梅劍,段正淳 鎮南王,Undirected,2
+梅劍,巴天石 司空,Undirected,3
+梅劍,華赫艮 華司徒,Undirected,1
+梅劍,朱丹臣,Undirected,1
+梅劍,鳩摩智,Undirected,1
+梅劍,丁春秋 星宿老怪 星宿派掌門人,Undirected,2
+梅劍,段延慶 惡貫滿盈,Undirected,1
+梅劍,左子穆,Undirected,1
+梅劍,玄慚,Undirected,2
+梅劍,玄愧,Undirected,2
+梅劍,玄念,Undirected,1
+梅劍,玄淨,Undirected,3
+梅劍,緣根,Undirected,1
+梅劍,喬三槐,Undirected,1
+梅劍,薛慕華,Undirected,1
+梅劍,符敏儀,Undirected,1
+梅劍,蘭劍,Undirected,13
+梅劍,竹劍,Undirected,8
+梅劍,菊劍,Undirected,10
+梅劍,哈大霸,Undirected,1
+梅劍,夢姑,Undirected,1
+蘭劍,﻿喬峰 蕭峰,Undirected,1
+蘭劍,虛竹,Undirected,16
+蘭劍,段譽,Undirected,4
+蘭劍,阿紫,Undirected,1
+蘭劍,木婉清,Undirected,2
+蘭劍,巴天石 司空,Undirected,1
+蘭劍,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+蘭劍,玄愧,Undirected,1
+蘭劍,玄淨,Undirected,1
+蘭劍,緣根,Undirected,2
+蘭劍,余婆,Undirected,1
+蘭劍,石嫂,Undirected,1
+蘭劍,梅劍,Undirected,13
+蘭劍,竹劍,Undirected,13
+蘭劍,菊劍,Undirected,11
+蘭劍,哈大霸,Undirected,1
+蘭劍,夢姑,Undirected,1
+竹劍,虛竹,Undirected,7
+竹劍,段譽,Undirected,1
+竹劍,王語嫣,Undirected,1
+竹劍,巴天石 司空,Undirected,1
+竹劍,玄慈 帶頭大哥,Undirected,1
+竹劍,玄愧,Undirected,1
+竹劍,玄淨,Undirected,1
+竹劍,緣根,Undirected,1
+竹劍,梅劍,Undirected,8
+竹劍,蘭劍,Undirected,13
+竹劍,菊劍,Undirected,9
+竹劍,哈大霸,Undirected,1
+竹劍,夢姑,Undirected,1
+菊劍,虛竹,Undirected,15
+菊劍,段譽,Undirected,2
+菊劍,阿碧,Undirected,2
+菊劍,王語嫣,Undirected,2
+菊劍,段正淳 鎮南王,Undirected,1
+菊劍,巴天石 司空,Undirected,1
+菊劍,鳩摩智,Undirected,2
+菊劍,丁春秋 星宿老怪 星宿派掌門人,Undirected,4
+菊劍,玄慈 帶頭大哥,Undirected,1
+菊劍,玄慚,Undirected,2
+菊劍,玄愧,Undirected,2
+菊劍,玄念,Undirected,1
+菊劍,玄淨,Undirected,3
+菊劍,康廣陵,Undirected,2
+菊劍,苟讀,Undirected,1
+菊劍,吳領軍,Undirected,1
+菊劍,薛慕華,Undirected,3
+菊劍,馮阿三,Undirected,1
+菊劍,石清風 石清露,Undirected,1
+菊劍,李傀儡,Undirected,1
+菊劍,余婆,Undirected,1
+菊劍,石嫂,Undirected,1
+菊劍,梅劍,Undirected,10
+菊劍,蘭劍,Undirected,11
+菊劍,竹劍,Undirected,9
+菊劍,哈大霸,Undirected,2
+菊劍,夢姑,Undirected,1
+桑土公,虛竹,Undirected,2
+桑土公,段譽,Undirected,2
+桑土公,王語嫣,Undirected,3
+桑土公,慕容複 南慕容,Undirected,18
+桑土公,鄧百川,Undirected,5
+桑土公,公冶乾,Undirected,4
+桑土公,包不同,Undirected,10
+桑土公,風波惡,Undirected,2
+桑土公,李秋水,Undirected,1
+桑土公,玄黃子,Undirected,1
+桑土公,章達夫,Undirected,1
+桑土公,烏老大,Undirected,8
+桑土公,不平道人,Undirected,3
+桑土公,欽島主,Undirected,1
+桑土公,霍洞主,Undirected,1
+桑土公,安洞主,Undirected,1
+玄黃子,慕容複 南慕容,Undirected,1
+玄黃子,桑土公,Undirected,1
+玄黃子,章達夫,Undirected,1
+章達夫,慕容複 南慕容,Undirected,1
+章達夫,桑土公,Undirected,1
+章達夫,玄黃子,Undirected,1
+端木元,王語嫣,Undirected,2
+端木元,慕容複 南慕容,Undirected,1
+端木元,黎夫人,Undirected,2
+黎夫人,王語嫣,Undirected,3
+黎夫人,慕容複 南慕容,Undirected,1
+黎夫人,端木元,Undirected,2
+烏老大,虛竹,Undirected,67
+烏老大,段譽,Undirected,25
+烏老大,阿紫,Undirected,3
+烏老大,王語嫣,Undirected,13
+烏老大,慕容複 南慕容,Undirected,26
+烏老大,鄧百川,Undirected,4
+烏老大,包不同,Undirected,7
+烏老大,風波惡,Undirected,1
+烏老大,無崖子,Undirected,3
+烏老大,天山童姥,Undirected,17
+烏老大,李秋水,Undirected,4
+烏老大,蘇星河,Undirected,1
+烏老大,丁春秋 星宿老怪 星宿派掌門人,Undirected,3
+烏老大,慧方,Undirected,1
+烏老大,余婆,Undirected,1
+烏老大,桑土公,Undirected,8
+烏老大,不平道人,Undirected,29
+烏老大,欽島主,Undirected,4
+烏老大,霍洞主,Undirected,2
+烏老大,司馬島主,Undirected,1
+烏老大,安洞主,Undirected,9
+烏老大,九翼道人,Undirected,9
+烏老大,區島主,Undirected,2
+烏老大,哈大霸,Undirected,2
+不平道人,虛竹,Undirected,14
+不平道人,段譽,Undirected,9
+不平道人,王語嫣,Undirected,4
+不平道人,慕容複 南慕容,Undirected,12
+不平道人,鄧百川,Undirected,3
+不平道人,公冶乾,Undirected,1
+不平道人,包不同,Undirected,2
+不平道人,風波惡,Undirected,1
+不平道人,無崖子,Undirected,1
+不平道人,天山童姥,Undirected,5
+不平道人,蘇星河,Undirected,1
+不平道人,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+不平道人,桑土公,Undirected,3
+不平道人,烏老大,Undirected,29
+不平道人,崔綠華,Undirected,2
+不平道人,卓不凡,Undirected,3
+不平道人,欽島主,Undirected,1
+不平道人,霍洞主,Undirected,1
+不平道人,安洞主,Undirected,4
+不平道人,九翼道人,Undirected,3
+崔綠華,虛竹,Undirected,7
+崔綠華,慕容複 南慕容,Undirected,1
+崔綠華,鄧百川,Undirected,1
+崔綠華,不平道人,Undirected,2
+崔綠華,卓不凡,Undirected,9
+卓不凡,虛竹,Undirected,24
+卓不凡,段譽,Undirected,4
+卓不凡,王語嫣,Undirected,6
+卓不凡,慕容複 南慕容,Undirected,3
+卓不凡,鄧百川,Undirected,1
+卓不凡,天山童姥,Undirected,1
+卓不凡,辛雙清,Undirected,1
+卓不凡,珠崖大怪,Undirected,2
+卓不凡,不平道人,Undirected,3
+卓不凡,崔綠華,Undirected,9
+卓不凡,區島主,Undirected,1
+欽島主,包不同,Undirected,1
+欽島主,桑土公,Undirected,1
+欽島主,烏老大,Undirected,4
+欽島主,不平道人,Undirected,1
+欽島主,霍洞主,Undirected,2
+欽島主,安洞主,Undirected,3
+欽島主,九翼道人,Undirected,1
+霍洞主,桑土公,Undirected,1
+霍洞主,烏老大,Undirected,2
+霍洞主,不平道人,Undirected,1
+霍洞主,欽島主,Undirected,2
+霍洞主,安洞主,Undirected,1
+司馬島主,烏老大,Undirected,1
+安洞主,虛竹,Undirected,1
+安洞主,段譽,Undirected,1
+安洞主,王語嫣,Undirected,1
+安洞主,慕容複 南慕容,Undirected,3
+安洞主,鄧百川,Undirected,1
+安洞主,包不同,Undirected,1
+安洞主,桑土公,Undirected,1
+安洞主,烏老大,Undirected,9
+安洞主,不平道人,Undirected,4
+安洞主,欽島主,Undirected,3
+安洞主,霍洞主,Undirected,1
+安洞主,九翼道人,Undirected,2
+九翼道人,王語嫣,Undirected,4
+九翼道人,慕容複 南慕容,Undirected,3
+九翼道人,包不同,Undirected,2
+九翼道人,天山童姥,Undirected,1
+九翼道人,烏老大,Undirected,9
+九翼道人,不平道人,Undirected,3
+九翼道人,欽島主,Undirected,1
+九翼道人,安洞主,Undirected,2
+區島主,虛竹,Undirected,1
+區島主,天山童姥,Undirected,1
+區島主,珠崖大怪,Undirected,1
+區島主,烏老大,Undirected,2
+區島主,卓不凡,Undirected,1
+雲島主,虛竹,Undirected,1
+哈大霸,虛竹,Undirected,8
+哈大霸,慕容複 南慕容,Undirected,1
+哈大霸,包不同,Undirected,2
+哈大霸,梅劍,Undirected,1
+哈大霸,蘭劍,Undirected,1
+哈大霸,竹劍,Undirected,1
+哈大霸,菊劍,Undirected,2
+哈大霸,烏老大,Undirected,2
+獅吼子,﻿喬峰 蕭峰,Undirected,1
+獅吼子,阿紫,Undirected,1
+獅吼子,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+獅吼子,摘星子,Undirected,1
+獅吼子,天狼子,Undirected,1
+出塵子,﻿喬峰 蕭峰,Undirected,8
+出塵子,阿紫,Undirected,2
+出塵子,摘星子,Undirected,11
+摘星子,﻿喬峰 蕭峰,Undirected,15
+摘星子,阿朱,Undirected,1
+摘星子,阿紫,Undirected,34
+摘星子,巴天石 司空,Undirected,1
+摘星子,慕容複 南慕容,Undirected,3
+摘星子,丁春秋 星宿老怪 星宿派掌門人,Undirected,3
+摘星子,雲中鶴 窮凶極惡,Undirected,1
+摘星子,獅吼子,Undirected,1
+摘星子,出塵子,Undirected,11
+天狼子,﻿喬峰 蕭峰,Undirected,1
+天狼子,阿紫,Undirected,2
+天狼子,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+天狼子,游坦之 鐵頭人 莊聚賢,Undirected,1
+天狼子,全冠清,Undirected,3
+天狼子,獅吼子,Undirected,1
+耶律洪基 耶律基,﻿喬峰 蕭峰,Undirected,87
+耶律洪基 耶律基,虛竹,Undirected,8
+耶律洪基 耶律基,段譽,Undirected,7
+耶律洪基 耶律基,阿紫,Undirected,19
+耶律洪基 耶律基,巴天石 司空,Undirected,1
+耶律洪基 耶律基,游坦之 鐵頭人 莊聚賢,Undirected,1
+耶律洪基 耶律基,馬大元,Undirected,2
+耶律洪基 耶律基,室里 室裡,Undirected,5
+耶律洪基 耶律基,耶律涅魯古,Undirected,1
+耶律洪基 耶律基,耶律重元,Undirected,3
+耶律洪基 耶律基,耶律莫哥,Undirected,1
+耶律洪基 耶律基,完顏阿骨打,Undirected,1
+耶律洪基 耶律基,趙煦,Undirected,5
+耶律洪基 耶律基,穆貴妃,Undirected,4
+室里 室裡,﻿喬峰 蕭峰,Undirected,16
+室里 室裡,阿紫,Undirected,28
+室里 室裡,游坦之 鐵頭人 莊聚賢,Undirected,2
+室里 室裡,耶律洪基 耶律基,Undirected,5
+室里 室裡,和哩布,Undirected,1
+耶律涅魯古,馬大元,Undirected,1
+耶律涅魯古,耶律洪基 耶律基,Undirected,1
+耶律涅魯古,耶律重元,Undirected,2
+耶律重元,馬大元,Undirected,1
+耶律重元,耶律洪基 耶律基,Undirected,3
+耶律重元,耶律涅魯古,Undirected,2
+耶律莫哥,﻿喬峰 蕭峰,Undirected,6
+耶律莫哥,阿紫,Undirected,1
+耶律莫哥,耶律洪基 耶律基,Undirected,1
+夢姑,虛竹,Undirected,9
+夢姑,段譽,Undirected,2
+夢姑,阿紫,Undirected,1
+夢姑,李秋水,Undirected,1
+夢姑,余婆,Undirected,1
+夢姑,石嫂,Undirected,1
+夢姑,梅劍,Undirected,1
+夢姑,蘭劍,Undirected,1
+夢姑,竹劍,Undirected,1
+夢姑,菊劍,Undirected,1
+赫連鐵樹,﻿喬峰 蕭峰,Undirected,1
+赫連鐵樹,段譽,Undirected,8
+赫連鐵樹,阿朱,Undirected,4
+赫連鐵樹,王語嫣,Undirected,1
+赫連鐵樹,木婉清,Undirected,2
+赫連鐵樹,慕容複 南慕容,Undirected,5
+赫連鐵樹,段延慶 惡貫滿盈,Undirected,4
+赫連鐵樹,葉二娘 無惡不作,Undirected,1
+赫連鐵樹,岳老三 南海鱷神,Undirected,4
+赫連鐵樹,雲中鶴 窮凶極惡,Undirected,3
+赫連鐵樹,奚山河 奚長老,Undirected,1
+赫連鐵樹,白世鏡,Undirected,2
+赫連鐵樹,徐沖霄 徐長老,Undirected,1
+赫連鐵樹,努兒海,Undirected,4
+努兒海,段譽,Undirected,5
+努兒海,阿朱,Undirected,2
+努兒海,王語嫣,Undirected,3
+努兒海,葉二娘 無惡不作,Undirected,1
+努兒海,岳老三 南海鱷神,Undirected,1
+努兒海,雲中鶴 窮凶極惡,Undirected,2
+努兒海,奚山河 奚長老,Undirected,1
+努兒海,宋長老,Undirected,1
+努兒海,徐沖霄 徐長老,Undirected,3
+努兒海,赫連鐵樹,Undirected,4
+金二哥,段譽,Undirected,1
+王通治,﻿喬峰 蕭峰,Undirected,3
+王通治,阿紫,Undirected,3
+完顏阿骨打,﻿喬峰 蕭峰,Undirected,7
+完顏阿骨打,阿紫,Undirected,2
+完顏阿骨打,玄渡 杜老先生,Undirected,1
+完顏阿骨打,耶律洪基 耶律基,Undirected,1
+完顏阿骨打,和哩布,Undirected,1
+完顏阿骨打,許卓誠,Undirected,1
+和哩布,﻿喬峰 蕭峰,Undirected,2
+和哩布,室里 室裡,Undirected,1
+和哩布,完顏阿骨打,Undirected,1
+和哩布,許卓誠,Undirected,1
+許卓誠,﻿喬峰 蕭峰,Undirected,2
+許卓誠,完顏阿骨打,Undirected,1
+許卓誠,和哩布,Undirected,1
+神山上人,虛竹,Undirected,4
+神山上人,慕容複 南慕容,Undirected,1
+神山上人,慕容博,Undirected,1
+神山上人,鳩摩智,Undirected,6
+神山上人,蕭遠山,Undirected,1
+神山上人,靈門,Undirected,1
+神山上人,玄慈 帶頭大哥,Undirected,10
+神山上人,玄生,Undirected,4
+神山上人,玄淨,Undirected,2
+神山上人,玄寂,Undirected,1
+神山上人,玄滅,Undirected,2
+神山上人,觀心大師 觀心,Undirected,2
+神山上人,道清大師 道清,Undirected,2
+神山上人,融智大師 融智,Undirected,1
+神山上人,哲羅星,Undirected,8
+神山上人,波羅星,Undirected,7
+觀心大師 觀心,虛竹,Undirected,1
+觀心大師 觀心,慕容博,Undirected,1
+觀心大師 觀心,鳩摩智,Undirected,4
+觀心大師 觀心,蕭遠山,Undirected,1
+觀心大師 觀心,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+觀心大師 觀心,玄慈 帶頭大哥,Undirected,9
+觀心大師 觀心,玄生,Undirected,2
+觀心大師 觀心,玄渡 杜老先生,Undirected,1
+觀心大師 觀心,玄淨,Undirected,1
+觀心大師 觀心,玄寂,Undirected,2
+觀心大師 觀心,玄滅,Undirected,1
+觀心大師 觀心,神山上人,Undirected,2
+觀心大師 觀心,道清大師 道清,Undirected,10
+觀心大師 觀心,覺賢大師 覺賢,Undirected,6
+觀心大師 觀心,融智大師 融智,Undirected,8
+觀心大師 觀心,神音大師 神音,Undirected,3
+觀心大師 觀心,哲羅星,Undirected,7
+觀心大師 觀心,波羅星,Undirected,3
+道清大師 道清,﻿喬峰 蕭峰,Undirected,2
+道清大師 道清,虛竹,Undirected,4
+道清大師 道清,段譽,Undirected,1
+道清大師 道清,慕容複 南慕容,Undirected,1
+道清大師 道清,慕容博,Undirected,2
+道清大師 道清,鳩摩智,Undirected,3
+道清大師 道清,蕭遠山,Undirected,2
+道清大師 道清,丁春秋 星宿老怪 星宿派掌門人,Undirected,1
+道清大師 道清,玄慈 帶頭大哥,Undirected,8
+道清大師 道清,玄生,Undirected,4
+道清大師 道清,玄淨,Undirected,1
+道清大師 道清,玄寂,Undirected,3
+道清大師 道清,玄澄 十三絕神僧,Undirected,1
+道清大師 道清,玄滅,Undirected,3
+道清大師 道清,神山上人,Undirected,2
+道清大師 道清,觀心大師 觀心,Undirected,10
+道清大師 道清,覺賢大師 覺賢,Undirected,7
+道清大師 道清,融智大師 融智,Undirected,8
+道清大師 道清,神音大師 神音,Undirected,3
+道清大師 道清,哲羅星,Undirected,4
+道清大師 道清,波羅星,Undirected,5
+覺賢大師 覺賢,虛竹,Undirected,1
+覺賢大師 覺賢,鳩摩智,Undirected,1
+覺賢大師 覺賢,玄慈 帶頭大哥,Undirected,3
+覺賢大師 覺賢,玄寂,Undirected,1
+覺賢大師 覺賢,觀心大師 觀心,Undirected,6
+覺賢大師 覺賢,道清大師 道清,Undirected,7
+覺賢大師 覺賢,融智大師 融智,Undirected,6
+覺賢大師 覺賢,神音大師 神音,Undirected,3
+覺賢大師 覺賢,哲羅星,Undirected,1
+融智大師 融智,玄慈 帶頭大哥,Undirected,6
+融智大師 融智,神山上人,Undirected,1
+融智大師 融智,觀心大師 觀心,Undirected,8
+融智大師 融智,道清大師 道清,Undirected,8
+融智大師 融智,覺賢大師 覺賢,Undirected,6
+融智大師 融智,神音大師 神音,Undirected,3
+融智大師 融智,哲羅星,Undirected,1
+融智大師 融智,波羅星,Undirected,1
+神音大師 神音,玄慈 帶頭大哥,Undirected,1
+神音大師 神音,觀心大師 觀心,Undirected,3
+神音大師 神音,道清大師 道清,Undirected,3
+神音大師 神音,覺賢大師 覺賢,Undirected,3
+神音大師 神音,融智大師 融智,Undirected,3
+神音大師 神音,哲羅星,Undirected,3
+哲羅星,﻿喬峰 蕭峰,Undirected,2
+哲羅星,虛竹,Undirected,6
+哲羅星,段譽,Undirected,1
+哲羅星,慕容複 南慕容,Undirected,1
+哲羅星,慕容博,Undirected,2
+哲羅星,鳩摩智,Undirected,12
+哲羅星,蕭遠山,Undirected,2
+哲羅星,雲中鶴 窮凶極惡,Undirected,1
+哲羅星,玄慈 帶頭大哥,Undirected,12
+哲羅星,玄生,Undirected,8
+哲羅星,玄渡 杜老先生,Undirected,1
+哲羅星,玄淨,Undirected,2
+哲羅星,玄寂,Undirected,4
+哲羅星,玄滅,Undirected,1
+哲羅星,神山上人,Undirected,8
+哲羅星,觀心大師 觀心,Undirected,7
+哲羅星,道清大師 道清,Undirected,4
+哲羅星,覺賢大師 覺賢,Undirected,1
+哲羅星,融智大師 融智,Undirected,1
+哲羅星,神音大師 神音,Undirected,3
+哲羅星,波羅星,Undirected,18
+波羅星,﻿喬峰 蕭峰,Undirected,2
+波羅星,虛竹,Undirected,5
+波羅星,段譽,Undirected,1
+波羅星,慕容複 南慕容,Undirected,2
+波羅星,慕容博,Undirected,2
+波羅星,鳩摩智,Undirected,9
+波羅星,蕭遠山,Undirected,2
+波羅星,游坦之 鐵頭人 莊聚賢,Undirected,1
+波羅星,玄慈 帶頭大哥,Undirected,14
+波羅星,玄慚,Undirected,3
+波羅星,玄生,Undirected,8
+波羅星,玄淨,Undirected,1
+波羅星,玄寂,Undirected,7
+波羅星,玄澄 十三絕神僧,Undirected,1
+波羅星,玄滅,Undirected,2
+波羅星,慧輪,Undirected,1
+波羅星,神山上人,Undirected,7
+波羅星,觀心大師 觀心,Undirected,3
+波羅星,道清大師 道清,Undirected,5
+波羅星,融智大師 融智,Undirected,1
+波羅星,哲羅星,Undirected,18
+諸葛中,玄生,Undirected,1
+宗贊,虛竹,Undirected,1
+宗贊,段譽,Undirected,8
+宗贊,王語嫣,Undirected,1
+宗贊,木婉清,Undirected,1
+宗贊,巴天石 司空,Undirected,3
+宗贊,朱丹臣,Undirected,2
+宗贊,慕容複 南慕容,Undirected,2
+宗贊,包不同,Undirected,3
+太皇太后高氏,段譽,Undirected,1
+太皇太后高氏,段正明 本塵,Undirected,1
+太皇太后高氏,趙煦,Undirected,1
+趙煦,﻿喬峰 蕭峰,Undirected,2
+趙煦,段譽,Undirected,1
+趙煦,段正明 本塵,Undirected,1
+趙煦,耶律洪基 耶律基,Undirected,5
+趙煦,太皇太后高氏,Undirected,1
+趙煦,范祖禹,Undirected,3
+趙煦,蘇轍,Undirected,6
+趙煦,范純仁 範純仁,Undirected,2
+范祖禹,趙煦,Undirected,3
+蘇轍,趙煦,Undirected,6
+蘇轍,范純仁 範純仁,Undirected,2
+范純仁 範純仁,趙煦,Undirected,2
+范純仁 範純仁,蘇轍,Undirected,2
+穆貴妃,﻿喬峰 蕭峰,Undirected,2
+穆貴妃,阿紫,Undirected,11
+穆貴妃,耶律洪基 耶律基,Undirected,4
+張將軍,﻿喬峰 蕭峰,Undirected,2
+張將軍,阿紫,Undirected,1
+張將軍,玄渡 杜老先生,Undirected,1

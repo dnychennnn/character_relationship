@@ -1,0 +1,13 @@
+再將link整理成以下的樣子，也存成csv檔
+
+Source	Target	Type	Weight
+710	695.4	Undirected	0.13657
+583	695.4	Undirected	0.152506
+581	695.4	Undirected	0.082445
+447	695.4	Undirected	0.07672
+349	695.4	Undirected	0.057103
+283	695.4	Undirected	0.081157
+599	427.2	Undirected	0.095217
+593	427.2	Undirected	0.061665
+584	427.2	Undirected	0.060247
+source是第一個疾病 Target是第二個疾病，type表示他們之間是沒有誰導向誰的無向關係 wight是疾病間的共患性
